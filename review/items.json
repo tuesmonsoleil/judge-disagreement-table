@@ -447,27 +447,23 @@
     ],
     "characters": [
      {
+      "name": "Man",
       "role": "lead",
-      "emotion": [
-       "serious",
-       "suspense"
-      ],
-      "fraction_of_window": 1.0,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 1,
-       "arousal": 2
-      },
-      "visual": {
-       "valence": 1,
-       "arousal": 2
-      },
-      "language": {
-       "valence": 1,
-       "arousal": 2
-      }
+      "audio": [
+       "嚴肅"
+      ],
+      "visual": [
+       "緊張",
+       "錯愕"
+      ],
+      "language": [
+       "嚴肅"
+      ]
      }
-    ]
+    ],
+    "emo_scale": "grid"
    }
   },
   {
@@ -567,24 +563,55 @@
     ],
     "characters": [
      {
+      "name": "Pamela Landy",
       "role": "lead",
-      "emotion": "serious",
-      "fraction_of_window": 1.0,
+      "fraction_of_window": 0.25,
       "speaking": "yes",
-      "audio": {
-       "valence": 1,
-       "arousal": 2
-      },
-      "visual": {
-       "valence": 1,
-       "arousal": 1
-      },
-      "language": {
-       "valence": 1,
-       "arousal": 2
-      }
+      "audio": [
+       "緊張"
+      ],
+      "visual": [
+       "緊繃"
+      ],
+      "language": [
+       "緊繃",
+       "嚴肅"
+      ]
+     },
+     {
+      "name": "Jason Bourne",
+      "role": "lead",
+      "fraction_of_window": 0.38,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "U"
+      ]
+     },
+     {
+      "name": "Noah Vosen",
+      "role": "supporting",
+      "fraction_of_window": 0.38,
+      "speaking": "yes",
+      "audio": [
+       "生氣"
+      ],
+      "visual": [
+       "生氣",
+       "煩躁"
+      ],
+      "language": [
+       "生氣",
+       "煩躁"
+      ]
      }
-    ]
+    ],
+    "emo_scale": "grid"
    }
   },
   {
@@ -664,42 +691,82 @@
     ],
     "characters": [
      {
+      "name": "Man sitting",
       "role": "lead",
-      "emotion": "serious",
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 1,
-       "arousal": 2
-      },
-      "visual": {
-       "valence": 1,
-       "arousal": 2
-      },
-      "language": {
-       "valence": 1,
-       "arousal": 2
-      }
+      "audio": [
+       "嚴肅"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "中性"
+      ]
      },
      {
-      "role": "supporting",
-      "emotion": "neutral",
-      "fraction_of_window": 1.0,
+      "name": "Man standing left",
+      "role": "extra",
+      "fraction_of_window": 0.88,
       "speaking": "no",
-      "audio": {
-       "valence": 1,
-       "arousal": 1
-      },
-      "visual": {
-       "valence": 1,
-       "arousal": 1
-      },
-      "language": {
-       "valence": 1,
-       "arousal": 1
-      }
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "U"
+      ]
+     },
+     {
+      "name": "Man standing middle",
+      "role": "extra",
+      "fraction_of_window": 0.88,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "U"
+      ]
+     },
+     {
+      "name": "Woman sitting",
+      "role": "supporting",
+      "fraction_of_window": 0.88,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "U"
+      ]
+     },
+     {
+      "name": "Woman standing right",
+      "role": "extra",
+      "fraction_of_window": 0.88,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "U"
+      ]
      }
-    ]
+    ],
+    "emo_scale": "grid"
    }
   },
   {
@@ -1439,47 +1506,40 @@
     ],
     "characters": [
      {
+      "name": "Banker (Mr. Perkins)",
       "role": "lead",
-      "emotion": [
-       "annoyed"
-      ],
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 1,
-       "arousal": 1
-      },
-      "visual": {
-       "valence": 1,
-       "arousal": 1
-      },
-      "language": {
-       "valence": 1,
-       "arousal": 1
-      }
+      "audio": [
+       "嚴肅"
+      ],
+      "visual": [
+       "不滿",
+       "煩躁"
+      ],
+      "language": [
+       "不滿",
+       "煩躁"
+      ]
      },
      {
+      "name": "Gru",
       "role": "supporting",
-      "emotion": [
-       "focused",
-       "neutral"
-      ],
       "fraction_of_window": 1.0,
       "speaking": "no",
-      "audio": {
-       "valence": 1,
-       "arousal": 1
-      },
-      "visual": {
-       "valence": 1,
-       "arousal": 1
-      },
-      "language": {
-       "valence": 1,
-       "arousal": 1
-      }
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "平靜",
+       "放鬆"
+      ],
+      "language": [
+       "U"
+      ]
      }
-    ]
+    ],
+    "emo_scale": "grid"
    }
   },
   {
@@ -2289,61 +2349,65 @@
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": "calm",
-      "fraction_of_window": 0.8,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 2,
-       "arousal": 1
-      },
-      "visual": {
-       "valence": 2,
-       "arousal": 1
-      },
-      "language": {
-       "valence": 2,
-       "arousal": 1
-      }
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "好玩"
+      ],
+      "language": [
+       "平靜"
+      ]
      },
      {
       "name": "MRSGUMP",
       "role": "supporting",
-      "emotion": "neutral",
       "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 2,
-       "arousal": 1
-      },
-      "visual": {
-       "valence": 2,
-       "arousal": 1
-      },
-      "language": {
-       "valence": 2,
-       "arousal": 1
-      }
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "平靜"
+      ]
      },
      {
       "name": "ELVISPRESLEY",
       "role": "supporting",
-      "emotion": "confident",
-      "fraction_of_window": 0.3,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 2,
-       "arousal": 2
-      },
-      "visual": {
-       "valence": 2,
-       "arousal": 2
-      },
-      "language": {
-       "valence": 2,
-       "arousal": 2
-      }
+      "audio": [
+       "開心"
+      ],
+      "visual": [
+       "開心"
+      ],
+      "language": [
+       "開心"
+      ]
+     },
+     {
+      "name": "FORRESTVO",
+      "role": "lead",
+      "fraction_of_window": 0.0,
+      "speaking": "yes",
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "U"
+      ],
+      "language": [
+       "平靜"
+      ]
      }
-    ]
+    ],
+    "emo_scale": "grid"
    }
   },
   {

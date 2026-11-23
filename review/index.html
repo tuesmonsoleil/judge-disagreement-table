@@ -263,7 +263,7 @@ function reviewChars(R){const it=itemOf(cur),g=((it.gemini||{}).characters)||[];
  const h=el('h4','','角色與情緒');h.append(el('span','st'+(fieldOk('characters',fd)?' ok':''),fieldOk('characters',fd)?'✓':'未評'));c.append(h);
  c.append(el('p','hint','逐一評分 Gemini 列出的角色；有遺漏的角色請按「＋ 新增 Gemini 遺漏的角色」。'));
  if(!g.length){c.append(el('div','gem','Gemini：沒有列出任何角色'));c.append(scoreRow(fd,v=>{fd.score=fd.score===v?undefined:v;save();renderForm()}))}
- g.forEach((x,i)=>{const d=el('div','row');const GP=w=>{for(let r=0;r<6;r++){const c=GRID[r].indexOf(w);if(c>=0){const A=[-3,-2,-1,1,2,3],f=n=>(n>0?'+':'')+n;return `${w}（愉悅${f(A[c])}／活力${f(-A[r])}）`}}return w==='U'?'無法判斷':w==='中性'?'中性（0／0）':w};
+ g.forEach((x,i)=>{const d=el('div','row');const GP=w=>{for(let r=0;r<6;r++){const c=GRID[r].indexOf(w);if(c>=0){const A=[-3,-2,-1,1,2,3],f=n=>(n>0?'+':'')+n;return `${w}（愉悅${f(A[c])}／活力${f(-A[r])}）`}}return w==='U'?'無法判斷':w==='中性'?'中性（0／0）':w+'（非格內詞）';return w==='U'?'無法判斷':w==='中性'?'中性（0／0）':w};
   const va=['audio','visual','language'].map(ch=>Array.isArray(x[ch])?`${({audio:'聲音',visual:'畫面',language:'語言'})[ch]}：${x[ch].map(GP).join('、')}`:'').filter(Boolean).join('；');
   d.append(el('div','gem',`#${i+1} ${x.name?x.name+'｜':''}${({lead:'主角',supporting:'配角',extra:'路人'})[x.role]||x.role}｜出現 ${x.fraction_of_window??'?'}｜說話：${x.speaking==='yes'?'是':'否'}${va?'｜'+va:''}`));
   const s={score:(fd.scores||[])[i]};d.append(scoreRow(s,v=>{fd.scores=fd.scores||[];fd.scores[i]=fd.scores[i]===v?undefined:v;save();renderForm()}));c.append(d)});
