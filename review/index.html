@@ -263,8 +263,9 @@ function reviewChars(R){const it=itemOf(cur),g=((it.gemini||{}).characters)||[];
  const h=el('h4','','角色與情緒');h.append(el('span','st'+(fieldOk('characters',fd)?' ok':''),fieldOk('characters',fd)?'✓':'未評'));c.append(h);
  c.append(el('p','hint','逐一評分 Gemini 列出的角色；有遺漏的角色請按「＋ 新增 Gemini 遺漏的角色」。'));
  if(!g.length){c.append(el('div','gem','Gemini：沒有列出任何角色'));c.append(scoreRow(fd,v=>{fd.score=fd.score===v?undefined:v;save();renderForm()}))}
- g.forEach((x,i)=>{const d=el('div','row');const va=['audio','visual','language'].map(ch=>x[ch]?`${({audio:'聲音',visual:'畫面',language:'語言'})[ch]} 愉悅${x[ch].valence}/喚起${x[ch].arousal}`:'').filter(Boolean).join('；');
-  d.append(el('div','gem',`#${i+1} ${x.name?x.name+'｜':''}${({lead:'主角',supporting:'配角',extra:'路人'})[x.role]||x.role}｜情緒：${GEMO[x.emotion]||x.emotion}｜出現 ${x.fraction_of_window??'?'}｜說話：${x.speaking==='yes'?'是':'否'}${va?'｜'+va+(it.gemini.emo_scale===10?'（0–10；愉悅 0 極負向、5 中性、10 極正向；U＝無法判斷）':'（0–3）'):''}`));
+ g.forEach((x,i)=>{const d=el('div','row');const GP=w=>{for(let r=0;r<6;r++){const c=GRID[r].indexOf(w);if(c>=0){const A=[-3,-2,-1,1,2,3],f=n=>(n>0?'+':'')+n;return `${w}（愉悅${f(A[c])}／活力${f(-A[r])}）`}}return w==='U'?'無法判斷':w==='中性'?'中性（0／0）':w};
+  const va=['audio','visual','language'].map(ch=>Array.isArray(x[ch])?`${({audio:'聲音',visual:'畫面',language:'語言'})[ch]}：${x[ch].map(GP).join('、')}`:'').filter(Boolean).join('；');
+  d.append(el('div','gem',`#${i+1} ${x.name?x.name+'｜':''}${({lead:'主角',supporting:'配角',extra:'路人'})[x.role]||x.role}｜出現 ${x.fraction_of_window??'?'}｜說話：${x.speaking==='yes'?'是':'否'}${va?'｜'+va:''}`));
   const s={score:(fd.scores||[])[i]};d.append(scoreRow(s,v=>{fd.scores=fd.scores||[];fd.scores[i]=fd.scores[i]===v?undefined:v;save();renderForm()}));c.append(d)});
  (fd.added||[]).forEach((r,i)=>{const d=el('div','row'+(rowOk('added',r)?'':' miss'));const x=el('button','btn del','✕');x.onclick=()=>{fd.added.splice(i,1);save();renderForm()};d.append(el('b','',`新增 #${i+1}`),x);drawChar(d,r,()=>{save();renderForm()});c.append(d)});
  const a=el('button','btn add','＋ 新增 Gemini 遺漏的角色');a.onclick=()=>{fd.added=fd.added||[];fd.added.push({});save();renderForm()};c.append(a);c.append(freeBox(fd));return c}

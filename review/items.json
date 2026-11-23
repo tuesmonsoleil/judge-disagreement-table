@@ -447,26 +447,27 @@
     ],
     "characters": [
      {
-      "name": "Man with glasses",
       "role": "lead",
-      "emotion": "suspense",
-      "fraction_of_window": 0.6,
+      "emotion": [
+       "serious",
+       "suspense"
+      ],
+      "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": {
-       "valence": 4,
-       "arousal": 5
+       "valence": 1,
+       "arousal": 2
       },
       "visual": {
-       "valence": 4,
-       "arousal": 6
+       "valence": 1,
+       "arousal": 2
       },
       "language": {
-       "valence": 4,
-       "arousal": 5
+       "valence": 1,
+       "arousal": 2
       }
      }
-    ],
-    "emo_scale": 10
+    ]
    }
   },
   {
@@ -509,24 +510,21 @@
      {
       "name": "Man",
       "role": "lead",
-      "emotion": "tense",
       "fraction_of_window": 1.0,
       "speaking": "no",
-      "audio": {
-       "valence": 3,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 8
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
+      "audio": [
+       "緊張"
+      ],
+      "visual": [
+       "緊張",
+       "害怕"
+      ],
+      "language": [
+       "U"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -569,64 +567,24 @@
     ],
     "characters": [
      {
-      "name": "Jason Bourne",
       "role": "lead",
       "emotion": "serious",
-      "fraction_of_window": 0.45,
-      "speaking": "no",
-      "audio": {
-       "valence": 4,
-       "arousal": 6
-      },
-      "visual": {
-       "valence": 4,
-       "arousal": 5
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
-     },
-     {
-      "name": "Man in suit (speaker)",
-      "role": "supporting",
-      "emotion": "serious",
-      "fraction_of_window": 0.35,
+      "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": {
-       "valence": 4,
-       "arousal": 6
+       "valence": 1,
+       "arousal": 2
       },
       "visual": {
-       "valence": 4,
-       "arousal": 5
+       "valence": 1,
+       "arousal": 1
       },
       "language": {
-       "valence": 4,
-       "arousal": 6
-      }
-     },
-     {
-      "name": "Female official (Pamela Landy)",
-      "role": "supporting",
-      "emotion": "focused",
-      "fraction_of_window": 0.3,
-      "speaking": "yes",
-      "audio": {
-       "valence": 4,
-       "arousal": 5
-      },
-      "visual": {
-       "valence": 4,
-       "arousal": 4
-      },
-      "language": {
-       "valence": 4,
-       "arousal": 5
+       "valence": 1,
+       "arousal": 2
       }
      }
-    ],
-    "emo_scale": 10
+    ]
    }
   },
   {
@@ -665,7 +623,7 @@
      "none"
     ],
     "characters": [],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -706,102 +664,42 @@
     ],
     "characters": [
      {
-      "name": "Al Harrison",
       "role": "lead",
       "emotion": "serious",
       "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": {
-       "valence": 4,
-       "arousal": 5
+       "valence": 1,
+       "arousal": 2
       },
       "visual": {
-       "valence": 4,
-       "arousal": 6
+       "valence": 1,
+       "arousal": 2
       },
       "language": {
-       "valence": 4,
-       "arousal": 5
+       "valence": 1,
+       "arousal": 2
       }
      },
      {
-      "name": "Katherine Goble",
-      "role": "lead",
-      "emotion": "focused",
-      "fraction_of_window": 0.8,
-      "speaking": "no",
-      "audio": {
-       "valence": "U",
-       "arousal": "U"
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 3
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
-     },
-     {
-      "name": "Paul Stafford",
       "role": "supporting",
-      "emotion": "serious",
-      "fraction_of_window": 0.8,
+      "emotion": "neutral",
+      "fraction_of_window": 1.0,
       "speaking": "no",
       "audio": {
-       "valence": "U",
-       "arousal": "U"
+       "valence": 1,
+       "arousal": 1
       },
       "visual": {
-       "valence": 4,
-       "arousal": 3
+       "valence": 1,
+       "arousal": 1
       },
       "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
-     },
-     {
-      "name": "Male colleague standing",
-      "role": "extra",
-      "emotion": "serious",
-      "fraction_of_window": 0.8,
-      "speaking": "no",
-      "audio": {
-       "valence": "U",
-       "arousal": "U"
-      },
-      "visual": {
-       "valence": 4,
-       "arousal": 2
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
-     },
-     {
-      "name": "Female colleague with folder",
-      "role": "extra",
-      "emotion": "serious",
-      "fraction_of_window": 0.8,
-      "speaking": "no",
-      "audio": {
-       "valence": "U",
-       "arousal": "U"
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 2
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
+       "valence": 1,
+       "arousal": 1
       }
      }
-    ],
-    "emo_scale": 10
+    ]
    }
   },
   {
@@ -843,45 +741,55 @@
     ],
     "characters": [
      {
-      "name": "White manager",
-      "role": "supporting",
-      "emotion": "serious",
-      "fraction_of_window": 1.0,
+      "name": "White Male Manager",
+      "role": "lead",
+      "fraction_of_window": 0.8,
       "speaking": "no",
-      "audio": {
-       "valence": 3,
-       "arousal": 7
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 6
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
+      "audio": [
+       "中性"
+      ],
+      "visual": [
+       "生氣",
+       "煩躁"
+      ],
+      "language": [
+       "U"
+      ]
      },
      {
-      "name": "Group of women",
-      "role": "supporting",
-      "emotion": "surprise",
-      "fraction_of_window": 1.0,
+      "name": "Black Female Employee (Mary Jackson)",
+      "role": "lead",
+      "fraction_of_window": 0.9,
       "speaking": "no",
-      "audio": {
-       "valence": 3,
-       "arousal": 7
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 6
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
+      "audio": [
+       "中性"
+      ],
+      "visual": [
+       "緊繃",
+       "錯愕"
+      ],
+      "language": [
+       "U"
+      ]
+     },
+     {
+      "name": "Black Female Employee (Dorothy Vaughan)",
+      "role": "lead",
+      "fraction_of_window": 0.8,
+      "speaking": "no",
+      "audio": [
+       "中性"
+      ],
+      "visual": [
+       "緊繃",
+       "困擾"
+      ],
+      "language": [
+       "U"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -923,45 +831,37 @@
     ],
     "characters": [
      {
-      "name": "Woman taking notes",
-      "role": "supporting",
-      "emotion": "focused",
+      "name": "Katherine Johnson",
+      "role": "lead",
       "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 6,
-       "arousal": 4
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 3
-      },
-      "language": {
-       "valence": 6,
-       "arousal": 3
-      }
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "平靜"
+      ]
      },
      {
-      "name": "Man presenting",
+      "name": "Paul Stafford",
       "role": "lead",
-      "emotion": "serious",
       "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 5
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 4
-      }
+      "audio": [
+       "有動力"
+      ],
+      "visual": [
+       "有動力"
+      ],
+      "language": [
+       "有動力"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1006,43 +906,38 @@
      {
       "name": "Woman",
       "role": "supporting",
-      "emotion": "calm",
-      "fraction_of_window": 1.0,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 3
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 3
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 3
-      }
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "平靜"
+      ]
      },
      {
       "name": "Man",
       "role": "lead",
-      "emotion": "suspense",
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 6,
-       "arousal": 5
-      },
-      "visual": {
-       "valence": 6,
-       "arousal": 4
-      },
-      "language": {
-       "valence": 6,
-       "arousal": 5
-      }
+      "audio": [
+       "興奮",
+       "錯愕"
+      ],
+      "visual": [
+       "開心",
+       "興奮"
+      ],
+      "language": [
+       "興奮",
+       "錯愕"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1085,45 +980,37 @@
     ],
     "characters": [
      {
-      "name": "Man in Blue Polo",
+      "name": "Jordan Belfort",
       "role": "lead",
-      "emotion": "sad",
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 3,
-       "arousal": 3
-      },
-      "visual": {
-       "valence": 4,
-       "arousal": 3
-      },
-      "language": {
-       "valence": 2,
-       "arousal": 3
-      }
+      "audio": [
+       "疲累"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "疲累"
+      ]
      },
      {
-      "name": "Man in Suit",
-      "role": "supporting",
-      "emotion": "neutral",
+      "name": "Donnie Azoff",
+      "role": "lead",
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 4,
-       "arousal": 4
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 4
-      }
+      "audio": [
+       "中性"
+      ],
+      "visual": [
+       "中性"
+      ],
+      "language": [
+       "中性"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1167,43 +1054,35 @@
      {
       "name": "Jordan Belfort",
       "role": "lead",
-      "emotion": "focused",
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 6,
-       "arousal": 5
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "language": {
-       "valence": 6,
-       "arousal": 5
-      }
+      "audio": [
+       "興奮"
+      ],
+      "visual": [
+       "緊繃"
+      ],
+      "language": [
+       "興奮"
+      ]
      },
      {
-      "name": "Colleague",
+      "name": "Donnie Azoff",
       "role": "supporting",
-      "emotion": "calm",
       "fraction_of_window": 1.0,
       "speaking": "no",
-      "audio": {
-       "valence": 5,
-       "arousal": 3
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 3
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 3
-      }
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "U"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1242,7 +1121,7 @@
      "none"
     ],
     "characters": [],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1288,81 +1167,21 @@
      {
       "name": "Gru",
       "role": "lead",
-      "emotion": "annoyed",
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 4,
-       "arousal": 3
-      },
-      "visual": {
-       "valence": 4,
-       "arousal": 3
-      },
-      "language": {
-       "valence": 3,
-       "arousal": 3
-      }
-     },
-     {
-      "name": "Margo",
-      "role": "supporting",
-      "emotion": "calm",
-      "fraction_of_window": 0.5,
-      "speaking": "no",
-      "audio": {
-       "valence": 5,
-       "arousal": 2
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 2
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 2
-      }
-     },
-     {
-      "name": "Edith",
-      "role": "supporting",
-      "emotion": "calm",
-      "fraction_of_window": 0.5,
-      "speaking": "no",
-      "audio": {
-       "valence": 5,
-       "arousal": 2
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 2
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 2
-      }
-     },
-     {
-      "name": "Agnes",
-      "role": "supporting",
-      "emotion": "joy_warm",
-      "fraction_of_window": 0.5,
-      "speaking": "no",
-      "audio": {
-       "valence": 6,
-       "arousal": 3
-      },
-      "visual": {
-       "valence": 7,
-       "arousal": 3
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 2
-      }
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "失望",
+       "無聊"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1406,43 +1225,35 @@
      {
       "name": "Gru",
       "role": "lead",
-      "emotion": "lonely_melancholy",
       "fraction_of_window": 1.0,
       "speaking": "no",
-      "audio": {
-       "valence": 4,
-       "arousal": 2
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 2
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "沮喪"
+      ],
+      "language": [
+       "U"
+      ]
      },
      {
       "name": "Minions",
       "role": "supporting",
-      "emotion": "focused",
       "fraction_of_window": 0.3,
       "speaking": "no",
-      "audio": {
-       "valence": 4,
-       "arousal": 2
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "有動力"
+      ],
+      "language": [
+       "U"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1484,26 +1295,20 @@
      {
       "name": "NA",
       "role": "lead",
-      "emotion": [
-       "surprise"
-      ],
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": "U",
-       "arousal": "U"
-      },
-      "visual": {
-       "valence": "U",
-       "arousal": "U"
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 6
-      }
+      "audio": [
+       "緊張"
+      ],
+      "visual": [
+       "U"
+      ],
+      "language": [
+       "緊張"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1548,24 +1353,50 @@
      {
       "name": "Gru",
       "role": "lead",
-      "emotion": "exciting",
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 8,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 7,
-       "arousal": 7
-      },
-      "language": {
-       "valence": 8,
-       "arousal": 8
-      }
+      "audio": [
+       "興奮"
+      ],
+      "visual": [
+       "有動力"
+      ],
+      "language": [
+       "興奮"
+      ]
+     },
+     {
+      "name": "Vector",
+      "role": "supporting",
+      "fraction_of_window": 0.4,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "緊張"
+      ],
+      "language": [
+       "U"
+      ]
+     },
+     {
+      "name": "Neighbor",
+      "role": "extra",
+      "fraction_of_window": 0.25,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "錯愕"
+      ],
+      "language": [
+       "U"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1608,45 +1439,47 @@
     ],
     "characters": [
      {
-      "name": "Banker (Mr. Perkins)",
       "role": "lead",
-      "emotion": "annoyed",
+      "emotion": [
+       "annoyed"
+      ],
       "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": {
-       "valence": 3,
-       "arousal": 6
+       "valence": 1,
+       "arousal": 1
       },
       "visual": {
-       "valence": 3,
-       "arousal": 5
+       "valence": 1,
+       "arousal": 1
       },
       "language": {
-       "valence": 3,
-       "arousal": 5
+       "valence": 1,
+       "arousal": 1
       }
      },
      {
-      "name": "Gru",
-      "role": "lead",
-      "emotion": "serious",
+      "role": "supporting",
+      "emotion": [
+       "focused",
+       "neutral"
+      ],
       "fraction_of_window": 1.0,
       "speaking": "no",
       "audio": {
-       "valence": "U",
-       "arousal": "U"
+       "valence": 1,
+       "arousal": 1
       },
       "visual": {
-       "valence": 4,
-       "arousal": 2
+       "valence": 1,
+       "arousal": 1
       },
       "language": {
-       "valence": "U",
-       "arousal": "U"
+       "valence": 1,
+       "arousal": 1
       }
      }
-    ],
-    "emo_scale": 10
+    ]
    }
   },
   {
@@ -1692,62 +1525,38 @@
      {
       "name": "Gru",
       "role": "lead",
-      "emotion": "fear",
+      "fraction_of_window": 0.4,
+      "speaking": "yes",
+      "audio": [
+       "緊張",
+       "焦慮"
+      ],
+      "visual": [
+       "緊張",
+       "緊繃"
+      ],
+      "language": [
+       "緊張"
+      ]
+     },
+     {
+      "name": "Minions",
+      "role": "supporting",
       "fraction_of_window": 0.3,
       "speaking": "yes",
-      "audio": {
-       "valence": 4,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 8
-      },
-      "language": {
-       "valence": 3,
-       "arousal": 8
-      }
-     },
-     {
-      "name": "Minion 1",
-      "role": "extra",
-      "emotion": "fear",
-      "fraction_of_window": 0.3,
-      "speaking": "no",
-      "audio": {
-       "valence": 4,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 8
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
-     },
-     {
-      "name": "Minion 2",
-      "role": "extra",
-      "emotion": "fear",
-      "fraction_of_window": 0.3,
-      "speaking": "no",
-      "audio": {
-       "valence": 4,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 8
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
+      "audio": [
+       "害怕"
+      ],
+      "visual": [
+       "害怕",
+       "緊繃"
+      ],
+      "language": [
+       "U"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1788,83 +1597,67 @@
     "nonverbal_emotion_sounds": [],
     "characters": [
      {
-      "name": "dmh",
-      "role": "lead",
-      "emotion": "funny",
-      "fraction_of_window": 1.0,
-      "speaking": "yes",
-      "audio": {
-       "valence": 4,
-       "arousal": 6
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 6
-      },
-      "language": {
-       "valence": 4,
-       "arousal": 5
-      }
-     },
-     {
-      "name": "Edith",
+      "name": "dmh_S42",
       "role": "supporting",
-      "emotion": "anger",
-      "fraction_of_window": 0.5,
-      "speaking": "yes",
-      "audio": {
-       "valence": 2,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 2,
-       "arousal": 7
-      },
-      "language": {
-       "valence": 2,
-       "arousal": 7
-      }
-     },
-     {
-      "name": "Agnes",
-      "role": "supporting",
-      "emotion": "sad",
-      "fraction_of_window": 0.5,
-      "speaking": "yes",
-      "audio": {
-       "valence": 2,
-       "arousal": 6
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 4
-      },
-      "language": {
-       "valence": 3,
-       "arousal": 5
-      }
-     },
-     {
-      "name": "Miss Hattie",
-      "role": "supporting",
-      "emotion": "neutral",
       "fraction_of_window": 0.8,
+      "speaking": "yes",
+      "audio": [
+       "愉悅"
+      ],
+      "visual": [
+       "愉悅"
+      ],
+      "language": [
+       "愉悅"
+      ]
+     },
+     {
+      "name": "dmh_S02",
+      "role": "extra",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
+      "audio": [
+       "生氣"
+      ],
+      "visual": [
+       "生氣"
+      ],
+      "language": [
+       "生氣"
+      ]
+     },
+     {
+      "name": "dmh_S49",
+      "role": "extra",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
+      "audio": [
+       "生氣"
+      ],
+      "visual": [
+       "生氣"
+      ],
+      "language": [
+       "生氣"
+      ]
+     },
+     {
+      "name": "dmh_S39",
+      "role": "extra",
+      "fraction_of_window": 0.3,
       "speaking": "no",
-      "audio": {
-       "valence": 5,
-       "arousal": 5
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "中性"
+      ],
+      "language": [
+       "U"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1907,45 +1700,37 @@
     ],
     "characters": [
      {
-      "name": "Bank Manager",
+      "name": "Banker",
       "role": "supporting",
-      "emotion": "annoyed",
       "fraction_of_window": 0.5,
-      "speaking": "no",
-      "audio": {
-       "valence": 4,
-       "arousal": 6
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 5
-      },
-      "language": {
-       "valence": 4,
-       "arousal": 5
-      }
+      "speaking": "yes",
+      "audio": [
+       "緊張"
+      ],
+      "visual": [
+       "生氣"
+      ],
+      "language": [
+       "生氣"
+      ]
      },
      {
       "name": "Gru",
       "role": "lead",
-      "emotion": "serious",
       "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 3,
-       "arousal": 5
-      },
-      "visual": {
-       "valence": 4,
-       "arousal": 4
-      },
-      "language": {
-       "valence": 3,
-       "arousal": 5
-      }
+      "audio": [
+       "錯愕"
+      ],
+      "visual": [
+       "錯愕"
+      ],
+      "language": [
+       "錯愕"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -1995,71 +1780,50 @@
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": [
-       "fear",
-       "tense"
-      ],
-      "fraction_of_window": 1.0,
+      "fraction_of_window": 0.5,
       "speaking": "no",
-      "audio": {
-       "valence": 3,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 8
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 0
-      }
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "中性"
+      ],
+      "language": [
+       "U"
+      ]
      },
      {
       "name": "JENNY",
-      "role": "lead",
-      "emotion": [
-       "fear",
-       "confident"
-      ],
-      "fraction_of_window": 1.0,
+      "role": "supporting",
+      "fraction_of_window": 0.3,
       "speaking": "yes",
-      "audio": {
-       "valence": 4,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 4,
-       "arousal": 8
-      },
-      "language": {
-       "valence": 4,
-       "arousal": 8
-      }
+      "audio": [
+       "生氣"
+      ],
+      "visual": [
+       "生氣"
+      ],
+      "language": [
+       "生氣"
+      ]
      },
      {
       "name": "OLDERBOYS",
-      "role": "supporting",
-      "emotion": [
-       "anger",
-       "annoyed"
-      ],
-      "fraction_of_window": 1.0,
+      "role": "extra",
+      "fraction_of_window": 0.3,
       "speaking": "yes",
-      "audio": {
-       "valence": 2,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 2,
-       "arousal": 8
-      },
-      "language": {
-       "valence": 2,
-       "arousal": 8
-      }
+      "audio": [
+       "生氣"
+      ],
+      "visual": [
+       "生氣"
+      ],
+      "language": [
+       "生氣"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -2107,69 +1871,50 @@
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": [
-       "focused",
-       "calm"
-      ],
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 6,
-       "arousal": 4
-      },
-      "visual": {
-       "valence": "U",
-       "arousal": "U"
-      },
-      "language": {
-       "valence": 6,
-       "arousal": 4
-      }
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "平靜"
+      ]
      },
      {
       "name": "MRSBLUE",
       "role": "supporting",
-      "emotion": [
-       "annoyed"
-      ],
-      "fraction_of_window": 0.2,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 4,
-       "arousal": 5
-      },
-      "visual": {
-       "valence": "U",
-       "arousal": "U"
-      },
-      "language": {
-       "valence": 4,
-       "arousal": 5
-      }
+      "audio": [
+       "生氣"
+      ],
+      "visual": [
+       "生氣"
+      ],
+      "language": [
+       "生氣"
+      ]
      },
      {
       "name": "OLDMAN",
-      "role": "supporting",
-      "emotion": [
-       "suspense"
-      ],
-      "fraction_of_window": 0.1,
+      "role": "extra",
+      "fraction_of_window": 0.3,
       "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "visual": {
-       "valence": "U",
-       "arousal": "U"
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 4
-      }
+      "audio": [
+       "錯愕"
+      ],
+      "visual": [
+       "錯愕"
+      ],
+      "language": [
+       "錯愕"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -2218,62 +1963,50 @@
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": "focused",
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 7,
-       "arousal": 4
-      },
-      "visual": {
-       "valence": 6,
-       "arousal": 3
-      },
-      "language": {
-       "valence": 7,
-       "arousal": 4
-      }
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "快樂"
+      ]
      },
      {
-      "name": "MAN IN SAVANNAH",
+      "name": "MAN",
       "role": "supporting",
-      "emotion": "funny",
-      "fraction_of_window": 0.6,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 6
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 5
-      },
-      "language": {
-       "valence": 4,
-       "arousal": 5
-      }
+      "audio": [
+       "興奮"
+      ],
+      "visual": [
+       "錯愕"
+      ],
+      "language": [
+       "好玩"
+      ]
      },
      {
-      "name": "ELDERLY WOMAN",
+      "name": "OLDWOMAN",
       "role": "supporting",
-      "emotion": "joy_warm",
-      "fraction_of_window": 0.4,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 8,
-       "arousal": 4
-      },
-      "visual": {
-       "valence": 7,
-       "arousal": 3
-      },
-      "language": {
-       "valence": 8,
-       "arousal": 4
-      }
+      "audio": [
+       "開心"
+      ],
+      "visual": [
+       "舒適"
+      ],
+      "language": [
+       "開心"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -2319,51 +2052,37 @@
     "social_level_0_10": 4,
     "characters": [
      {
-      "name": "FORREST",
+      "name": "FORRESTVO",
       "role": "lead",
-      "emotion": [
-       "neutral",
-       "calm"
-      ],
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 3
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 3
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 2
-      }
+      "audio": [
+       "中性"
+      ],
+      "visual": [
+       "中性"
+      ],
+      "language": [
+       "中性"
+      ]
      },
      {
       "name": "MAN",
       "role": "supporting",
-      "emotion": [
-       "annoyed",
-       "confident"
-      ],
-      "fraction_of_window": 0.8,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 4
-      }
+      "audio": [
+       "有動力"
+      ],
+      "visual": [
+       "有動力"
+      ],
+      "language": [
+       "有動力"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -2411,49 +2130,38 @@
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": [
-       "neutral",
-       "calm"
+      "fraction_of_window": 0.5,
+      "speaking": true,
+      "audio": [
+       "平靜"
       ],
-      "fraction_of_window": 1.0,
-      "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 3
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 2
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 3
-      }
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "平靜"
+      ]
      },
      {
       "name": "AGING HIPPIE",
       "role": "supporting",
-      "emotion": [
-       "exciting",
-       "surprise"
+      "fraction_of_window": 0.5,
+      "speaking": true,
+      "audio": [
+       "興奮",
+       "有動力"
       ],
-      "fraction_of_window": 0.9,
-      "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 5
-      },
-      "visual": {
-       "valence": "U",
-       "arousal": "U"
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 5
-      }
+      "visual": [
+       "錯愕",
+       "煩躁"
+      ],
+      "language": [
+       "興奮",
+       "有動力"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -2500,49 +2208,40 @@
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": [
-       "fear",
-       "tense"
-      ],
-      "fraction_of_window": 0.8,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 3,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 8
-      },
-      "language": {
-       "valence": 3,
-       "arousal": 6
-      }
+      "audio": [
+       "緊張",
+       "焦慮"
+      ],
+      "visual": [
+       "緊張",
+       "焦慮"
+      ],
+      "language": [
+       "緊張",
+       "焦慮"
+      ]
      },
      {
       "name": "DAN",
       "role": "lead",
-      "emotion": [
-       "exciting",
-       "confident"
-      ],
-      "fraction_of_window": 0.6,
+      "fraction_of_window": 0.5,
       "speaking": "no",
-      "audio": {
-       "valence": 5,
-       "arousal": 8
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 9
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
+      "audio": [
+       "興奮",
+       "有動力"
+      ],
+      "visual": [
+       "興奮",
+       "有動力"
+      ],
+      "language": [
+       "U"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -2590,81 +2289,61 @@
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": "joy_warm",
-      "fraction_of_window": 1.0,
-      "speaking": "no",
-      "audio": {
-       "valence": 5,
-       "arousal": 3
-      },
-      "visual": {
-       "valence": 6,
-       "arousal": 4
-      },
-      "language": {
-       "valence": "U",
-       "arousal": "U"
-      }
-     },
-     {
-      "name": "FORRESTVO",
-      "role": "lead",
       "emotion": "calm",
-      "fraction_of_window": 1.0,
+      "fraction_of_window": 0.8,
       "speaking": "yes",
       "audio": {
-       "valence": 6,
-       "arousal": 3
+       "valence": 2,
+       "arousal": 1
       },
       "visual": {
-       "valence": "U",
-       "arousal": "U"
+       "valence": 2,
+       "arousal": 1
       },
       "language": {
-       "valence": 6,
-       "arousal": 3
+       "valence": 2,
+       "arousal": 1
       }
      },
      {
       "name": "MRSGUMP",
       "role": "supporting",
       "emotion": "neutral",
-      "fraction_of_window": 0.8,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
       "audio": {
-       "valence": 5,
-       "arousal": 4
+       "valence": 2,
+       "arousal": 1
       },
       "visual": {
-       "valence": 5,
-       "arousal": 4
+       "valence": 2,
+       "arousal": 1
       },
       "language": {
-       "valence": 5,
-       "arousal": 4
+       "valence": 2,
+       "arousal": 1
       }
      },
      {
       "name": "ELVISPRESLEY",
       "role": "supporting",
-      "emotion": "calm",
-      "fraction_of_window": 0.4,
+      "emotion": "confident",
+      "fraction_of_window": 0.3,
       "speaking": "yes",
       "audio": {
-       "valence": 7,
-       "arousal": 4
+       "valence": 2,
+       "arousal": 2
       },
       "visual": {
-       "valence": 7,
-       "arousal": 5
+       "valence": 2,
+       "arousal": 2
       },
       "language": {
-       "valence": 7,
-       "arousal": 4
+       "valence": 2,
+       "arousal": 2
       }
      }
-    ],
-    "emo_scale": 10
+    ]
    }
   },
   {
@@ -2712,43 +2391,35 @@
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": "joy_warm",
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 7,
-       "arousal": 6
-      },
-      "visual": {
-       "valence": 7,
-       "arousal": 6
-      },
-      "language": {
-       "valence": 7,
-       "arousal": 5
-      }
+      "audio": [
+       "快樂"
+      ],
+      "visual": [
+       "興奮"
+      ],
+      "language": [
+       "開心"
+      ]
      },
      {
       "name": "LT. DAN",
       "role": "lead",
-      "emotion": "joy_warm",
-      "fraction_of_window": 0.8,
+      "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 7,
-       "arousal": 6
-      },
-      "visual": {
-       "valence": 7,
-       "arousal": 5
-      },
-      "language": {
-       "valence": 7,
-       "arousal": 5
-      }
+      "audio": [
+       "平和"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "開心"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -2798,90 +2469,65 @@
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": [
-       "focused"
-      ],
       "fraction_of_window": 1.0,
       "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 5
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 6
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 4
-      }
+      "audio": [
+       "興奮"
+      ],
+      "visual": [
+       "有動力"
+      ],
+      "language": [
+       "平靜"
+      ]
      },
      {
       "name": "JENNY",
-      "role": "lead",
-      "emotion": [
-       "fear",
-       "tense"
-      ],
-      "fraction_of_window": 0.6,
+      "role": "supporting",
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 4,
-       "arousal": 6
-      },
-      "visual": {
-       "valence": 4,
-       "arousal": 6
-      },
-      "language": {
-       "valence": 3,
-       "arousal": 6
-      }
+      "audio": [
+       "緊張"
+      ],
+      "visual": [
+       "緊張"
+      ],
+      "language": [
+       "害怕"
+      ]
      },
      {
       "name": "JENNYSDAD",
       "role": "supporting",
-      "emotion": [
-       "anger"
-      ],
-      "fraction_of_window": 0.4,
+      "fraction_of_window": 0.3,
       "speaking": "yes",
-      "audio": {
-       "valence": 2,
-       "arousal": 7
-      },
-      "visual": {
-       "valence": 3,
-       "arousal": 7
-      },
-      "language": {
-       "valence": 2,
-       "arousal": 7
-      }
+      "audio": [
+       "生氣"
+      ],
+      "visual": [
+       "生氣"
+      ],
+      "language": [
+       "生氣"
+      ]
      },
      {
       "name": "MAN",
       "role": "extra",
-      "emotion": [
-       "surprise"
-      ],
-      "fraction_of_window": 0.1,
+      "fraction_of_window": 0.2,
       "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 4
-      }
+      "audio": [
+       "錯愕"
+      ],
+      "visual": [
+       "錯愕"
+      ],
+      "language": [
+       "錯愕"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   },
   {
@@ -2929,49 +2575,35 @@
      {
       "name": "LT. DAN",
       "role": "lead",
-      "emotion": [
-       "serious",
-       "focused"
-      ],
-      "fraction_of_window": 1.0,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 6
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 5
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 6
-      }
+      "audio": [
+       "緊張"
+      ],
+      "visual": [
+       "中性"
+      ],
+      "language": [
+       "有動力"
+      ]
      },
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": [
-       "confused",
-       "neutral"
-      ],
-      "fraction_of_window": 1.0,
+      "fraction_of_window": 0.5,
       "speaking": "yes",
-      "audio": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "visual": {
-       "valence": 5,
-       "arousal": 4
-      },
-      "language": {
-       "valence": 5,
-       "arousal": 4
-      }
+      "audio": [
+       "錯愕"
+      ],
+      "visual": [
+       "困擾"
+      ],
+      "language": [
+       "挫折"
+      ]
      }
     ],
-    "emo_scale": 10
+    "emo_scale": "grid"
    }
   }
  ]
