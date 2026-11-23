@@ -1,1 +1,2977 @@
-{"films": [{"film": "bourne", "name": "神鬼認證：神鬼疑雲（Bourne）", "wids": ["bourne_p1_336", "bourne_p2_266", "bourne_p4_91", "bourne_p9_168"]}, {"film": "figures", "name": "關鍵少數（Hidden Figures）", "wids": ["figures_p2_399", "figures_p5_161", "figures_p7_112", "figures_p8_301"]}, {"film": "wolf", "name": "華爾街之狼（Wolf of Wall Street）", "wids": ["wolf_p11_273", "wolf_p16_70", "wolf_p2_301", "wolf_p4_322"]}, {"film": "dme", "name": "神偷奶爸（英語版 dme）", "wids": ["new_dme_120.75", "new_dme_404.25", "new_dme_425.25", "old_dme_546.0"]}, {"film": "dmh", "name": "神偷奶爸（匈牙利語版 dmh）", "wids": ["new_dmh_330.75", "new_dmh_509.25", "old_dmh_31.5", "old_dmh_357.0"]}, {"film": "tp", "name": "禮物（The Present）", "wids": ["new_tp_68.25", "new_tp_89.25", "old_tp_126.0", "old_tp_94.5"]}, {"film": "forrest", "name": "阿甘正傳（Forrest Gump，德語，無影像）", "wids": ["365", "426", "475", "517", "536", "597", "631", "634", "643"]}], "windows": [{"wid": "bourne_p1_336", "dataset": "M10", "film": "bourne", "media": "media/bourne_p1_336.mp4", "text": "men in Russia. After consolidating drilling rights in the Caspian Sea and gaining control of one of the.", "time": "第1段 500.6–511.1 秒", "label": "片段 01"}, {"wid": "bourne_p2_266", "dataset": "M10", "film": "bourne", "media": "media/bourne_p2_266.mp4", "text": "（無台詞）", "time": "第2段 396.3–406.8 秒", "label": "片段 02"}, {"wid": "bourne_p4_91", "dataset": "M10", "film": "bourne", "media": "media/bourne_p4_91.mp4", "text": "gonna call me back in 30. And when I ask you where we stand, I had better be impressed. Berlin? I already have a team in place", "time": "第4段 135.6–146.0 秒", "label": "片段 03"}, {"wid": "bourne_p9_168", "dataset": "M10", "film": "bourne", "media": "media/bourne_p9_168.mp4", "text": "（無台詞）", "time": "第9段 250.3–260.8 秒", "label": "片段 04"}, {"wid": "figures_p2_399", "dataset": "M10", "film": "figures", "media": "media/figures_p2_399.mp4", "text": "（無台詞）", "time": "第2段 594.5–604.9 秒", "label": "片段 05"}, {"wid": "figures_p5_161", "dataset": "M10", "film": "figures", "media": "media/figures_p5_161.mp4", "text": "rocket? That's not math. That data's not here. Like he said, it's classified.", "time": "第5段 239.9–250.3 秒", "label": "片段 06"}, {"wid": "figures_p7_112", "dataset": "M10", "film": "figures", "media": "media/figures_p7_112.mp4", "text": "（無台詞）", "time": "第7段 166.9–177.3 秒", "label": "片段 07"}, {"wid": "figures_p8_301", "dataset": "M10", "film": "figures", "media": "media/figures_p8_301.mp4", "text": "our calculations over. Yes. So we need to be able to choose this reentry point. This go", "time": "第8段 448.5–458.9 秒", "label": "片段 08"}, {"wid": "wolf_p11_273", "dataset": "M10", "film": "wolf", "media": "media/wolf_p11_273.mp4", "text": "and let go. To release the tension? She is hitting on me. Holy shit. To release the", "time": "第11段 406.8–417.2 秒", "label": "片段 09"}, {"wid": "wolf_p16_70", "dataset": "M10", "film": "wolf", "media": "media/wolf_p16_70.mp4", "text": "How you doing, brother? You know, shitty, pal, but I'm hanging in there. Hmm.", "time": "第16段 104.3–114.7 秒", "label": "片段 10"}, {"wid": "wolf_p2_301", "dataset": "M10", "film": "wolf", "media": "media/wolf_p2_301.mp4", "text": "Yeah. Very hot stock right now. Yeah. Yeah. They're just a couple of brothers that are making radar detectors out of their garage. They're out of Dubuque. Maybe it's microwaves, I'm not sure. But you call the company's main line, their mom, Dorothy, answers,", "time": "第2段 448.5–458.9 秒", "label": "片段 11"}, {"wid": "wolf_p4_322", "dataset": "M10", "film": "wolf", "media": "media/wolf_p4_322.mp4", "text": "（無台詞）", "time": "第4段 479.8–490.2 秒", "label": "片段 12"}, {"wid": "new_dme_120.75", "dataset": "NV", "film": "dme", "media": "media/new_dme_120.75.mp4", "text": "dme_S08: Oh, I don't like this book.\ndme_S03: This is going on forever.\ndme_S01: Three little kittens with milk all gone, rubbed their eyes and started to yawn.", "time": "120.8–131.2 秒", "label": "片段 13"}, {"wid": "new_dme_404.25", "dataset": "NV", "film": "dme", "media": "media/new_dme_404.25.mp4", "text": "（無台詞）", "time": "404.2–414.8 秒", "label": "片段 14"}, {"wid": "new_dme_425.25", "dataset": "NV", "film": "dme", "media": "media/new_dme_425.25.mp4", "text": "NA: Ah!", "time": "425.2–435.8 秒", "label": "片段 15"}, {"wid": "old_dme_546.0", "dataset": "NV", "film": "dme", "media": "media/old_dme_546.0.mp4", "text": "NA: Oh yeah!\nNA: Nice work, Doctor.\nNA: All systems go...\nNA: Booyah!", "time": "546.0–556.5 秒", "label": "片段 16"}, {"wid": "new_dmh_330.75", "dataset": "NV", "film": "dmh", "media": "media/new_dmh_330.75.mp4", "text": "dmh_S12: Úgyhogy túl kevés balnyós cselszövése hozott eddig valódi hasznot.\ndmh_S11: Hogy is mondjam,\ndmh_S11: mondjuk ez az alma maga.", "time": "330.8–341.2 秒", "label": "片段 17"}, {"wid": "new_dmh_509.25", "dataset": "NV", "film": "dmh", "media": "media/new_dmh_509.25.mp4", "text": "NA: Gyorsan!\nNA: Ne hagyjuk meglépni!", "time": "509.2–519.8 秒", "label": "片段 18"}, {"wid": "old_dmh_31.5", "dataset": "NV", "film": "dmh", "media": "media/old_dmh_31.5.mp4", "text": "dmh_S42: Lássuk csak.\ndmh_S02: Nem!\ndmh_S49: Edith!", "time": "31.5–42.0 秒", "label": "片段 19"}, {"wid": "old_dmh_357.0", "dataset": "NV", "film": "dmh", "media": "media/old_dmh_357.0.mp4", "text": "NA: Miért odakint ez a Vector nevű ficc?\nNA: Ellopta a piramist!\nNA: Értem már, értem én.", "time": "357.0–367.5 秒", "label": "片段 20"}, {"wid": "new_tp_68.25", "dataset": "NV", "film": "tp", "media": "media/new_tp_68.25.mp4", "text": "NA: Okay.\nNA: Whoa!", "time": "68.2–78.8 秒", "label": "片段 21"}, {"wid": "new_tp_89.25", "dataset": "NV", "film": "tp", "media": "media/new_tp_89.25.mp4", "text": "NA: Cool!\nNA: She's", "time": "89.2–99.8 秒", "label": "片段 22"}, {"wid": "old_tp_126.0", "dataset": "NV", "film": "tp", "media": "media/old_tp_126.0.mp4", "text": "NA: Aargh!", "time": "126.0–136.5 秒", "label": "片段 23"}, {"wid": "old_tp_94.5", "dataset": "NV", "film": "tp", "media": "media/old_tp_94.5.mp4", "text": "NA: Cool!\nNA: She's\nNA: gotta", "time": "94.5–105.0 秒", "label": "片段 24"}, {"wid": "365", "dataset": "FG", "film": "forrest", "media": null, "text": "【口述影像 AD】\nForrest öffnet das blaue Band seiner goldenen Tapferkeitsmedaille mit fünfzackigem Stern.\n\n【對白】\nFORREST: ich möchte dir ... das hier geben, Jenny.", "time": "3832.5–3843.0 秒", "label": "片段 26", "text_en": "【Audio description】\nForrest opens the blue ribbon of his golden valor medal with a five-pointed star.\n\n【Dialogue】\nFORREST (V.O.): I want to give you... this, Jenny.", "text_zh": "【口述影像】\n阿甘解開他那面帶有五角星的金質英勇勳章的藍色緞帶。\n\n【對白】\nFORREST: 我想把這個……送給你，珍妮。"}, {"wid": "426", "dataset": "FG", "film": "forrest", "media": null, "text": "【口述影像 AD】\ner rennt mit seinem Schläger zum Ausgang.\n\n【對白】\nFORREST (V.O.): einfach so\nFORREST (V.O.): also ging ich nach Haus.", "time": "4473.0–4483.5 秒", "label": "片段 27", "text_en": "【Audio description】\nhe runs with his racket to the exit.\n\n【Dialogue】\nFORREST (V.O.): just like that\nFORREST (V.O.): so I went home.", "text_zh": "【口述影像】\n他拿著球拍跑向出口。\n\n【對白】\nFORREST (V.O.): 就這樣\nFORREST (V.O.): 於是我就回家了。"}, {"wid": "475", "dataset": "FG", "film": "forrest", "media": null, "text": "【口述影像 AD】\nein Stahlhelm, ein Stiefel und ein Nummernschild fallen aufs Deck. Forrest inspiziert den Fang. Dan seilt sich auf einer Schaukel sitzend vom Mast ab.\n\n【對白】\n（無）", "time": "4987.5–4998.0 秒", "label": "片段 28", "text_en": "【Audio description】\nA steel helmet, a boot, and a license plate drop onto the deck. Forrest inspects the catch. Dan lowers himself from the mast, sitting on a swing seat.\n\n【Dialogue】\n(None)", "text_zh": "【口述影像】\n一頂鋼盔、一隻靴子和一個車牌掉落到甲板上。阿甘檢視著漁獲。丹中尉坐在盪鞦韆上，從桅杆上垂降而下。\n\n【對白】\n（無）"}, {"wid": "517", "dataset": "FG", "film": "forrest", "media": null, "text": "【口述影像 AD】\nes ist Tag. sie schläft.\n\n【對白】\nFORREST (V.O.): und sie blieb bei mir.\nFORREST (V.O.): vielleicht kam das daher, weil sie nicht wusste, wo sie sonst hingehen sollte.\nFORREST (V.O.): oder auch deshalb, weil sie so müde war.\nFORREST (V.O.): denn sie ging ins Bett und schlief und schlief.", "time": "5428.5–5439.0 秒", "label": "片段 29", "text_en": "【Audio description】\nIt is daytime. She is sleeping.\n\n【Dialogue】\nFORREST (V.O.): and she stayed with me.\nFORREST (V.O.): perhaps that was because she didn't know where else to go.\nFORREST (V.O.): or also because she was so tired.\nFORREST (V.O.): for she went to bed and slept and slept.", "text_zh": "【口述影像】\n白天。她在睡覺。\n\n【對白】\nFORREST (V.O.): 而她留了下來。\nFORREST (V.O.): vielleicht kam das daher, weil sie nicht wusste, wo sie sonst hingehen sollte.\nFORREST (V.O.): 或者也是因為她太累了。\nFORREST (V.O.): 因為她上床睡了又睡，睡個不停。"}, {"wid": "536", "dataset": "FG", "film": "forrest", "media": null, "text": "【口述影像 AD】\nsie gibt ihm einen Kuss auf den Mund. die beiden küssen sich innig. zaghaft hebt Forrest die Hände ... und schließt Jenny in seine Arme.\n\n【對白】\nJENNY: Forrest, ich liebe dich doch.", "time": "5628.0–5638.5 秒", "label": "片段 30", "text_en": "【Audio description】\nshe gives him a kiss on the mouth. the two kiss passionately. tentatively, Forrest raises his hands ... and takes Jenny into his arms.\n\n【Dialogue】\nJENNY: Forrest, ich liebe dich doch.", "text_zh": "【口述影像】\n她吻了他的嘴唇。兩人深情相吻。阿甘有些遲疑地舉起雙手……將珍妮攬入懷中。\n\n【對白】\nJENNY: Forrest, ich liebe dich doch."}, {"wid": "597", "dataset": "FG", "film": "forrest", "media": null, "text": "【口述影像 AD】\neine Frau bringt einen Jungen.\n\n【對白】\nJENNY: ... weil, äh, ...\nJENNY: ich meine, ich war, ... ich war ziemlich kaputt und ...\nJENNY: hey\nJENNY: hallo!", "time": "6268.5–6279.0 秒", "label": "片段 31", "text_en": "【Audio description】\nA woman brings a boy.\n\n【Dialogue】\nJENNY: ... because, uh, ...\nJENNY: I mean, I was, ... I was pretty messed up and ...\nJENNY: hey\nJENNY: hello!", "text_zh": "【口述影像】\n一個女人帶了一個男孩來。\n\n【對白】\nJENNY: ……因為，呃，……\nJENNY: 我的意思是，我當時，……我當時情況很糟，然後……\nJENNY: 嘿\nJENNY: 哈囉！"}, {"wid": "631", "dataset": "FG", "film": "forrest", "media": null, "text": "【口述影像 AD】\nsie öffnet die Augen. er stellt das Tablett auf ein Tischchen neben dem Bett ... und schiebt ein Fenster hoch.\n\n【對白】\nJENNY: hey\nFORREST: hey", "time": "6625.5–6636.0 秒", "label": "片段 32", "text_en": "【Audio description】\nshe opens her eyes. he puts the tray on a small table next to the bed ... and pushes a window up.\n\n【Dialogue】\nJENNY: hey\nFORREST: hey", "text_zh": "【口述影像】\n她睜開眼睛。他把托盤放在床邊的小桌子上……然後把窗戶往上推。\n\n【對白】\nJENNY: hey\nFORREST: hey"}, {"wid": "634", "dataset": "FG", "film": "forrest", "media": null, "text": "【口述影像 AD】\nForrest nachts in Vietnam er nimmt den Stahlhelm ab und sieht zu einem Wolkenloch am Himmel.\n\n【對白】\nFORREST (V.O.): manchmal hat es so lang aufgehört zu regnen, ... dass man die Sterne sehen konnte.\nFORREST (V.O.): und dann war es schön.", "time": "6657.0–6667.5 秒", "label": "片段 33", "text_en": "【Audio description】\nForrest at night in Vietnam, he takes off his steel helmet and looks up at a break in the clouds in the sky.\n\n【Dialogue】\nFORREST (V.O.): sometimes it stopped raining long enough ... for you to see the stars.\nFORREST (V.O.): and then it was nice.", "text_zh": "【口述影像】\n阿甘深夜在越南，他脫下鋼盔，望着天空中的雲洞。\n\n【對白】\nFORREST (V.O.): 有時候雨會停得夠久……讓人能看見星星。\nFORREST (V.O.): 然後那感覺很好。"}, {"wid": "643", "dataset": "FG", "film": "forrest", "media": null, "text": "【口述影像 AD】\ner schaut dabei zu.\n\n【對白】\nFORREST (V.O.): Mama\nFORREST: hat immer gesagt:", "time": "6751.5–6762.0 秒", "label": "片段 34", "text_en": "【Audio description】\nhe watches as he does so.\n\n【Dialogue】\nFORREST (V.O.): Mama\nFORREST: always said:", "text_zh": "【口述影像】\n他一邊看著。\n\n【對白】\nFORREST (V.O.): 媽媽\nFORREST: 總是說："}], "review": [{"id": "Q005", "wid": "bourne_p1_336", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "off_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q018", "wid": "bourne_p1_336", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "yes", "location_change_type": "new_place", "on_screen_text": "subtitles", "audio_present": ["dialogue", "narration", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "suspense", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q053", "wid": "bourne_p1_336", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "yes", "location_change_type": "new_place", "on_screen_text": "subtitles", "audio_present": ["dialogue", "narration", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": ["serious", "suspense"], "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q015", "wid": "bourne_p2_266", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "vehicle", "location_change": "yes", "location_change_type": "same_scene_movement", "on_screen_text": "none", "audio_present": ["music", "ambient_sfx", "near_silent"], "audio_primary": "ambient_sfx", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "impact_explosion", "music_role": "score", "music_function": ["tension", "transition"], "social_interaction": ["torso_contact"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "tense", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 3}, "language": {"valence": 1, "arousal": 0}}]}}, {"id": "Q029", "wid": "bourne_p2_266", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "vehicle", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["music", "ambient_sfx"], "audio_primary": "ambient_sfx", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "vehicle_machine", "music_role": "score", "music_function": ["tension"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": ["tense", "fear"], "fraction_of_window": 1.0, "speaking": "no", "valence": {"audio": 0, "arousal": 3}, "visual": {"valence": 1, "arousal": 3}, "language": {"valence": 0, "arousal": 0}}]}}, {"id": "Q061", "wid": "bourne_p2_266", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["none"], "max_humans_simultaneous": 0, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["near_silent"], "audio_primary": "near_silent", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "near_silent", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": []}}, {"id": "Q031", "wid": "bourne_p4_91", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 3, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "yes", "location_change_type": "new_place", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "off_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q068", "wid": "bourne_p9_168", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["none"], "max_humans_simultaneous": 0, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["near_silent"], "audio_primary": "near_silent", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "near_silent", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": []}}, {"id": "Q025", "wid": "figures_p2_399", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["none"], "max_humans_simultaneous": 0, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["near_silent"], "audio_primary": "near_silent", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "near_silent", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": []}}, {"id": "Q033", "wid": "figures_p2_399", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 6, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["ambient_sfx", "music"], "audio_primary": "music", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "music", "music_role": "score", "music_function": ["tension"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": ["focused", "serious"], "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q065", "wid": "figures_p2_399", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 6, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": [], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "focused", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q014", "wid": "figures_p5_161", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q036", "wid": "figures_p5_161", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 6, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "ambient_sfx", "music"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "valence": {"audio": 1, "arousal": 1, "language": 1}}, {"role": "supporting", "emotion": "neutral", "fraction_of_window": 1.0, "speaking": "no", "valence": {"audio": 1, "arousal": 1, "language": 1}}]}}, {"id": "Q047", "wid": "figures_p5_161", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 5, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 2}}, {"role": "supporting", "emotion": "neutral", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q057", "wid": "figures_p7_112", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 9, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "yes", "location_change_type": "new_place", "on_screen_text": "none", "audio_present": ["ambient_sfx", "music"], "audio_primary": "music", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "music", "music_role": "score", "music_function": ["tension", "transition"], "social_interaction": ["walk_together"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q032", "wid": "figures_p8_301", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 6, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["emotional_support", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": ["serious", "focused"], "fraction_of_window": 1.0, "speaking": "yes", "channels": {"audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}}]}}, {"id": "Q006", "wid": "wolf_p11_273", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "outdoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "emotional_support"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "supporting", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}, {"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q022", "wid": "wolf_p11_273", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "U", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "surprised", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 2}, "visual": {"valence": 2, "arousal": 2}, "language": {"valence": 2, "arousal": 2}}]}}, {"id": "Q052", "wid": "wolf_p11_273", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "outdoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "supporting", "emotion": ["serious", "neutral"], "fraction_of_window": 0.5, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}, {"role": "lead", "emotion": ["surprise", "funny"], "fraction_of_window": 0.5, "speaking": "yes", "audio": {"valence": 2, "arousal": 2}, "visual": {"valence": 2, "arousal": 2}, "language": {"valence": 2, "arousal": 2}}]}}, {"id": "Q023", "wid": "wolf_p16_70", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "outdoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["emotional_support", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["sigh"], "characters": [{"role": "lead", "emotion": "calm", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}, {"role": "supporting", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q037", "wid": "wolf_p16_70", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "outdoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "ambient_sfx", "music"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["sigh"], "characters": [{"role": "lead", "emotion": ["sad", "calm"], "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}, {"role": "supporting", "emotion": ["calm", "serious"], "fraction_of_window": 0.4, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q064", "wid": "wolf_p16_70", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "U", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["sigh"], "characters": [{"role": "lead", "emotion": ["neutral"], "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q034", "wid": "wolf_p2_301", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 3, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "yes", "location_change_type": "same_scene_movement", "on_screen_text": "none", "audio_present": ["dialogue", "ambient_sfx", "music"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": ["calm", "focused"], "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q001", "wid": "wolf_p4_322", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["none"], "max_humans_simultaneous": 0, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["near_silent"], "audio_primary": "near_silent", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "near_silent", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": []}}, {"id": "Q035", "wid": "new_dme_120.75", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human"], "max_humans_simultaneous": 4, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "subtitles", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["emotional_support", "ducks_under_speech"], "social_interaction": ["dialogue", "torso_contact"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["sigh"], "characters": [{"role": "lead", "emotion": "annoyed", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}, {"role": "supporting", "emotion": "calm", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q040", "wid": "new_dme_404.25", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["none"], "max_humans_simultaneous": 0, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["near_silent"], "audio_primary": "near_silent", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "near_silent", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": []}}, {"id": "Q043", "wid": "new_dme_404.25", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human", "anim_creature"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 3, "setting": "indoor", "location_change": "yes", "location_change_type": "new_place", "on_screen_text": "none", "audio_present": ["music", "ambient_sfx"], "audio_primary": "music", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "music", "music_role": "score", "music_function": ["emotional_support"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "sad", "fraction_of_window": 0.5, "speaking": "no", "scores": {"audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}}, {"role": "extra", "emotion": "funny", "fraction_of_window": 0.4, "speaking": "no", "scores": {"audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 2}, "language": {"valence": 2, "arousal": 1}}}]}}, {"id": "Q069", "wid": "new_dme_404.25", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["human", "anim_creature"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 3, "setting": "indoor", "location_change": "yes", "location_change_type": "same_scene_movement", "on_screen_text": "none", "audio_present": ["music", "ambient_sfx"], "audio_primary": "music", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "music", "music_role": "score", "music_function": ["emotional_support"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "sad", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q007", "wid": "new_dme_425.25", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "surprise", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q021", "wid": "old_dme_546.0", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "vehicle", "location_change": "yes", "location_change_type": "same_scene_movement", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "transition", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "exciting", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 3}, "visual": {"valence": 2, "arousal": 3}, "language": {"valence": 2, "arousal": 3}}]}}, {"id": "Q030", "wid": "old_dme_546.0", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "vehicle", "location_change": "yes", "location_change_type": "same_scene_movement", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["excitement", "tension"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "exciting", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 3, "arousal": 3}, "visual": {"valence": 3, "arousal": 3}, "language": {"valence": 3, "arousal": 3}}]}}, {"id": "Q045", "wid": "old_dme_546.0", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "exciting", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 2}, "visual": {"valence": 2, "arousal": 2}, "language": {"valence": 2, "arousal": 2}}]}}, {"id": "Q028", "wid": "new_dmh_330.75", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "hu", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": ["annoyed"], "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}, {"role": "supporting", "emotion": ["focused", "neutral"], "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q010", "wid": "new_dmh_509.25", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["human", "anim_creature"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 2, "setting": "vehicle", "location_change": "yes", "location_change_type": "same_scene_movement", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "hu", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["scream"], "characters": [{"role": "lead", "emotion": "fear", "fraction_of_window": 0.4, "speaking": "yes", "audio": {"valence": 1, "arousal": 3}, "visual": {"valence": 1, "arousal": 3}, "language": {"valence": 1, "arousal": 3}}, {"role": "supporting", "emotion": "fear", "fraction_of_window": 0.3, "speaking": "no", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 3}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q013", "wid": "old_dmh_31.5", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "hu", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q044", "wid": "old_dmh_31.5", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human"], "max_humans_simultaneous": 4, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "hu", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "joy_warm", "fraction_of_window": 0.7, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q055", "wid": "old_dmh_31.5", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human"], "max_humans_simultaneous": 4, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "hu", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": [], "characters": [{"role": "supporting", "emotion": "funny", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q004", "wid": "old_dmh_357.0", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "yes", "location_change_type": "new_place", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "hu", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "transition", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "supporting", "emotion": "anger", "fraction_of_window": 0.45, "speaking": "yes", "audio": {"valence": 0, "arousal": 2}, "visual": {"valence": 0, "arousal": 2}, "language": {"valence": 0, "arousal": 2}}, {"role": "lead", "emotion": "tense", "fraction_of_window": 0.55, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q017", "wid": "old_dmh_357.0", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "other", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q019", "wid": "old_dmh_357.0", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "yes", "location_change_type": "new_place", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "hu", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q020", "wid": "new_tp_68.25", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "surprise", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 2}, "visual": {"valence": 2, "arousal": 2}, "language": {"valence": 2, "arousal": 2}}]}}, {"id": "Q026", "wid": "new_tp_68.25", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human", "anim_dog"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "anger", "fraction_of_window": 0.3, "speaking": "yes", "audio": {"valence": 0, "arousal": 3}, "visual": {"valence": 0, "arousal": 3}, "language": {"valence": 0, "arousal": 3}}, {"role": "supporting", "emotion": "exciting", "fraction_of_window": 0.7, "speaking": "no", "audio": {"valence": 2, "arousal": 2}, "visual": {"valence": 2, "arousal": 2}, "language": {"valence": 2, "arousal": 2}}]}}, {"id": "Q039", "wid": "new_tp_68.25", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human", "anim_dog"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": ["annoyed", "tense"], "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q054", "wid": "new_tp_89.25", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["anim_human", "anim_dog"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "music", "speech_language": "en", "speaker_visibility": "off_screen", "foreground_source": "music", "music_role": "score", "music_function": ["tension", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "focused", "fraction_of_window": 0.5, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 1}}, {"role": "supporting", "emotion": "joy_warm", "fraction_of_window": 0.5, "speaking": "no", "audio": {"valence": 2, "arousal": 2}, "visual": {"valence": 2, "arousal": 2}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q048", "wid": "old_tp_126.0", "arm": "TV", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["anim_human", "anim_dog"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "music", "speech_language": "en", "speaker_visibility": "off_screen", "foreground_source": "music", "music_role": "score", "music_function": ["transition", "emotional_support"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "supporting", "emotion": ["funny", "exciting"], "fraction_of_window": 0.4, "speaking": "no", "audio": {"valence": 2, "arousal": 2}, "visual": {"valence": 2, "arousal": 2}, "language": {"valence": 1, "arousal": 2}}, {"role": "lead", "emotion": ["annoyed", "focused"], "fraction_of_window": 0.6, "speaking": "yes", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q050", "wid": "old_tp_126.0", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["other"], "characters": [{"role": "lead", "emotion": "anger", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 0, "arousal": 3}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 3}}]}}, {"id": "Q066", "wid": "old_tp_126.0", "arm": "V", "gemini": {"screen_content": ["story"], "visual_style": "anim_3d", "agents_present": ["human", "anim_dog"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "music", "ambient_sfx"], "audio_primary": "music", "speech_language": "non_lexical", "speaker_visibility": "off_screen", "foreground_source": "music", "music_role": "score", "music_function": ["emotional_support", "ducks_under_speech"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "funny", "fraction_of_window": 0.4, "speaking": "no", "audio": {"valence": 2, "arousal": 2}, "visual": {"valence": 2, "arousal": 2}, "language": {"valence": 2, "arousal": 1}}, {"role": "supporting", "emotion": "serious", "fraction_of_window": 0.6, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q002", "wid": "old_tp_94.5", "arm": "T", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "en", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "joy_warm", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 2}, "visual": {"valence": 2, "arousal": 2}, "language": {"valence": 2, "arousal": 2}}]}}, {"id": "Q003", "wid": "365", "arm": "AD+D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "narration", "music"], "audio_primary": "dialogue", "speech_language": "de", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["emotional_support", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q042", "wid": "365", "arm": "AD", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["narration"], "audio_primary": "narration", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "neutral", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q060", "wid": "365", "arm": "D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "de", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "serious", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q046", "wid": "426", "arm": "AD", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["narration"], "audio_primary": "narration", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "focused", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q027", "wid": "475", "arm": "D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["none"], "max_humans_simultaneous": 0, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["near_silent"], "audio_primary": "near_silent", "speech_language": "none", "speaker_visibility": "no_speech", "foreground_source": "near_silent", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": []}}, {"id": "Q056", "wid": "475", "arm": "AD", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "outdoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["narration"], "audio_primary": "narration", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "focused", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}, {"role": "supporting", "emotion": "neutral", "fraction_of_window": 0.5, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q062", "wid": "475", "arm": "AD+D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "outdoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["narration", "ambient_sfx", "music"], "audio_primary": "narration", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "score", "music_function": ["emotional_support"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "focused", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}, {"role": "supporting", "emotion": "calm", "fraction_of_window": 0.5, "speaking": "no", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q051", "wid": "517", "arm": "D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "ambient_sfx", "music"], "audio_primary": "dialogue", "speech_language": "de", "speaker_visibility": "off_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["emotional_support", "ducks_under_speech"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "lonely_melancholy", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q063", "wid": "517", "arm": "AD+D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "narration", "music"], "audio_primary": "narration", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "score", "music_function": ["emotional_support", "ducks_under_speech"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "calm", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 2, "arousal": 0}, "visual": {"valence": 2, "arousal": 0}, "language": {"valence": 2, "arousal": 0}}]}}, {"id": "Q067", "wid": "517", "arm": "AD", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["narration"], "audio_primary": "narration", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "calm", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 2, "arousal": 0}, "visual": {"valence": 2, "arousal": 0}, "language": {"valence": 2, "arousal": 0}}]}}, {"id": "Q049", "wid": "536", "arm": "AD", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["narration"], "audio_primary": "narration", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["torso_contact", "limb_contact"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "joy_warm", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}, {"role": "lead", "emotion": "joy_warm", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q011", "wid": "597", "arm": "D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue"], "audio_primary": "dialogue", "speech_language": "de", "speaker_visibility": "U", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["self_talk"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "neutral", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q038", "wid": "597", "arm": "AD", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["narration"], "audio_primary": "narration", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["walk_together"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "neutral", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}, {"role": "supporting", "emotion": "neutral", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q059", "wid": "597", "arm": "AD+D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "narration"], "audio_primary": "dialogue", "speech_language": "de", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 2, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "supporting", "emotion": "neutral", "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}, {"role": "lead", "emotion": "tense", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 2}, "visual": {"valence": 1, "arousal": 2}, "language": {"valence": 1, "arousal": 2}}]}}, {"id": "Q012", "wid": "631", "arm": "AD", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["narration", "ambient_sfx"], "audio_primary": "narration", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["walk_together"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "neutral", "fraction_of_window": 0.5, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}, {"role": "supporting", "emotion": "neutral", "fraction_of_window": 0.5, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q016", "wid": "631", "arm": "AD+D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "narration", "ambient_sfx", "music"], "audio_primary": "dialogue", "speech_language": "de", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "score", "music_function": ["emotional_support", "ducks_under_speech"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "calm", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}, {"role": "lead", "emotion": "calm", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q070", "wid": "631", "arm": "D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 2, "max_humanoid_nonhuman": 0, "setting": "outdoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "de", "speaker_visibility": "on_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["dialogue"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "calm", "fraction_of_window": 0.5, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}, {"role": "lead", "emotion": "calm", "fraction_of_window": 0.5, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q024", "wid": "634", "arm": "D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "outdoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "narration", "music", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "score", "music_function": ["emotional_support", "soothing"], "social_interaction": ["self_talk"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "lonely_melancholy", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q008", "wid": "643", "arm": "AD", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "indoor", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["narration"], "audio_primary": "narration", "speech_language": "de", "speaker_visibility": "narration", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": ["neutral"], "fraction_of_window": 1.0, "speaking": "no", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}, {"id": "Q009", "wid": "643", "arm": "D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "ambient_sfx"], "audio_primary": "dialogue", "speech_language": "de", "speaker_visibility": "off_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["self_talk"], "social_intensity_0_3": 1, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "calm", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 2, "arousal": 1}, "visual": {"valence": 2, "arousal": 1}, "language": {"valence": 2, "arousal": 1}}]}}, {"id": "Q041", "wid": "643", "arm": "AD+D", "gemini": {"screen_content": ["story"], "visual_style": "live_color", "agents_present": ["human"], "max_humans_simultaneous": 1, "max_humanoid_nonhuman": 0, "setting": "U", "location_change": "no", "location_change_type": "none", "on_screen_text": "none", "audio_present": ["dialogue", "narration"], "audio_primary": "dialogue", "speech_language": "de", "speaker_visibility": "off_screen", "foreground_source": "speech", "music_role": "none", "music_function": ["none"], "social_interaction": ["none"], "social_intensity_0_3": 0, "nonverbal_emotion_sounds": ["none"], "characters": [{"role": "lead", "emotion": "neutral", "fraction_of_window": 1.0, "speaking": "yes", "audio": {"valence": 1, "arousal": 1}, "visual": {"valence": 1, "arousal": 1}, "language": {"valence": 1, "arousal": 1}}]}}]}
+{
+ "films": [
+  {
+   "film": "bourne",
+   "name": "神鬼認證：神鬼疑雲（Bourne）",
+   "wids": [
+    "bourne_p1_336",
+    "bourne_p2_266",
+    "bourne_p4_91",
+    "bourne_p9_168"
+   ]
+  },
+  {
+   "film": "figures",
+   "name": "關鍵少數（Hidden Figures）",
+   "wids": [
+    "figures_p2_399",
+    "figures_p5_161",
+    "figures_p7_112",
+    "figures_p8_301"
+   ]
+  },
+  {
+   "film": "wolf",
+   "name": "華爾街之狼（Wolf of Wall Street）",
+   "wids": [
+    "wolf_p11_273",
+    "wolf_p16_70",
+    "wolf_p2_301",
+    "wolf_p4_322"
+   ]
+  },
+  {
+   "film": "dme",
+   "name": "神偷奶爸（英語版 dme）",
+   "wids": [
+    "new_dme_120.75",
+    "new_dme_404.25",
+    "new_dme_425.25",
+    "old_dme_546.0"
+   ]
+  },
+  {
+   "film": "dmh",
+   "name": "神偷奶爸（匈牙利語版 dmh）",
+   "wids": [
+    "new_dmh_330.75",
+    "new_dmh_509.25",
+    "old_dmh_31.5",
+    "old_dmh_357.0"
+   ]
+  },
+  {
+   "film": "tp",
+   "name": "禮物（The Present）",
+   "wids": [
+    "new_tp_68.25",
+    "new_tp_89.25",
+    "old_tp_126.0",
+    "old_tp_94.5"
+   ]
+  },
+  {
+   "film": "forrest",
+   "name": "阿甘正傳（Forrest Gump，德語，無影像）",
+   "wids": [
+    "fgS009",
+    "fgS023",
+    "fgS026",
+    "fgS066",
+    "fgS098",
+    "fgS105",
+    "fgS106",
+    "fgS109",
+    "fgS116",
+    "fgS164"
+   ]
+  }
+ ],
+ "windows": [
+  {
+   "wid": "bourne_p1_336",
+   "dataset": "M10",
+   "film": "bourne",
+   "media": "media/bourne_p1_336.mp4",
+   "text": "men in Russia. After consolidating drilling rights in the Caspian Sea and gaining control of one of the.",
+   "time": "第1段 500.6–511.1 秒",
+   "label": "片段 01"
+  },
+  {
+   "wid": "bourne_p2_266",
+   "dataset": "M10",
+   "film": "bourne",
+   "media": "media/bourne_p2_266.mp4",
+   "text": "（無台詞）",
+   "time": "第2段 396.3–406.8 秒",
+   "label": "片段 02"
+  },
+  {
+   "wid": "bourne_p4_91",
+   "dataset": "M10",
+   "film": "bourne",
+   "media": "media/bourne_p4_91.mp4",
+   "text": "gonna call me back in 30. And when I ask you where we stand, I had better be impressed. Berlin? I already have a team in place",
+   "time": "第4段 135.6–146.0 秒",
+   "label": "片段 03"
+  },
+  {
+   "wid": "bourne_p9_168",
+   "dataset": "M10",
+   "film": "bourne",
+   "media": "media/bourne_p9_168.mp4",
+   "text": "（無台詞）",
+   "time": "第9段 250.3–260.8 秒",
+   "label": "片段 04"
+  },
+  {
+   "wid": "figures_p2_399",
+   "dataset": "M10",
+   "film": "figures",
+   "media": "media/figures_p2_399.mp4",
+   "text": "（無台詞）",
+   "time": "第2段 594.5–604.9 秒",
+   "label": "片段 05"
+  },
+  {
+   "wid": "figures_p5_161",
+   "dataset": "M10",
+   "film": "figures",
+   "media": "media/figures_p5_161.mp4",
+   "text": "rocket? That's not math. That data's not here. Like he said, it's classified.",
+   "time": "第5段 239.9–250.3 秒",
+   "label": "片段 06"
+  },
+  {
+   "wid": "figures_p7_112",
+   "dataset": "M10",
+   "film": "figures",
+   "media": "media/figures_p7_112.mp4",
+   "text": "（無台詞）",
+   "time": "第7段 166.9–177.3 秒",
+   "label": "片段 07"
+  },
+  {
+   "wid": "figures_p8_301",
+   "dataset": "M10",
+   "film": "figures",
+   "media": "media/figures_p8_301.mp4",
+   "text": "our calculations over. Yes. So we need to be able to choose this reentry point. This go",
+   "time": "第8段 448.5–458.9 秒",
+   "label": "片段 08"
+  },
+  {
+   "wid": "wolf_p11_273",
+   "dataset": "M10",
+   "film": "wolf",
+   "media": "media/wolf_p11_273.mp4",
+   "text": "and let go. To release the tension? She is hitting on me. Holy shit. To release the",
+   "time": "第11段 406.8–417.2 秒",
+   "label": "片段 09"
+  },
+  {
+   "wid": "wolf_p16_70",
+   "dataset": "M10",
+   "film": "wolf",
+   "media": "media/wolf_p16_70.mp4",
+   "text": "How you doing, brother? You know, shitty, pal, but I'm hanging in there. Hmm.",
+   "time": "第16段 104.3–114.7 秒",
+   "label": "片段 10"
+  },
+  {
+   "wid": "wolf_p2_301",
+   "dataset": "M10",
+   "film": "wolf",
+   "media": "media/wolf_p2_301.mp4",
+   "text": "Yeah. Very hot stock right now. Yeah. Yeah. They're just a couple of brothers that are making radar detectors out of their garage. They're out of Dubuque. Maybe it's microwaves, I'm not sure. But you call the company's main line, their mom, Dorothy, answers,",
+   "time": "第2段 448.5–458.9 秒",
+   "label": "片段 11"
+  },
+  {
+   "wid": "wolf_p4_322",
+   "dataset": "M10",
+   "film": "wolf",
+   "media": "media/wolf_p4_322.mp4",
+   "text": "（無台詞）",
+   "time": "第4段 479.8–490.2 秒",
+   "label": "片段 12"
+  },
+  {
+   "wid": "new_dme_120.75",
+   "dataset": "NV",
+   "film": "dme",
+   "media": "media/new_dme_120.75.mp4",
+   "text": "dme_S08: Oh, I don't like this book.\ndme_S03: This is going on forever.\ndme_S01: Three little kittens with milk all gone, rubbed their eyes and started to yawn.",
+   "time": "120.8–131.2 秒",
+   "label": "片段 13"
+  },
+  {
+   "wid": "new_dme_404.25",
+   "dataset": "NV",
+   "film": "dme",
+   "media": "media/new_dme_404.25.mp4",
+   "text": "（無台詞）",
+   "time": "404.2–414.8 秒",
+   "label": "片段 14"
+  },
+  {
+   "wid": "new_dme_425.25",
+   "dataset": "NV",
+   "film": "dme",
+   "media": "media/new_dme_425.25.mp4",
+   "text": "NA: Ah!",
+   "time": "425.2–435.8 秒",
+   "label": "片段 15"
+  },
+  {
+   "wid": "old_dme_546.0",
+   "dataset": "NV",
+   "film": "dme",
+   "media": "media/old_dme_546.0.mp4",
+   "text": "NA: Oh yeah!\nNA: Nice work, Doctor.\nNA: All systems go...\nNA: Booyah!",
+   "time": "546.0–556.5 秒",
+   "label": "片段 16"
+  },
+  {
+   "wid": "new_dmh_330.75",
+   "dataset": "NV",
+   "film": "dmh",
+   "media": "media/new_dmh_330.75.mp4",
+   "text": "dmh_S12: Úgyhogy túl kevés balnyós cselszövése hozott eddig valódi hasznot.\ndmh_S11: Hogy is mondjam,\ndmh_S11: mondjuk ez az alma maga.",
+   "time": "330.8–341.2 秒",
+   "label": "片段 17"
+  },
+  {
+   "wid": "new_dmh_509.25",
+   "dataset": "NV",
+   "film": "dmh",
+   "media": "media/new_dmh_509.25.mp4",
+   "text": "NA: Gyorsan!\nNA: Ne hagyjuk meglépni!",
+   "time": "509.2–519.8 秒",
+   "label": "片段 18"
+  },
+  {
+   "wid": "old_dmh_31.5",
+   "dataset": "NV",
+   "film": "dmh",
+   "media": "media/old_dmh_31.5.mp4",
+   "text": "dmh_S42: Lássuk csak.\ndmh_S02: Nem!\ndmh_S49: Edith!",
+   "time": "31.5–42.0 秒",
+   "label": "片段 19"
+  },
+  {
+   "wid": "old_dmh_357.0",
+   "dataset": "NV",
+   "film": "dmh",
+   "media": "media/old_dmh_357.0.mp4",
+   "text": "NA: Miért odakint ez a Vector nevű ficc?\nNA: Ellopta a piramist!\nNA: Értem már, értem én.",
+   "time": "357.0–367.5 秒",
+   "label": "片段 20"
+  },
+  {
+   "wid": "new_tp_68.25",
+   "dataset": "NV",
+   "film": "tp",
+   "media": "media/new_tp_68.25.mp4",
+   "text": "NA: Okay.\nNA: Whoa!",
+   "time": "68.2–78.8 秒",
+   "label": "片段 21"
+  },
+  {
+   "wid": "new_tp_89.25",
+   "dataset": "NV",
+   "film": "tp",
+   "media": "media/new_tp_89.25.mp4",
+   "text": "NA: Cool!\nNA: She's",
+   "time": "89.2–99.8 秒",
+   "label": "片段 22"
+  },
+  {
+   "wid": "old_tp_126.0",
+   "dataset": "NV",
+   "film": "tp",
+   "media": "media/old_tp_126.0.mp4",
+   "text": "NA: Aargh!",
+   "time": "126.0–136.5 秒",
+   "label": "片段 23"
+  },
+  {
+   "wid": "old_tp_94.5",
+   "dataset": "NV",
+   "film": "tp",
+   "media": "media/old_tp_94.5.mp4",
+   "text": "NA: Cool!\nNA: She's\nNA: gotta",
+   "time": "94.5–105.0 秒",
+   "label": "片段 24"
+  },
+  {
+   "wid": "fgS009",
+   "dataset": "FG",
+   "film": "forrest",
+   "media": null,
+   "text": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：時間跳躍（數秒至約一兩小時後） ×1｜日夜：day\n【地點】Gump property｜Gump House｜front of Gump House；corridor downstairs；corridor upstairs；Jenny's bedroom（ext/int）\n【人物】ELVISPRESLEY、FORREST、FORRESTVO、MRSGUMP（VO＝旁白聲）\n【片段】9:46.5–11:09.6，83 秒\n\nTR00   0.5s [AD] es ist Tag.\nTR00   1.5s FORREST (V.O.): aber das machte uns nichts.\nTR01   3.3s FORREST (V.O.): unser Haus war nie leer.\nTR02   5.4s FORREST (V.O.): es gab immer Leute, die kamen und gingen.\nTR03   7.6s MRS. GUMP: Abendessen\nTR04   8.8s MRS. GUMP: es gibt Abendessen.\nTR05  10.4s MRS. GUMP: Forrest\nTR06  12.2s FORREST (V.O.): manchmal hatte wir so viele Leute bei uns wohnen, dass alle Zimmer mit Reisenden belegt waren.\nTR08  17.1s FORREST (V.O.): überlegen Sie mal!\nTR09  18.3s FORREST (V.O.): das waren Leute, die lebten aus dem Koffer:\nTR10  20.9s FORREST (V.O.): aus Reisekoffern, Hutkoffern, Musterkoffern\nTR12  24.5s MRS. GUMP: komm runter!\nTR12  24.9s MRS. GUMP: es gibt Abendessen.\nTR13  26.1s MRS. GUMP: Forrest?\nTR13  27.1s FORREST (V.O.): einmal, da wohnte ein junger Mann bei uns.\nTR15  30.3s FORREST (V.O.): der hatte einen Gitarrenkoffer.\nTR16  33.4s [AD] Missis Gump geht neugierig zu einer geschlossenen Zimmertür.\nTR18  37.8s [AD] Forrest schwingt mit gebeugten Knien die Hüften und hält sich an einem Besen fest.\nTR20  41.8s [AD] der Gitarrist hat eine Tolle.\nTR23  46.2s MRS. GUMP: Forrest\nTR23  47.4s MRS. GUMP: ich hab dir doch gesagt, du sollst den netten jungen Mann in Ruhe lassen.\nTR25  50.3s ELVIS PRESLEY: oh, nein!\nTR25  50.9s ELVIS PRESLEY: ist schon okay, Ma'am.\nTR25  51.7s ELVIS PRESLEY: ich hab ihm grad nur ein paar Griffe auf der Gitarre gezeigt.\nTR26  53.6s MRS. GUMP: nach\nTR27  54.4s MRS. GUMP: naja, aber ... Abendessen ist fertig, falls Sie hungrig sind.\nTR28  57.3s ELVIS PRESLEY: oh, das hört sich gut an.\nTR29  58.4s ELVIS PRESLEY: danke, Ma'am!\nTR29  59.2s [AD] sie geht.\nTR30  60.9s ELVIS PRESLEY: ey, Mann!\nTR30  61.3s ELVIS PRESLEY: mach mir doch den verrückten Tanz von vorhin nochmal vor, ... aber ein bisschen langsamer!\nTR34  68.2s FORREST (V.O.): ich mochte die Gitarre.\nTR35  71.0s FORREST (V.O.): sie klang gut.\nTR36  73.9s FORREST (V.O.): dann fing ich an, ... mich nach der Musik zu bewegen.\nTR38  77.8s FORREST (V.O.): ich wackelte mit den Hüften.\nTR41  82.1s FORREST (V.O.): eines Abend kam ich mit Mama an Bensons Möbel und Haushaltsladen vorbei.",
+   "text_en": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：時間跳躍（數秒至約一兩小時後） ×1｜日夜：day\n【地點】Gump property｜Gump House｜front of Gump House；corridor downstairs；corridor upstairs；Jenny's bedroom（ext/int）\n【人物】ELVISPRESLEY、FORREST、FORRESTVO、MRSGUMP（VO＝旁白聲）\n【片段】9:46.5–11:09.6，83 秒\n\nTR00   0.5s [AD] it is daytime.\nTR00   1.5s FORREST (V.O.): but that didn't matter to us.\nTR01   3.3s FORREST (V.O.): our house was never empty.\nTR02   5.4s FORREST (V.O.): there were always people coming and going.\nTR03   7.6s MRS. GUMP: dinner\nTR04   8.8s MRS. GUMP: dinner is ready.\nTR05  10.4s MRS. GUMP: Forrest\nTR06  12.2s FORREST (V.O.): sometimes we had so many people staying with us that all the rooms were taken by travelers.\nTR08  17.1s FORREST (V.O.): just imagine!\nTR09  18.3s FORREST (V.O.): those were people living out of suitcases:\nTR10  20.9s FORREST (V.O.): out of suitcases, hatboxes, sample cases\nTR12  24.5s MRS. GUMP: come down!\nTR12  24.9s MRS. GUMP: dinner is ready.\nTR13  26.1s MRS. GUMP: Forrest?\nTR13  27.1s FORREST (V.O.): once, a young man stayed with us.\nTR15  30.3s FORREST (V.O.): he had a guitar case.\nTR16  33.4s [AD] Mrs. Gump curiously walks up to a closed room door.\nTR18  37.8s [AD] Forrest sways his hips with bent knees and holds onto a broom.\nTR20  41.8s [AD] the guitarist has a pompadour.\nTR23  46.2s MRS. GUMP: Forrest\nTR23  47.4s MRS. GUMP: I told you to leave the nice young man alone.\nTR25  50.3s ELVIS PRESLEY: oh, no!\nTR25  50.9s ELVIS PRESLEY: it's alright, Ma'am.\nTR25  51.7s ELVIS PRESLEY: I was just showing him a few chords on the guitar.\nTR26  53.6s MRS. GUMP: after\nTR27  54.4s MRS. GUMP: well, but... dinner is ready, in case you're hungry.\nTR28  57.3s ELVIS PRESLEY: oh, that sounds good.\nTR29  58.4s ELVIS PRESLEY: thank you, Ma'am!\nTR29  59.2s [AD] she leaves.\nTR30  60.9s ELVIS PRESLEY: hey, man!\nTR30  61.3s ELVIS PRESLEY: show me that crazy dance from earlier again, ... but a little slower!\nTR34  68.2s FORREST (V.O.): I liked the guitar.\nTR35  71.0s FORREST (V.O.): it sounded good.\nTR36  73.9s FORREST (V.O.): then I started... moving to the music.\nTR38  77.8s FORREST (V.O.): I wiggled my hips.\nTR41  82.1s FORREST (V.O.): one evening I passed Benson's Furniture and Appliance Store with Mom.",
+   "text_zh": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：時間跳躍（數秒至約一兩小時後） ×1｜日夜：day\n【地點】Gump property｜Gump House｜front of Gump House；corridor downstairs；corridor upstairs；Jenny's bedroom（ext/int）\n【人物】ELVISPRESLEY、FORREST、FORRESTVO、MRSGUMP（VO＝旁白聲）\n【片段】9:46.5–11:09.6，83 秒\n\nTR00   0.5s [AD] 是白天。\nTR00   1.5s FORREST (V.O.): 但那對我們來說沒關係。\nTR01   3.3s FORREST (V.O.): 我們的房子從不冷清。\nTR02   5.4s FORREST (V.O.): 總是有很多人來來去去。\nTR03   7.6s MRS. GUMP: 晚餐\nTR04   8.8s MRS. GUMP: 開飯了。\nTR05  10.4s MRS. GUMP: 阿甘\nTR06  12.2s FORREST (V.O.): 有時候我們家住了太多人，以至於所有房間都被旅客佔滿了。\nTR08  17.1s FORREST (V.O.): 你想想看！\nTR09  18.3s FORREST (V.O.): 那些都是提著行李過活的人：\nTR10  20.9s FORREST (V.O.): 行李箱、帽盒、樣品箱\nTR12  24.5s MRS. GUMP: 下來！\nTR12  24.9s MRS. GUMP: 開飯了。\nTR13  26.1s MRS. GUMP: 阿甘？\nTR13  27.1s FORREST (V.O.): 有一次，有個年輕人借住在我們家。\nTR15  30.3s FORREST (V.O.): 他帶了一個吉他盒。\nTR16  33.4s [AD] 甘太太好奇地走向一扇關著的房門。\nTR18  37.8s [AD] 阿甘彎著膝蓋扭動著臀部，手裡抓著一把掃帚。\nTR20  41.8s [AD] 那個吉他手留著龐畢度髮型。\nTR23  46.2s MRS. GUMP: 阿甘\nTR23  47.4s MRS. GUMP: 我跟你說過要放過那個好心的小夥子。\nTR25  50.3s ELVIS PRESLEY: 噢，不！\nTR25  50.9s ELVIS PRESLEY: 沒關係的，太太。\nTR25  51.7s ELVIS PRESLEY: 我只是教了他幾個吉他和弦。\nTR26  53.6s MRS. GUMP: 在\nTR27  54.4s MRS. GUMP: 嗯，不過……晚餐準備好了，如果你餓的話。\nTR28  57.3s ELVIS PRESLEY: 噢，聽起來不錯。\nTR29  58.4s ELVIS PRESLEY: 謝謝您，太太！\nTR29  59.2s [AD] 她離開了。\nTR30  60.9s ELVIS PRESLEY: 嘿，老兄！\nTR30  61.3s ELVIS PRESLEY: 再表演一下剛剛那個瘋狂的舞蹈給我看，……不過慢一點！\nTR34  68.2s FORREST (V.O.): 我喜歡那把吉他。\nTR35  71.0s FORREST (V.O.): 它聽起來很好聽。\nTR36  73.9s FORREST (V.O.): 然後我開始……隨著音樂擺動。\nTR38  77.8s FORREST (V.O.): 我扭動著臀部。\nTR41  82.1s FORREST (V.O.): 一天晚上，我和媽媽經過班森家具家電行。",
+   "time": "9:46.5–11:09.6，83 秒",
+   "label": "場景 1"
+  },
+  {
+   "wid": "fgS023",
+   "dataset": "FG",
+   "film": "forrest",
+   "media": null,
+   "text": "【故事時間】相對前一場：時間跳躍（數秒至約一兩小時後）｜段內：時間跳躍（數秒至約一兩小時後） ×3｜日夜：day\n【地點】Greenbow Alabama｜road with bridge；road between trees；main street；Jenny's house｜road with bridge；road between trees；in front of barbershop；front of Jenny's house；field near Jenny's house（ext）\n【人物】FORREST、JENNY、JENNYSDAD、MAN（VO＝旁白聲）\n【片段】16:49.0–18:30.3，101 秒\n\nTR02   5.0s [AD] er rennt an Sträflingen vorbei, die den Grünstreifen am Straßenrand bearbeiten.\nTR04   9.6s [AD] in Greenbow jagt er am Frisörladen vorbei und wirbelt dabei eine Zeitung hoch.\nTR06  13.5s [AD] drei Männer im Laden glotzen ihm nach.\nTR07  15.1s MAN: sieh mal an!\nTR07  15.8s MAN: jetzt läuft er auch noch wien Verrückter.\nTR09  18.4s [AD] Forrest rast auf ein kleines, ärmliches Farmhaus zu.\nTR10  21.2s FORREST (V.O.): vorhin hab ich ihnen doch erzählt, dass Jenny nie nach Hause wollte.\nTR12  24.7s FORREST (V.O.): sie wohnte in einem Haus, das war ungefähr so alt wie Alabama.\nTR14  29.2s FORREST (V.O.): ihre Mama war in den Himmel gekommen als Jenny fünf war und ihr Daddy war so was wie ein ... Farmer.\nTR18  36.7s FORREST (CHILD): Jenny\nTR18  37.8s FORREST (V.O.): er war ein sehr liebevoller Mann.\nTR20  40.2s FORREST (V.O.): dauernd hat er sie und ihre Schwestern gestreichelt und geküsst.\nTR22  44.1s [AD] er entdeckt Jenny die bei einem Tabakfeld steht.\nTR23  46.3s FORREST (V.O.): an diesem einen Tag ... war Jenny nicht im Schulbus gewesen.\nTR25  50.6s FORREST (CHILD): Jenny, warum bist du heute nicht in der Schule gewesen?\nTR26  53.3s JENNY (CHILD): psst\nTR26  53.8s JENNY (CHILD): Daddy ist gerade eingeschlafen.\nTR27  55.9s JENNY'S DAD: Jenny!\nTR28  56.9s JENNY (CHILD): komm schnell!\nTR28  57.8s [AD] sie zieht Forrest ins Feld.\nTR29  59.1s JENNY'S DAD: Jenny!\nTR30  60.2s JENNY'S DAD: wo rennst du denn hin?\nTR31  62.8s JENNY'S DAD: mach, dass du ins Haus kommst, Mädchen!\nTR32  64.7s [AD] ihr Vater stapft durch die brusthohen Pflanzen.\nTR33  66.6s JENNY'S DAD: wo bist du?\nTR34  68.3s [AD] in seiner Hand ein Flachmann.\nTR34  69.6s [AD] Jenny zieht Forrest in ein hohes Maisfeld.\nTR35  71.7s JENNY'S DAD: Jenny!\nTR36  72.9s JENNY'S DAD: Jenny!\nTR36  73.9s JENNY'S DAD: wo bist du?\nTR37  75.0s [AD] zwischen den Pflanzen knien sich die Kinder hin.\nTR38  77.4s JENNY'S DAD: Jenny!\nTR39  79.0s JENNY (CHILD): bete mit mir, Forrest!\nTR40  80.5s JENNY (CHILD): bete mit mir!\nTR40  81.7s JENNY'S DAD: Jenny!\nTR41  82.6s JENNY (CHILD): lieber Gott, mach, dass ich ein Vogel werde, damit ich von hier wegfliegen kann ... weit, weit weg.\nTR44  88.2s JENNY (CHILD): lieber Gott, mach dass ich ein Vogel werde, damit ich weit, weit ...\nTR46  93.0s FORREST (V.O.): Mama hat immer gesagt:\nTR47  94.6s FORREST (V.O.): Gottes Wege sind rätselhaft.\nTR48  97.1s FORREST (V.O.): er hat an dem Tag keinen Vogel aus Jenny gemacht, ... aber dafür ... hat er dafür gesorgt, dass die Polizei gesagt hat:",
+   "text_en": "【故事時間】相對前一場：時間跳躍（數秒至約一兩小時後）｜段內：時間跳躍（數秒至約一兩小時後） ×3｜日夜：day\n【地點】Greenbow Alabama｜road with bridge；road between trees；main street；Jenny's house｜road with bridge；road between trees；in front of barbershop；front of Jenny's house；field near Jenny's house（ext）\n【人物】FORREST、JENNY、JENNYSDAD、MAN（VO＝旁白聲）\n【片段】16:49.0–18:30.3，101 秒\n\nTR02   5.0s [AD] he runs past convicts who are working on the grass strip at the roadside.\nTR04   9.6s [AD] in Greenbow, he runs past the barbershop and kicks up a newspaper.\nTR06  13.5s [AD] three men in the shop stare after him.\nTR07  15.1s MAN: well, look at that!\nTR07  15.8s MAN: now he's running around like a lunatic too.\nTR09  18.4s [AD] Forrest sprints toward a small, run-down farmhouse.\nTR10  21.2s FORREST (V.O.): earlier I told you that Jenny never wanted to go home.\nTR12  24.7s FORREST (V.O.): she lived in a house that was about as old as Alabama.\nTR14  29.2s FORREST (V.O.): her mama had gone to heaven when Jenny was five, and her daddy was something like a... farmer.\nTR18  36.7s FORREST (CHILD): Jenny\nTR18  37.8s FORREST (V.O.): he was a very affectionate man.\nTR20  40.2s FORREST (V.O.): he was always petting and kissing her and her sisters.\nTR22  44.1s [AD] he spots Jenny, who is standing by a tobacco field.\nTR23  46.3s FORREST (V.O.): on this one day... Jenny had not been on the school bus.\nTR25  50.6s FORREST (CHILD): Jenny, why weren't you in school today?\nTR26  53.3s JENNY (CHILD): shh\nTR26  53.8s JENNY (CHILD): daddy just fell asleep.\nTR27  55.9s JENNY'S DAD: Jenny!\nTR28  56.9s JENNY (CHILD): come quickly!\nTR28  57.8s [AD] she pulls Forrest into the field.\nTR29  59.1s JENNY'S DAD: Jenny!\nTR30  60.2s JENNY'S DAD: where are you running to?\nTR31  62.8s JENNY'S DAD: get yourself into the house, girl!\nTR32  64.7s [AD] her father trudges through the chest-high plants.\nTR33  66.6s JENNY'S DAD: where are you?\nTR34  68.3s [AD] in his hand, a flask.\nTR34  69.6s [AD] Jenny pulls Forrest into a tall cornfield.\nTR35  71.7s JENNY'S DAD: Jenny!\nTR36  72.9s JENNY'S DAD: Jenny!\nTR36  73.9s JENNY'S DAD: where are you?\nTR37  75.0s [AD] the children kneel down among the plants.\nTR38  77.4s JENNY'S DAD: Jenny!\nTR39  79.0s JENNY (CHILD): pray with me, Forrest!\nTR40  80.5s JENNY (CHILD): pray with me!\nTR40  81.7s JENNY'S DAD: Jenny!\nTR41  82.6s JENNY (CHILD): dear God, make me a bird so I can fly away from here... far, far away.\nTR44  88.2s JENNY (CHILD): dear God, make me a bird so I can go far, far...\nTR46  93.0s FORREST (V.O.): Mama always said:\nTR47  94.6s FORREST (V.O.): God works in mysterious ways.\nTR48  97.1s FORREST (V.O.): he didn't turn Jenny into a bird that day... but instead... he made sure the police said:",
+   "text_zh": "【故事時間】相對前一場：時間跳躍（數秒至約一兩小時後）｜段內：時間跳躍（數秒至約一兩小時後） ×3｜日夜：day\n【地點】Greenbow Alabama｜road with bridge；road between trees；main street；Jenny's house｜road with bridge；road between trees；in front of barbershop；front of Jenny's house；field near Jenny's house（ext）\n【人物】FORREST、JENNY、JENNYSDAD、MAN（VO＝旁白聲）\n【片段】16:49.0–18:30.3，101 秒\n\nTR02   5.0s [AD] 他跑過在路邊草皮上工作的囚犯。\nTR04   9.6s [AD] 在格林博，他跑過理髮店，捲起了一張報紙。\nTR06  13.5s [AD] 店裡的三個男人目送著他離去。\nTR07  15.1s MAN: 你瞧瞧！\nTR07  15.8s MAN: 現在他竟然像個瘋子一樣跑起來了。\nTR09  18.4s [AD] 阿甘朝著一棟破舊的小農舍狂奔。\nTR10  21.2s FORREST (V.O.): 我剛才跟你們說過，珍妮從不想回家。\nTR12  24.7s FORREST (V.O.): 她住的房子跟亞拉巴馬州差不多老。\nTR14  29.2s FORREST (V.O.): 珍妮五歲時她媽媽就上天堂了，她爸爸差不多是個……農夫。\nTR18  36.7s FORREST (CHILD): 珍妮\nTR18  37.8s FORREST (V.O.): 他是個非常慈愛的男人。\nTR20  40.2s FORREST (V.O.): 總是不停地撫摸和親吻她和她的姐妹們。\nTR22  44.1s [AD] 他發現珍妮正站在一個菸草田旁。\nTR23  46.3s FORREST (V.O.): 就在那一天……珍妮沒有搭校車。\nTR25  50.6s FORREST (CHILD): 珍妮，你今天為什麼沒去學校？\nTR26  53.3s JENNY (CHILD): 噓\nTR26  53.8s JENNY (CHILD): 爸爸剛睡著。\nTR27  55.9s JENNY'S DAD: 珍妮！\nTR28  56.9s JENNY (CHILD): 快來！\nTR28  57.8s [AD] 她把阿甘拉進田裡。\nTR29  59.1s JENNY'S DAD: 珍妮！\nTR30  60.2s JENNY'S DAD: 你要跑到哪裡去？\nTR31  62.8s JENNY'S DAD: 滾回屋子裡去，丫頭！\nTR32  64.7s [AD] 她父親踩著及胸高的植物走過來。\nTR33  66.6s JENNY'S DAD: 你在哪裡？\nTR34  68.3s [AD] 他手裡拿著一個扁酒瓶。\nTR34  69.6s [AD] 珍妮把阿甘拉進一片高高的玉米田裡。\nTR35  71.7s JENNY'S DAD: 珍妮！\nTR36  72.9s JENNY'S DAD: 珍妮！\nTR36  73.9s JENNY'S DAD: 你在哪裡？\nTR37  75.0s [AD] 孩子們在植株間跪了下來。\nTR38  77.4s JENNY'S DAD: 珍妮！\nTR39  79.0s JENNY (CHILD): 跟我一起祈禱，阿甘！\nTR40  80.5s JENNY (CHILD): 跟我一起祈禱！\nTR40  81.7s JENNY'S DAD: 珍妮！\nTR41  82.6s JENNY (CHILD): 親愛的上帝，讓我變成一隻鳥，這樣我就可以飛離這裡……遠走高飛。\nTR44  88.2s JENNY (CHILD): 親愛的上帝，讓我變成一隻鳥，這樣我就可以遠走……\nTR46  93.0s FORREST (V.O.): 媽媽總是說：\nTR47  94.6s FORREST (V.O.): 上帝的旨意是深不可測的。\nTR48  97.1s FORREST (V.O.): 那天他沒有把珍妮變成鳥……但相反地……他確保了警方說：",
+   "time": "16:49.0–18:30.3，101 秒",
+   "label": "場景 2"
+  },
+  {
+   "wid": "fgS026",
+   "dataset": "FG",
+   "film": "forrest",
+   "media": null,
+   "text": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Gump property｜access-road｜alley to Gump House；inside the pursuing car；meadow near Gump House（ext/int）\n【人物】FORREST、JENNY、OLDERBOYS（VO＝旁白聲）\n【片段】19:04.4–19:54.0，50 秒\n\nTR00   1.6s [AD] etwas trifft ihn.\nTR01   2.9s OLDER BOY #1: hey, Blödmann!\nTR02   4.1s JENNY: verzieh dich!\nTR02   5.0s [AD] Jenny als Teenager\nTR03   6.2s JENNY: lauf, Forrest!\nTR03   7.0s JENNY: lauf!\nTR03   7.4s OLDER BOY #1: hey, Blödmann!\nTR04   8.9s OLDER BOY #1: hast du nicht gehört, Blödmann?\nTR05  10.4s JENNY: lauf, Forrest!\nTR05  11.2s [AD] der Werfer springt zu den zwei anderen auf einen Pickup.\nTR06  13.6s OLDER BOY #2: bleib stehen, du Trottel!\nTR08  16.4s JENNY: lauf, Forrest!\nTR08  17.7s JENNY: lauf!\nTR16  32.6s [AD] der Pickup fährt dicht hinter Forrest.\nTR17  34.5s [AD] der biegt wieder auf die Wiese.\nTR18  36.6s [AD] der Pickup hinterher\nTR22  45.4s JENNY: lauf, Forrest!\nTR23  47.1s [AD] er springt über einen Zaun.\nTR24  49.0s [AD] auf der Wartebank",
+   "text_en": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Gump property｜access-road｜alley to Gump House；inside the pursuing car；meadow near Gump House（ext/int）\n【人物】FORREST、JENNY、OLDERBOYS（VO＝旁白聲）\n【片段】19:04.4–19:54.0，50 秒\n\nTR00   1.6s [AD] something hits him.\nTR01   2.9s OLDER BOY #1: Hey, butt-head!\nTR02   4.1s JENNY: Get lost!\nTR02   5.0s [AD] Jenny as a teenager\nTR03   6.2s JENNY: Run, Forrest!\nTR03   7.0s JENNY: Run!\nTR03   7.4s OLDER BOY #1: Hey, butt-head!\nTR04   8.9s OLDER BOY #1: Didn't you hear me, butt-head?\nTR05  10.4s JENNY: Run, Forrest!\nTR05  11.2s [AD] The thrower jumps up into the back of a pickup truck with the other two.\nTR06  13.6s OLDER BOY #2: Stop, you jerk!\nTR08  16.4s JENNY: Run, Forrest!\nTR08  17.7s JENNY: Run!\nTR16  32.6s [AD] The pickup truck drives closely behind Forrest.\nTR17  34.5s [AD] He turns back onto the meadow.\nTR18  36.6s [AD] The pickup follows right behind.\nTR22  45.4s JENNY: Run, Forrest!\nTR23  47.1s [AD] He jumps over a fence.\nTR24  49.0s [AD] On the waiting bench",
+   "text_zh": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Gump property｜access-road｜alley to Gump House；inside the pursuing car；meadow near Gump House（ext/int）\n【人物】FORREST、JENNY、OLDERBOYS（VO＝旁白聲）\n【片段】19:04.4–19:54.0，50 秒\n\nTR00   1.6s [AD] 有東西打中了他。\nTR01   2.9s OLDER BOY #1: 嘿，笨蛋！\nTR02   4.1s JENNY: 滾開！\nTR02   5.0s [AD] 少女時期的珍妮\nTR03   6.2s JENNY: 快跑，阿甘！\nTR03   7.0s JENNY: 快跑！\nTR03   7.4s OLDER BOY #1: 嘿，笨蛋！\nTR04   8.9s OLDER BOY #1: 你沒聽到嗎，笨蛋？\nTR05  10.4s JENNY: 快跑，阿甘！\nTR05  11.2s [AD] 丟石頭的人跳上了一輛皮卡車，和另外兩個人在一起。\nTR06  13.6s OLDER BOY #2: 站住，你這個混蛋！\nTR08  16.4s JENNY: 快跑，阿甘！\nTR08  17.7s JENNY: 快跑！\nTR16  32.6s [AD] 皮卡車緊緊跟在阿甘身後。\nTR17  34.5s [AD] 他轉回草地上。\nTR18  36.6s [AD] 皮卡車在後面緊追不捨。\nTR22  45.4s JENNY: 快跑，阿甘！\nTR23  47.1s [AD] 他跳過了一道柵欄。\nTR24  49.0s [AD] 在候車長椅上",
+   "time": "19:04.4–19:54.0，50 秒",
+   "label": "場景 3"
+  },
+  {
+   "wid": "fgS066",
+   "dataset": "FG",
+   "film": "forrest",
+   "media": null,
+   "text": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Vietnam｜hospital lounge｜hospital lounge（int）\n【人物】FORRESTVO、MAN（VO＝旁白聲）\n【片段】52:51.2–53:45.6，54 秒\n\nTR00   0.8s [AD] in einem Freizeitraum des Lazaretts sitzt Forrest mit einem Eis vorm Fernseher.\nTR03   6.2s SOLDIER IN LIVING ROOM: Gump, wieso guckst du dir nur diese blöde Scheiße an?\nTR04   9.4s SOLDIER IN LIVING ROOM: dreh das ab!\nTR05  10.4s [AD] mühsam steht Forrest von mehreren Kissen auf.\nTR08  16.1s FORREST: aua\nTR08  16.5s [AD] ein Tischtennisball trifft seinen Kopf.\nTR09  18.7s PINGPONG GUY: hey, Gump!\nTR09  19.5s [AD] der Mann bewegt seinen Schläger wie im Spiel.\nTR10  21.8s PINGPONG GUY: weißt du, wie das hier geht?\nTR11  23.2s [AD] Forrest schüttelt den Kopf.\nTR12  25.1s PINGPONG GUY: na, komm, dann zeig ichs dir, okay?\nTR13  27.0s [AD] er gibt Forrest den Schläger\nTR14  29.2s PINGPONG GUY: also, das Wichtigste an dem Spiel ist, ganz egal, was passiert,\nTR16  33.9s PINGPONG GUY: aber ... du darfst ... nie den Ball aus dem Auge verlieren.\nTR18  37.9s [AD] er bewegt den Ball hin und her.\nTR19  39.4s [AD] Forrest behält ihn im Blick.\nTR20  40.6s PINGPONG GUY: na, dann\nTR20  41.6s [AD] mit dem Eis in der Hand spielt Forrest gegen einen Rollstuhlfahrer.\nTR22  44.9s FORREST (V.O.): aus irgendeinem Grund war ich wohl ein Naturtalent beim Pingpong.\nTR24  48.8s PINGPONG GUY: siehst du?\nTR24  50.0s PINGPONG GUY: jeder Idiot kann das spielen.\nTR26  52.2s FORREST (V.O.): jedenfalls spielte ichs von da an dauernd.\nTR27  54.2s [AD] er übt die Angabe.",
+   "text_en": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Vietnam｜hospital lounge｜hospital lounge（int）\n【人物】FORRESTVO、MAN（VO＝旁白聲）\n【片段】52:51.2–53:45.6，54 秒\n\nTR00   0.8s [AD] In a recreation room of the military hospital, Forrest sits in front of the television with an ice cream.\nTR03   6.2s SOLDIER IN LIVING ROOM: Gump, why do you just watch this stupid shit?\nTR04   9.4s SOLDIER IN LIVING ROOM: turn that off!\nTR05  10.4s [AD] with difficulty, Forrest gets up from several pillows.\nTR08  16.1s FORREST: ouch\nTR08  16.5s [AD] a ping-pong ball hits his head.\nTR09  18.7s PINGPONG GUY: hey, Gump!\nTR09  19.5s [AD] the man moves his paddle as if in a game.\nTR10  21.8s PINGPONG GUY: do you know how this works?\nTR11  23.2s [AD] Forrest shakes his head.\nTR12  25.1s PINGPONG GUY: well, come on, then I'll show you, okay?\nTR13  27.0s [AD] he gives Forrest the paddle\nTR14  29.2s PINGPONG GUY: so, the most important thing about the game is, no matter what happens,\nTR16  33.9s PINGPONG GUY: but... you must... never take your eyes off the ball.\nTR18  37.9s [AD] he moves the ball back and forth.\nTR19  39.4s [AD] Forrest keeps his eyes on it.\nTR20  40.6s PINGPONG GUY: well, then\nTR20  41.6s [AD] with the ice cream in his hand, Forrest plays against a man in a wheelchair.\nTR22  44.9s FORREST (V.O.): for some reason, I guess I was a natural at ping-pong.\nTR24  48.8s PINGPONG GUY: see?\nTR24  50.0s PINGPONG GUY: any idiot can play that.\nTR26  52.2s FORREST (V.O.): anyway, I played it all the time from then on.\nTR27  54.2s [AD] he practices his serve.",
+   "text_zh": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Vietnam｜hospital lounge｜hospital lounge（int）\n【人物】FORRESTVO、MAN（VO＝旁白聲）\n【片段】52:51.2–53:45.6，54 秒\n\nTR00   0.8s [AD] 在軍醫院的休閒室裡，阿甘拿著冰淇淋坐在電視機前。\nTR03   6.2s SOLDIER IN LIVING ROOM: 甘，你幹嘛一直看這種爛東西？\nTR04   9.4s SOLDIER IN LIVING ROOM: 把它關掉！\nTR05  10.4s [AD] 阿甘吃力地從好幾個枕頭上站起來。\nTR08  16.1s FORREST: 哎喲\nTR08  16.5s [AD] 一顆桌球擊中了他的頭。\nTR09  18.7s PINGPONG GUY: 嘿，甘！\nTR09  19.5s [AD] 那個人像在比賽一樣揮動著球拍。\nTR10  21.8s PINGPONG GUY: 你知道這個怎麼玩嗎？\nTR11  23.2s [AD] 阿甘搖搖頭。\nTR12  25.1s PINGPONG GUY: 來吧，那我教你，好嗎？\nTR13  27.0s [AD] 他把球拍交給阿甘\nTR14  29.2s PINGPONG GUY: 所以，這遊戲最重要的事情就是，不管發生什麼事，\nTR16  33.9s PINGPONG GUY: 但是……你絕對……不能讓球離開視線。\nTR18  37.9s [AD] 他把球來回晃動。\nTR19  39.4s [AD] 阿甘盯著球看。\nTR20  40.6s PINGPONG GUY: 好吧，那就來吧\nTR20  41.6s [AD] 阿甘手裡拿著冰淇淋，與一名坐輪椅的人對打。\nTR22  44.9s FORREST (V.O.): 不知怎的，我想我在打桌球上很有天分。\nTR24  48.8s PINGPONG GUY: 你看到了嗎？\nTR24  50.0s PINGPONG GUY: 任何白痴都會玩這個。\nTR26  52.2s FORREST (V.O.): 總之，從那時起我一直在玩。\nTR27  54.2s [AD] 他練習發球。",
+   "time": "52:51.2–53:45.6，54 秒",
+   "label": "場景 4"
+  },
+  {
+   "wid": "fgS098",
+   "dataset": "FG",
+   "film": "forrest",
+   "media": null,
+   "text": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：時間跳躍（數秒至約一兩小時後） ×5｜日夜：day\n【地點】Bayou La Batre｜Bubba's Home；Bubba's Grave；harbor｜Bubba's Home；Bubba's Grave；gangplank to ships；stall（ext）\n【人物】FORREST、MRSBLUE、OLDMAN（VO＝旁白聲）\n【片段】75:44.3–77:09.0，85 秒\n\nTR00   0.5s FORREST (V.O.): ich bin nicht lange zu Hause geblieben.\nTR01   2.3s FORREST: ich hatte Bubba ja etwas versprochen und ich bemühe mich immer, meine Versprechen zu halten.\nTR03   6.7s FORREST (V.O.): ich bin nach Bayou La Batre gefahren, zu Bubbas Familie, um ihnen zu sagen, was ich vorhabe.\nTR05  10.8s MRS. BLUE: sind sie ein Idiot?\nTR06  13.2s MRS. BLUE: ... oder sind sie einfach nur dumm?\nTR07  15.3s FORREST: dumm ist der, der dummes tut, Missis Blue.\nTR08  17.4s MRS. BLUE: das kann sein.\nTR09  18.6s [AD] bei ihr stehen fünf Kinder.\nTR09  19.9s FORREST (V.O.): natürlich habe ich auch Bubba selbst meine Ehre erwiesen.\nTR11  23.5s [AD] am Grab\nTR12  24.9s FORREST: hey, Bubba!\nTR12  25.8s FORREST: ich bins Forrest Gump.\nTR15  30.6s FORREST (V.O.): ich hab nicht vergessen, was du gesagt hast.\nTR16  33.1s FORREST: und ich hab alles genau ausgerechnet.\nTR17  35.4s [AD] er zieht einen Zettel raus.\nTR18  36.9s FORREST: ich nehme jetzt die vierundzwanzigtausendfünfhundertzweiundsechzig Dollar und siebenundvierzig Cent, die noch da sind.\nTR22  44.7s FORREST (V.O.): nach einem neuen Haarschnitt und einem neuen Anzug und dann hab ich Mama schick zum Essen ausgeführt und hab eine Fahrkarte für den Bus gekauft und drei Doktor Pepper Colas.\nTR26  53.3s [AD] am Hafen\nTR27  54.2s OLD SHRIMPER: sagen sie mal ...\nTR27  55.1s [AD] ein Schwarzer mit dem Geld\nTR28  56.5s OLD SHRIMPER: sind sie dumm oder sowas?\nTR29  58.6s FORREST: dumm ist der, der dummes tut, Sir.\nTR30  60.5s FORREST: das ist noch übrig geblieben, nachdem ich gesagt hatte:\nTR31  63.7s FORREST: als ich in China war, in der Pingpong-Nationalmannschaft, da habe ich am liebsten nur mit meinem Flex-O-Light-Pingpong-Schläger Pingpong gespielt.\nTR35  70.3s FORREST: jeder weiß, dass das nicht wahr ist, aber Mama hat gesagt, das ist ne Notlüge, die tut keinem weh.\nTR37  74.8s [AD] wieder am Grab\nTR38  76.5s FORREST: na, jedenfalls habe ich ...\nTR38  77.8s FORREST: ich meine, ich kaufe jetzt Sprit, ... Schiffstaue, neue Netze und ... einen nigelnagelneuen Shrimpkutter.",
+   "text_en": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：時間跳躍（數秒至約一兩小時後） ×5｜日夜：day\n【地點】Bayou La Batre｜Bubba's Home；Bubba's Grave；harbor｜Bubba's Home；Bubba's Grave；gangplank to ships；stall（ext）\n【人物】FORREST、MRSBLUE、OLDMAN（VO＝旁白聲）\n【片段】75:44.3–77:09.0，85 秒\n\nTR00   0.5s FORREST (V.O.): I didn't stay home for long.\nTR01   2.3s FORREST: I had made Bubba a promise, and I always try to keep my promises.\nTR03   6.7s FORREST (V.O.): I drove down to Bayou La Batre, to Bubba's family, to tell them what I was planning to do.\nTR05  10.8s MRS. BLUE: Are you an idiot?\nTR06  13.2s MRS. BLUE: ... or are you just stupid?\nTR07  15.3s FORREST: Stupid is as stupid does, Mrs. Blue.\nTR08  17.4s MRS. BLUE: That may be.\nTR09  18.6s [AD] Five children are standing by her.\nTR09  19.9s FORREST (V.O.): Of course, I also paid my respects to Bubba himself.\nTR11  23.5s [AD] At the grave\nTR12  24.9s FORREST: Hey, Bubba!\nTR12  25.8s FORREST: It's me, Forrest Gump.\nTR15  30.6s FORREST (V.O.): I haven't forgotten what you said.\nTR16  33.1s FORREST: And I calculated everything precisely.\nTR17  35.4s [AD] He pulls out a slip of paper.\nTR18  36.9s FORREST: I'm now taking the twenty-four thousand five hundred sixty-two dollars and forty-seven cents that are left.\nTR22  44.7s FORREST (V.O.): After a new haircut and a new suit, and then I took Mama out for a nice dinner and bought a bus ticket and three Dr Pepper sodas.\nTR26  53.3s [AD] At the harbor\nTR27  54.2s OLD SHRIMPER: Tell me...\nTR27  55.1s [AD] A Black man with the money\nTR28  56.5s OLD SHRIMPER: Are you stupid or something?\nTR29  58.6s FORREST: Stupid is as stupid does, sir.\nTR30  60.5s FORREST: That's what was left over after I said:\nTR31  63.7s FORREST: When I was in China, on the national ping-pong team, I liked playing ping-pong best using only my Flex-O-Light ping-pong paddle.\nTR35  70.3s FORREST: Everyone knows that's not true, but Mama said it's a white lie that doesn't hurt anyone.\nTR37  74.8s [AD] Back at the grave\nTR38  76.5s FORREST: Well, anyway, I have...\nTR38  77.8s FORREST: I mean, I'm buying fuel now... ropes, new nets, and... a brand-new shrimping boat.",
+   "text_zh": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：時間跳躍（數秒至約一兩小時後） ×5｜日夜：day\n【地點】Bayou La Batre｜Bubba's Home；Bubba's Grave；harbor｜Bubba's Home；Bubba's Grave；gangplank to ships；stall（ext）\n【人物】FORREST、MRSBLUE、OLDMAN（VO＝旁白聲）\n【片段】75:44.3–77:09.0，85 秒\n\nTR00   0.5s FORREST (V.O.): 我沒有在家待太久。\nTR01   2.3s FORREST: 我答應過阿呆一件事情，而且我總是努力信守承諾。\nTR03   6.7s FORREST (V.O.): 我開車去了巴尤拉巴特，到阿呆的家人那裡，告訴他們我的計劃。\nTR05  10.8s MRS. BLUE: 你是個白痴嗎？\nTR06  13.2s MRS. BLUE: ...還是你只是笨？\nTR07  15.3s FORREST: 蠢人做蠢事，布魯太太。\nTR08  17.4s MRS. BLUE: 這倒有可能。\nTR09  18.6s [AD] 她旁邊站著五個孩子。\nTR09  19.9s FORREST (V.O.): 當然，我也向阿呆本人表達了我的敬意。\nTR11  23.5s [AD] 在墳墓旁\nTR12  24.9s FORREST: 嘿，阿呆！\nTR12  25.8s FORREST: 是我，阿甘。\nTR15  30.6s FORREST (V.O.): 我沒有忘記你說的話。\nTR16  33.1s FORREST: 而且我都精確地算好了。\nTR17  35.4s [AD] 他拿出一張紙條。\nTR18  36.9s FORREST: 我現在要把剩下的兩萬四千五百六十二美元四十七美分拿走。\nTR22  44.7s FORREST (V.O.): 在理了一個新髮型、穿了一套新西裝之後，我帶媽媽去吃了一頓高級晚餐，還買了一張公車票和三瓶胡椒博士汽水。\nTR26  53.3s [AD] 在港口\nTR27  54.2s OLD SHRIMPER: 聽我說...\nTR27  55.1s [AD] 一個黑人拿著這筆錢\nTR28  56.5s OLD SHRIMPER: 你是笨蛋還是怎樣？\nTR29  58.6s FORREST: 蠢人做蠢事，先生。\nTR30  60.5s FORREST: 這是在我說了之後剩下的：\nTR31  63.7s FORREST: 當我在中國的國家桌球隊時，我最喜歡只用我的 Flex-O-Light 球拍打桌球。\nTR35  70.3s FORREST: 大家都知道這不是真的，但媽媽說這是善意的謊言，不會傷害任何人。\nTR37  74.8s [AD] 回到墳墓旁\nTR38  76.5s FORREST: 嗯，總之我...\nTR38  77.8s FORREST: 我是說，我現在要買燃料... 船纜、新網子，還有... 一艘全新的捕蝦船。",
+   "time": "75:44.3–77:09.0，85 秒",
+   "label": "場景 5"
+  },
+  {
+   "wid": "fgS105",
+   "dataset": "FG",
+   "film": "forrest",
+   "media": null,
+   "text": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Bayou La Batre｜harbor｜jetty（ext）\n【人物】DAN、FORREST（VO＝旁白聲）\n【片段】80:18.8–81:57.0，98 秒\n\nTR00   0.1s [AD] es ist Tag.\nTR00   1.1s [AD] Forrest steuert die Jenny am Ufer entlang.\nTR01   3.8s [AD] er trägt ein verschmutztes, weißes Muscle-Shirt und eine Schirmmütze.\nTR03   7.6s [AD] plötzlich entdeckt er etwas und späht richtung Ufer.\nTR05  11.0s [AD] auf einem Anlegesteg sitzt Dan im Rollstuhl.\nTR07  14.9s [AD] Forrest lässt das Steuerrad los und stellt sich an die Reling.\nTR09  18.3s FORREST: ha\nTR09  19.7s [AD] Dan macht das Peace-Zeichen.\nTR10  21.2s [AD] Forrest winkt wild.\nTR11  23.0s FORREST: Dan\nTR12  24.6s [AD] Forrest springt über Bord.\nTR14  28.9s [AD] der Kutter fährt weiter.\nTR16  32.3s [AD] Forrest krault zum Steg.\nTR20  41.6s [AD] Dan raucht eine Zigarre mit Mundstück.\nTR21  43.9s [AD] Forrest steigt eine Leiter zu ihm hoch.\nTR23  46.1s FORREST: äh\nTR23  47.0s FORREST: Lieutenant Dan!\nTR24  48.2s FORREST: äch\nTR24  48.9s FORREST: was machen Sie hier?\nTR25  50.7s FORREST: ech\nTR25  51.0s LT. DAN: naja\nTR26  52.0s LT. DAN: ich wollte meine Seemannsbeine testen.\nTR27  54.7s FORREST: ah\nTR27  55.2s FORREST: ah\nTR27  55.4s FORREST: aber sie haben gar keine Beine, Lieutenant Dan.\nTR29  58.7s LT. DAN: ja, das weiß ich.\nTR30  61.1s LT. DAN: du hast mir geschrieben, du Idiot.\nTR31  63.2s LT. DAN: Mann, oh, Mann!\nTR32  64.3s LT. DAN: Kapitän Forrest Gump\nTR33  66.0s LT. DAN: das wollt ich doch mit eigenen Augen sehen.\nTR33  67.8s FORREST: hä, häch\nTR34  69.1s LT. DAN: und, äh ... ich hatte gesagt, wenn ... du wirklich jemals Shrimpkutterkapitän wirst, werde ich dein erster Offizier.\nTR38  77.5s LT. DAN: bitte, hier bin ich.\nTR39  78.5s LT. DAN: ich bin ein Mann der sein Wort hält.\nTR40  80.1s FORREST: ache\nTR40  80.7s FORREST: okay\nTR40  81.6s LT. DAN: ja, aber bild dir gefälligst nicht ein, dass ich dich mit 'Sir' anreden werde.\nTR42  85.7s FORREST: nein, Sir\nTR43  86.5s [AD] hinter ihm rammt das Schiff einen Ponton.\nTR45  90.8s [AD] es schiebt den halben Ponton vor sich her.\nTR47  95.7s FORREST: das ist mein Boot.\nTR48  97.1s [AD] auf dem offenen Meer.\nTR49  98.1s [AD] hoch über dem Deck sitzt Dan auf einem Mast.",
+   "text_en": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Bayou La Batre｜harbor｜jetty（ext）\n【人物】DAN、FORREST（VO＝旁白聲）\n【片段】80:18.8–81:57.0，98 秒\n\nTR00   0.1s [AD] It is daytime.\nTR00   1.1s [AD] Forrest steers the Jenny along the shore.\nTR01   3.8s [AD] He is wearing a dirty, white muscle shirt and a baseball cap.\nTR03   7.6s [AD] Suddenly he spots something and peers toward the shore.\nTR05  11.0s [AD] On a pier, Dan is sitting in a wheelchair.\nTR07  14.9s [AD] Forrest lets go of the steering wheel and stands at the railing.\nTR09  18.3s FORREST: Ha.\nTR09  19.7s [AD] Dan makes the peace sign.\nTR10  21.2s [AD] Forrest waves wildly.\nTR11  23.0s FORREST: Dan!\nTR12  24.6s [AD] Forrest jumps overboard.\nTR14  28.9s [AD] The cutter keeps moving.\nTR16  32.3s [AD] Forrest does the crawl stroke toward the pier.\nTR20  41.6s [AD] Dan is smoking a cigar with a holder.\nTR21  43.9s [AD] Forrest climbs a ladder up to him.\nTR23  46.1s FORREST: Uh.\nTR23  47.0s FORREST: Lieutenant Dan!\nTR24  48.2s FORREST: Ugh.\nTR24  48.9s FORREST: What are you doing here?\nTR25  50.7s FORREST: Ech.\nTR25  51.0s LT. DAN: Well.\nTR26  52.0s LT. DAN: I wanted to test my sea legs.\nTR27  54.7s FORREST: Ah.\nTR27  55.2s FORREST: Ah.\nTR27  55.4s FORREST: But you ain't got no legs, Lieutenant Dan.\nTR29  58.7s LT. DAN: Yeah, I know that.\nTR30  61.1s LT. DAN: You wrote to me, you idiot.\nTR31  63.2s LT. DAN: Man, oh, man!\nTR32  64.3s LT. DAN: Captain Forrest Gump.\nTR33  66.0s LT. DAN: I wanted to see that with my own eyes.\nTR33  67.8s FORREST: Ha, häch.\nTR34  69.1s LT. DAN: And, uh... I said if... you ever really become a shrimping boat captain, I'll be your first mate.\nTR38  77.5s LT. DAN: Please, here I am.\nTR39  78.5s LT. DAN: I am a man of my word.\nTR40  80.1s FORREST: Ache.\nTR40  80.7s FORREST: Okay.\nTR40  81.6s LT. DAN: Yeah, but don't you dare think I'm going to call you 'Sir'.\nTR42  85.7s FORREST: No, sir.\nTR43  86.5s [AD] Behind him, the ship rams into a pontoon.\nTR45  90.8s [AD] It pushes half the pontoon along in front of it.\nTR47  95.7s FORREST: That's my boat.\nTR48  97.1s [AD] On the open sea.\nTR49  98.1s [AD] High above the deck, Dan is sitting on a mast.",
+   "text_zh": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Bayou La Batre｜harbor｜jetty（ext）\n【人物】DAN、FORREST（VO＝旁白聲）\n【片段】80:18.8–81:57.0，98 秒\n\nTR00   0.1s [AD] 白天。\nTR00   1.1s [AD] 阿甘操控著珍妮號沿著岸邊前進。\nTR01   3.8s [AD] 他穿著一件髒兮兮的白色無袖汗衫，戴著鴨舌帽。\nTR03   7.6s [AD] 突然他發現了什麼，望向岸邊的方向。\nTR05  11.0s [AD] 丹正坐在碼頭的一個輪椅上。\nTR07  14.9s [AD] 阿甘放開方向盤，走到船舷旁。\nTR09  18.3s FORREST: 哈。\nTR09  19.7s [AD] 丹比出勝利手勢。\nTR10  21.2s [AD] 阿甘瘋狂揮手。\nTR11  23.0s FORREST: 丹！\nTR12  24.6s [AD] 阿甘跳過船舷落水。\nTR14  28.9s [AD] 漁船繼續往前開。\nTR16  32.3s [AD] 阿甘游自由式朝碼頭前進。\nTR20  41.6s [AD] 丹抽著裝有菸嘴雪茄。\nTR21  43.9s [AD] 阿甘爬上梯子去找他。\nTR23  46.1s FORREST: 呃。\nTR23  47.0s FORREST: 丹中尉！\nTR24  48.2s FORREST: 唔。\nTR24  48.9s FORREST: 你怎麼在這裡？\nTR25  50.7s FORREST: 呃。\nTR25  51.0s LT. DAN: 嗯。\nTR26  52.0s LT. DAN: 我想試試我的水手腿。\nTR27  54.7s FORREST: 啊。\nTR27  55.2s FORREST: 啊。\nTR27  55.4s FORREST: 可是你根本沒有腿，丹中尉。\nTR29  58.7s LT. DAN: 對，我知道。\nTR30  61.1s LT. DAN: 你寫信告訴我的，你這個白痴。\nTR31  63.2s LT. DAN: 天啊！\nTR32  64.3s LT. DAN: 阿甘船長。\nTR33  66.0s LT. DAN: 我親眼想來瞧瞧。\nTR33  67.8s FORREST: 哈，哼。\nTR34  69.1s LT. DAN: 而且，呃……我說過，如果你……真的當上捕蝦船船長，我要當你的大副。\nTR38  77.5s LT. DAN: 請看，我來了。\nTR39  78.5s LT. DAN: 我是個說話算話的男人。\nTR40  80.1s FORREST: 呃。\nTR40  80.7s FORREST: 好吧。\nTR40  81.6s LT. DAN: 好啦，不過你可別想我會叫你「長官」。\nTR42  85.7s FORREST: 不，長官。\nTR43  86.5s [AD] 在他身後，船隻撞上了一個浮筒。\nTR45  90.8s [AD] 它推著半個浮筒往前走。\nTR47  95.7s FORREST: 那是我的船。\nTR48  97.1s [AD] 在公海上。\nTR49  98.1s [AD] 甲板高處的桅杆上，丹正坐在那裡。",
+   "time": "80:18.8–81:57.0，98 秒",
+   "label": "場景 6"
+  },
+  {
+   "wid": "fgS106",
+   "dataset": "FG",
+   "film": "forrest",
+   "media": null,
+   "text": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：時間跳躍（數秒至約一兩小時後） ×1｜日夜：day\n【地點】Bayou La Batre｜on the boat｜on the boat（ext）\n【人物】DAN、FORREST（VO＝旁白聲）\n【片段】81:57.0–82:53.6，57 秒\n\nTR01   2.0s LT. DAN: ich hab das Gefühl, ... wenn wir nach Osten fahren, ... dann finden wir Shrimps.\nTR03   7.2s LT. DAN: also fahr nach links!\nTR04   8.3s [AD] verwirrt lässt Forrest das Steuer los.\nTR05  10.1s LT. DAN: fahr nach links!\nTR05  11.6s FORREST: wo lang?\nTR06  13.2s LT. DAN: darüber, darüber, da!\nTR08  16.2s LT. DAN: hey, geh ans Steuerrad und fahr nach links!\nTR09  18.6s FORREST: okay!\nTR10  20.0s [AD] er dreht nach rechts.\nTR10  21.1s LT. DAN: Gump, was machst du denn da?\nTR11  23.0s LT. DAN: nein, links, links!\nTR12  25.4s [AD] Forrest überlegt ... und fährt nach links.\nTR13  27.3s LT. DAN: da drüben, da drüben finden wir die Shrimps, mein Junge.\nTR15  30.1s LT. DAN: ha, ha\nTR15  30.8s [AD] Dan trägt Stirnband und Sonnenbrille.\nTR16  32.4s LT. DAN: da finden wir unsere Shrimps.\nTR17  35.6s [AD] Forrest öffnet das Netz.\nTR18  37.7s [AD] an Deck liegen Dosen, eine Klobrille und anderer Müll.\nTR20  40.6s [AD] Dan sitzt daneben.\nTR20  41.8s [AD] Forrest hebt die Klobrille auf und betrachtet sie.\nTR22  44.6s FORREST: huch\nTR23  46.2s FORREST: wieder keine Shrimps, Lieutenant Dan.\nTR23  48.0s LT. DAN: okay, hab ich mich eben geirrt.\nTR24  49.8s FORREST: hach\nTR25  50.8s FORREST: wie sollen wir denn nur welche finden?\nTR27  54.1s LT. DAN: na, vielleicht solltest du um die Shrimps beten.",
+   "text_en": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：時間跳躍（數秒至約一兩小時後） ×1｜日夜：day\n【地點】Bayou La Batre｜on the boat｜on the boat（ext）\n【人物】DAN、FORREST（VO＝旁白聲）\n【片段】81:57.0–82:53.6，57 秒\n\nTR01   2.0s LT. DAN: I have the feeling... if we head east... then we'll find shrimp.\nTR03   7.2s LT. DAN: So turn left!\nTR04   8.3s [AD] Confused, Forrest lets go of the wheel.\nTR05  10.1s LT. DAN: Turn left!\nTR05  11.6s FORREST: Which way?\nTR06  13.2s LT. DAN: Over there, over there, there!\nTR08  16.2s LT. DAN: Hey, take the wheel and turn left!\nTR09  18.6s FORREST: Okay!\nTR10  20.0s [AD] He turns right.\nTR10  21.1s LT. DAN: Gump, what on earth are you doing?\nTR11  23.0s LT. DAN: No, left, left!\nTR12  25.4s [AD] Forrest thinks... and steers to the left.\nTR13  27.3s LT. DAN: Over there, over there we'll find the shrimp, my boy.\nTR15  30.1s LT. DAN: Ha, ha\nTR15  30.8s [AD] Dan is wearing a headband and sunglasses.\nTR16  32.4s LT. DAN: That's where we'll find our shrimp.\nTR17  35.6s [AD] Forrest opens the net.\nTR18  37.7s [AD] On deck are cans, a toilet seat, and other trash.\nTR20  40.6s [AD] Dan sits next to it.\nTR20  41.8s [AD] Forrest picks up the toilet seat and looks at it.\nTR22  44.6s FORREST: Whoops\nTR23  46.2s FORREST: Still no shrimp, Lieutenant Dan.\nTR23  48.0s LT. DAN: Okay, I guess I was wrong.\nTR24  49.8s FORREST: Sigh\nTR25  50.8s FORREST: How are we supposed to find any?\nTR27  54.1s LT. DAN: Well, maybe you should pray for shrimp.",
+   "text_zh": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：時間跳躍（數秒至約一兩小時後） ×1｜日夜：day\n【地點】Bayou La Batre｜on the boat｜on the boat（ext）\n【人物】DAN、FORREST（VO＝旁白聲）\n【片段】81:57.0–82:53.6，57 秒\n\nTR01   2.0s LT. DAN: 我有種感覺……如果我們向東開……那我們就會找到蝦子。\nTR03   7.2s LT. DAN: 所以向左轉！\nTR04   8.3s [AD] 阿甘一臉困惑地鬆開了方向盤。\nTR05  10.1s LT. DAN: 向左轉！\nTR05  11.6s FORREST: 哪邊？\nTR06  13.2s LT. DAN: 在那裡，在那裡，那裡！\nTR08  16.2s LT. DAN: 嘿，去抓著舵向左轉！\nTR09  18.6s FORREST: 好！\nTR10  20.0s [AD] 他向右轉向。\nTR10  21.1s LT. DAN: 甘，你在搞什麼鬼？\nTR11  23.0s LT. DAN: 不，左邊，左邊！\nTR12  25.4s [AD] 阿甘想了想……然後向左開去。\nTR13  27.3s LT. DAN: 就在那邊，我們在那邊會找到蝦子的，孩子。\nTR15  30.1s LT. DAN: 哈，哈\nTR15  30.8s [AD] 丹中尉戴著頭帶和太陽眼鏡。\nTR16  32.4s LT. DAN: 我們就在那裡找我們的蝦子。\nTR17  35.6s [AD] 阿甘打開了網子。\nTR18  37.7s [AD] 甲板上躺著罐頭、一個馬桶蓋和其他垃圾。\nTR20  40.6s [AD] 丹坐在旁邊。\nTR20  41.8s [AD] 阿甘撿起馬桶蓋並看著它。\nTR22  44.6s FORREST: 哎呀\nTR23  46.2s FORREST: 還是沒有蝦子，丹中尉。\nTR23  48.0s LT. DAN: 好吧，看來是我搞錯了。\nTR24  49.8s FORREST: 唉\nTR25  50.8s FORREST: 我們到底要怎麼才能找到蝦子？\nTR27  54.1s LT. DAN: 嗯，也許你該為蝦子祈禱。",
+   "time": "81:57.0–82:53.6，57 秒",
+   "label": "場景 7"
+  },
+  {
+   "wid": "fgS109",
+   "dataset": "FG",
+   "film": "forrest",
+   "media": null,
+   "text": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Bayou La Batre｜on the boat｜on the boat（ext）\n【人物】DAN、FORREST（VO＝旁白聲）\n【片段】83:34.4–84:24.6，50 秒\n\nTR01   2.0s [AD] heftige Wellen krachen gegen die Bordwand.\nTR02   4.8s [AD] Forrest kommt aus dem Ruderhaus, kämpft sich zum Achterdeck und klammert sich ans Steuer.\nTR04   9.3s [AD] der Wind peitscht Gischt übers Deck.\nTR05  11.8s [AD] Dan sitzt hoch oben im Mast.\nTR06  13.3s [AD] mit einer Hand hält er sich an einem Seil fest.\nTR08  17.0s FORREST (V.O.): also ich, ich hatte Angst, aber Lieutenant Dan, der war wahnsinnig.\nTR12  24.3s [AD] mit nacktem Oberkörper reckt er den Arm hoch.\nTR13  26.5s [AD] über ihm weht die US-Fahne.",
+   "text_en": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Bayou La Batre｜on the boat｜on the boat（ext）\n【人物】DAN、FORREST（VO＝旁白聲）\n【片段】83:34.4–84:24.6，50 秒\n\nTR01   2.0s [AD] heavy waves crash against the ship's hull.\nTR02   4.8s [AD] Forrest comes out of the wheelhouse, fights his way to the aft deck and clings to the helm.\nTR04   9.3s [AD] the wind whips spray across the deck.\nTR05  11.8s [AD] Dan sits high up in the mast.\nTR06  13.3s [AD] with one hand he holds onto a rope.\nTR08  17.0s FORREST (V.O.): well me, I was scared, but Lieutenant Dan, he was crazy.\nTR12  24.3s [AD] with a bare upper body he raises his arm high.\nTR13  26.5s [AD] above him, the US flag flutters.",
+   "text_zh": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Bayou La Batre｜on the boat｜on the boat（ext）\n【人物】DAN、FORREST（VO＝旁白聲）\n【片段】83:34.4–84:24.6，50 秒\n\nTR01   2.0s [AD] 猛烈的巨浪拍打着船舷。\nTR02   4.8s [AD] 阿甘从驾驶室出来，艰难地走到后甲板，紧紧抓住舵轮。\nTR04   9.3s [AD] 狂风将浪花抽打在甲板上。\nTR05  11.8s [AD] 丹中尉高高坐在桅杆上。\nTR06  13.3s [AD] 他只用一只手抓着一根绳子。\nTR08  17.0s FORREST (V.O.): 嗯我，我很害怕，但是丹中尉，他简直疯了。\nTR12  24.3s [AD] 他赤着上身，高高举起手臂。\nTR13  26.5s [AD] 在他头顶上，美国国旗迎风飘扬。",
+   "time": "83:34.4–84:24.6，50 秒",
+   "label": "場景 8"
+  },
+  {
+   "wid": "fgS116",
+   "dataset": "FG",
+   "film": "forrest",
+   "media": null,
+   "text": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Savannah｜bench at bus stop｜bench at bus stop（ext）\n【人物】FORREST、MAN、OLDWOMAN（VO＝旁白聲）\n【片段】84:59.7–86:06.8，67 秒\n\nTR00   1.7s [AD] auf der Wartebank\nTR01   2.5s FORREST: ... konnte man nur noch Bubba-Gump-Shrimps kaufen.\nTR02   4.6s [AD] neben dem Dicken sitzt eine Frau.\nTR03   6.0s FORREST: wir hatten eine Menge Boote.\nTR04   8.1s FORREST: zwölf Jennys\nTR04   9.8s FORREST: ein mordsgroßes Lagerhaus\nTR05  11.4s FORREST: Wir hatten sogar Kappen, da stand Bubba-Gump drauf.\nTR07  14.1s FORREST: Bubba-Gump-Shrimps\nTR08  16.1s FORREST: das ist ein Markenname.\nTR08  17.3s MAN IN SAVANNAH: Moment mal, mein Freund\nTR09  19.1s MAN IN SAVANNAH: soll das etwa heißen, Sie sind der Inhaber der Bubba-Gump-Shrimp Corporation?\nTR11  23.8s FORREST: ja, Sir!\nTR12  24.4s FORREST: wir haben mehr Geld als Davy Crocket.\nTR13  26.8s MAN IN SAVANNAH: ha, ha, ha, hach\nTR13  27.9s MAN IN SAVANNAH: Mann, ich hab schon ne Menge Lügengeschichten gehört, aber das übertrifft alles.\nTR15  32.0s MAN IN SAVANNAH: ha, ha, ha, ha\nTR16  33.0s [AD] er geht.\nTR16  33.7s MAN IN SAVANNAH: he\nTR17  34.4s MAN IN SAVANNAH: ech, wir haben neben einem Millionär gesessen.\nTR18  37.4s MAN IN SAVANNAH: ha, ha, ha, ha\nTR19  39.3s MAN IN SAVANNAH: huach, ach\nTR20  40.3s ELDERLY WOMAN: also\nTR20  41.5s ELDERLY WOMAN: ich fand, das war eine wirklich sehr, sehr hübsche Geschichte.\nTR22  45.3s ELDERLY WOMAN: und sie erzählen sie so schön, ... mit so viel Begeisterung.\nTR25  51.3s FORREST: möchten sie mal sehen, wie Lieutenant Dan aussieht?\nTR26  53.9s ELDERLY WOMAN: aber ja, gern sogar\nTR27  55.9s [AD] aus dem Koffer holt er ein 'Fortune-Magazin'.\nTR29  58.3s [AD] auf dem Cover er mit Dan vor der Kutterflotte.\nTR30  60.7s FORREST: das da\nTR30  61.3s FORREST: das ist er.\nTR31  63.6s ELDERLY WOMAN: ah\nTR32  64.2s FORREST: und ich kann ihnen noch was über Lieutenant Dan erzählen.",
+   "text_en": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Savannah｜bench at bus stop｜bench at bus stop（ext）\n【人物】FORREST、MAN、OLDWOMAN（VO＝旁白聲）\n【片段】84:59.7–86:06.8，67 秒\n\nTR00   1.7s [AD] on the bench\nTR01   2.5s FORREST: ... you could only buy Bubba Gump shrimp.\nTR02   4.6s [AD] next to the fat man sits a woman.\nTR03   6.0s FORREST: we had a lot of boats.\nTR04   8.1s FORREST: twelve Jennys\nTR04   9.8s FORREST: a huge warehouse\nTR05  11.4s FORREST: We even had caps that said Bubba Gump on them.\nTR07  14.1s FORREST: Bubba Gump Shrimp\nTR08  16.1s FORREST: that's a brand name.\nTR08  17.3s MAN IN SAVANNAH: Wait a minute, my friend\nTR09  19.1s MAN IN SAVANNAH: are you trying to tell me you are the owner of the Bubba Gump Shrimp Corporation?\nTR11  23.8s FORREST: yes, sir!\nTR12  24.4s FORREST: we have more money than Davy Crockett.\nTR13  26.8s MAN IN SAVANNAH: ha, ha, ha, hah\nTR13  27.9s MAN IN SAVANNAH: Man, I've heard a lot of tall tales, but that beats everything.\nTR15  32.0s MAN IN SAVANNAH: ha, ha, ha, ha\nTR16  33.0s [AD] he leaves.\nTR16  33.7s MAN IN SAVANNAH: hey\nTR17  34.4s MAN IN SAVANNAH: man, we were sitting next to a millionaire.\nTR18  37.4s MAN IN SAVANNAH: ha, ha, ha, ha\nTR19  39.3s MAN IN SAVANNAH: huach, ah\nTR20  40.3s ELDERLY WOMAN: so\nTR20  41.5s ELDERLY WOMAN: I thought that was a really, really pretty story.\nTR22  45.3s ELDERLY WOMAN: and you tell it so nicely... with so much enthusiasm.\nTR25  51.3s FORREST: would you like to see what Lieutenant Dan looks like?\nTR26  53.9s ELDERLY WOMAN: I'd love to\nTR27  55.9s [AD] he takes a Fortune magazine out of the suitcase.\nTR29  58.3s [AD] on the cover, he is with Dan in front of the cutter fleet.\nTR30  60.7s FORREST: that right there\nTR30  61.3s FORREST: that's him.\nTR31  63.6s ELDERLY WOMAN: ah\nTR32  64.2s FORREST: and I can tell you something else about Lieutenant Dan.",
+   "text_zh": "【故事時間】相對前一場：大幅時間跳躍（數小時至數年後）｜段內：無｜日夜：day\n【地點】Savannah｜bench at bus stop｜bench at bus stop（ext）\n【人物】FORREST、MAN、OLDWOMAN（VO＝旁白聲）\n【片段】84:59.7–86:06.8，67 秒\n\nTR00   1.7s [AD] 在候車長椅上\nTR01   2.5s FORREST: ……就只能買到阿呆甘蝦了。\nTR02   4.6s [AD] 胖子旁邊坐着一個女人。\nTR03   6.0s FORREST: 我們有很多艘船。\nTR04   8.1s FORREST: 十二艘珍妮號\nTR04   9.8s FORREST: 一個超級大的倉庫\nTR05  11.4s FORREST: 我們甚至有印着阿呆甘的帽子。\nTR07  14.1s FORREST: 阿呆甘蝦\nTR08  16.1s FORREST: 那是個品牌名稱。\nTR08  17.3s MAN IN SAVANNAH: 等一下，我的朋友\nTR09  19.1s MAN IN SAVANNAH: 你的意思是你是阿呆甘蝦業公司的老闆？\nTR11  23.8s FORREST: 是的，長官！\nTR12  24.4s FORREST: 我們比戴維·克羅克特更有錢。\nTR13  26.8s MAN IN SAVANNAH: 哈哈哈哈\nTR13  27.9s MAN IN SAVANNAH: 老兄，我聽過很多謊話，但這簡直太誇張了。\nTR15  32.0s MAN IN SAVANNAH: 哈哈哈哈\nTR16  33.0s [AD] 他走了。\nTR16  33.7s MAN IN SAVANNAH: 嘿\nTR17  34.4s MAN IN SAVANNAH: 天哪，我們剛剛坐在一個百萬富翁旁邊。\nTR18  37.4s MAN IN SAVANNAH: 哈哈哈哈\nTR19  39.3s MAN IN SAVANNAH: 哼，啊\nTR20  40.3s ELDERLY WOMAN: 所以\nTR20  41.5s ELDERLY WOMAN: 我覺得這是一個非常非常動人的故事。\nTR22  45.3s ELDERLY WOMAN: 而且你講得真好……充滿了熱情。\nTR25  51.3s FORREST: 妳想看看丹中尉長什麼樣嗎？\nTR26  53.9s ELDERLY WOMAN: 好啊，當然想\nTR27  55.9s [AD] 他從手提箱裡拿出一本《財富》雜誌。\nTR29  58.3s [AD] 封面是他和丹中尉站在漁船隊前面。\nTR30  60.7s FORREST: 那個\nTR30  61.3s FORREST: 就是他。\nTR31  63.6s ELDERLY WOMAN: 啊\nTR32  64.2s FORREST: 我還可以告訴妳一些關於丹中尉的事。",
+   "time": "84:59.7–86:06.8，67 秒",
+   "label": "場景 9"
+  },
+  {
+   "wid": "fgS164",
+   "dataset": "FG",
+   "film": "forrest",
+   "media": null,
+   "text": "【故事時間】相對前一場：倒敘／回到過去（不論遠近）｜段內：無｜日夜：day\n【地點】United States｜street with sidewalk｜street with sidewalk（ext）\n【人物】MAN（VO＝旁白聲）\n【片段】99:40.2–100:12.2，32 秒\n\nTR00   0.6s FORREST (V.O.): ... manche Leute haben mich gefragt, ob ich ihnen helfen könnte.\nTR01   3.1s AGING HIPPIE: hey, Mann!\nTR02   4.2s AGING HIPPIE: hey, ich wollte dich mal fragen, ob du mir helfen kannst.\nTR03   6.5s AGING HIPPIE: ich mach Autoaufkleber, weißt du\nTR04   8.2s AGING HIPPIE: und mir fehlt n guter, neuer Slogan.\nTR05  10.1s AGING HIPPIE: und wo du doch so ne super Inspiration für die Menschen hier bist, dachte ich, dir fällt vielleicht was gutes ein für ...\nTR07  15.0s AGING HIPPIE: wow, Mann!\nTR07  15.9s AGING HIPPIE: du bist gerade durch nen riesen Haufen Hundescheiße gelaufen.\nTR10  20.0s FORREST: das passiert.\nTR10  21.9s AGING HIPPIE: was?\nTR11  22.2s AGING HIPPIE: Scheiße?\nTR12  24.2s FORREST: manchmal\nTR12  25.3s [AD] der Mann bleibt nachdenklich stehen.\nTR13  27.3s FORREST (V.O.): ein paar Jahre später habe ich gehört, dass der Mann wirklich einen Slogan auf Aufklebern rausgebracht hat.",
+   "text_en": "【故事時間】相對前一場：倒敘／回到過去（不論遠近）｜段內：無｜日夜：day\n【地點】United States｜street with sidewalk｜street with sidewalk（ext）\n【人物】MAN（VO＝旁白聲）\n【片段】99:40.2–100:12.2，32 秒\n\nTR00   0.6s FORREST (V.O.): ...some people have asked me if I could help them.\nTR01   3.1s AGING HIPPIE: Hey, man!\nTR02   4.2s AGING HIPPIE: Hey, I wanted to ask you if you can help me.\nTR03   6.5s AGING HIPPIE: I make bumper stickers, you know.\nTR04   8.2s AGING HIPPIE: And I'm missing a good, new slogan.\nTR05  10.1s AGING HIPPIE: And since you're such a great inspiration for the people here, I thought maybe you could come up with something good for...\nTR07  15.0s AGING HIPPIE: Whoa, man!\nTR07  15.9s AGING HIPPIE: You just walked right through a huge pile of dog shit.\nTR10  20.0s FORREST: It happens.\nTR10  21.9s AGING HIPPIE: What?\nTR11  22.2s AGING HIPPIE: Shit?\nTR12  24.2s FORREST: Sometimes.\nTR12  25.3s [AD] The man stops thoughtfully.\nTR13  27.3s FORREST (V.O.): A few years later, I heard that the man really did release a slogan on stickers.",
+   "text_zh": "【故事時間】相對前一場：倒敘／回到過去（不論遠近）｜段內：無｜日夜：day\n【地點】United States｜street with sidewalk｜street with sidewalk（ext）\n【人物】MAN（VO＝旁白聲）\n【片段】99:40.2–100:12.2，32 秒\n\nTR00   0.6s FORREST (V.O.): ……有些人問我，能不能幫他們個忙。\nTR01   3.1s AGING HIPPIE: 嘿，老兄！\nTR02   4.2s AGING HIPPIE: 嘿，我想問你能不能幫我個忙。\nTR03   6.5s AGING HIPPIE: 你知道的，我做汽車貼紙。\nTR04   8.2s AGING HIPPIE: 我缺一個好的新標語。\nTR05  10.1s AGING HIPPIE: 既然你是這裡大家的靈感來源，我想你也許能想出一些好點子……\nTR07  15.0s AGING HIPPIE: 哇，老兄！\nTR07  15.9s AGING HIPPIE: 你剛剛踩過一大堆狗屎。\nTR10  20.0s FORREST: 難免的。\nTR10  21.9s AGING HIPPIE: 什麼？\nTR11  22.2s AGING HIPPIE: 狗屎？\nTR12  24.2s FORREST: 難免的。\nTR12  25.3s [AD] 那男人若有所思地停下腳步。\nTR13  27.3s FORREST (V.O.): 幾年後，我聽說那個人真的把一個標語印在貼紙上推出去了。",
+   "time": "99:40.2–100:12.2，32 秒",
+   "label": "場景 10"
+  }
+ ],
+ "review": [
+  {
+   "id": "Q053",
+   "wid": "bourne_p1_336",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "yes",
+    "location_change_type": "new_place",
+    "on_screen_text": "subtitles",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "en",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Man with glasses",
+      "role": "lead",
+      "emotion": "suspense",
+      "fraction_of_window": 0.6,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 6
+      },
+      "language": {
+       "valence": 4,
+       "arousal": 5
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q029",
+   "wid": "bourne_p2_266",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 1,
+    "max_humanoid_nonhuman": 0,
+    "setting": "vehicle",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "ambient_sfx",
+    "speech_language": "none",
+    "speaker_visibility": "no_speech",
+    "foreground_source": "vehicle_machine",
+    "music_role": "score",
+    "music_function": [
+     "tension"
+    ],
+    "social_interaction": [
+     "none"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Man",
+      "role": "lead",
+      "emotion": "tense",
+      "fraction_of_window": 1.0,
+      "speaking": "no",
+      "audio": {
+       "valence": 3,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 8
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q031",
+   "wid": "bourne_p4_91",
+   "arm": "V",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 3,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "yes",
+    "location_change_type": "new_place",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "en",
+    "speaker_visibility": "off_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Jason Bourne",
+      "role": "lead",
+      "emotion": "serious",
+      "fraction_of_window": 0.45,
+      "speaking": "no",
+      "audio": {
+       "valence": 4,
+       "arousal": 6
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 5
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     },
+     {
+      "name": "Man in suit (speaker)",
+      "role": "supporting",
+      "emotion": "serious",
+      "fraction_of_window": 0.35,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 6
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 5
+      },
+      "language": {
+       "valence": 4,
+       "arousal": 6
+      }
+     },
+     {
+      "name": "Female official (Pamela Landy)",
+      "role": "supporting",
+      "emotion": "focused",
+      "fraction_of_window": 0.3,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 4,
+       "arousal": 5
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q068",
+   "wid": "bourne_p9_168",
+   "arm": "T",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "none"
+    ],
+    "max_humans_simultaneous": 0,
+    "max_humanoid_nonhuman": 0,
+    "setting": "U",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "near_silent"
+    ],
+    "audio_primary": "near_silent",
+    "speech_language": "none",
+    "speaker_visibility": "no_speech",
+    "foreground_source": "near_silent",
+    "music_role": "none",
+    "music_function": [
+     "none"
+    ],
+    "social_interaction": [
+     "none"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q047",
+   "wid": "figures_p5_161",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 5,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "en",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "none",
+    "music_function": [
+     "none"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Al Harrison",
+      "role": "lead",
+      "emotion": "serious",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 6
+      },
+      "language": {
+       "valence": 4,
+       "arousal": 5
+      }
+     },
+     {
+      "name": "Katherine Goble",
+      "role": "lead",
+      "emotion": "focused",
+      "fraction_of_window": 0.8,
+      "speaking": "no",
+      "audio": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 3
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     },
+     {
+      "name": "Paul Stafford",
+      "role": "supporting",
+      "emotion": "serious",
+      "fraction_of_window": 0.8,
+      "speaking": "no",
+      "audio": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 3
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     },
+     {
+      "name": "Male colleague standing",
+      "role": "extra",
+      "emotion": "serious",
+      "fraction_of_window": 0.8,
+      "speaking": "no",
+      "audio": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 2
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     },
+     {
+      "name": "Female colleague with folder",
+      "role": "extra",
+      "emotion": "serious",
+      "fraction_of_window": 0.8,
+      "speaking": "no",
+      "audio": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 2
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q057",
+   "wid": "figures_p7_112",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 9,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "yes",
+    "location_change_type": "new_place",
+    "on_screen_text": "none",
+    "audio_present": [
+     "ambient_sfx",
+     "music"
+    ],
+    "audio_primary": "music",
+    "speech_language": "none",
+    "speaker_visibility": "no_speech",
+    "foreground_source": "music",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "transition"
+    ],
+    "social_interaction": [
+     "walk_together"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "White manager",
+      "role": "supporting",
+      "emotion": "serious",
+      "fraction_of_window": 1.0,
+      "speaking": "no",
+      "audio": {
+       "valence": 3,
+       "arousal": 7
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 6
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     },
+     {
+      "name": "Group of women",
+      "role": "supporting",
+      "emotion": "surprise",
+      "fraction_of_window": 1.0,
+      "speaking": "no",
+      "audio": {
+       "valence": 3,
+       "arousal": 7
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 6
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q032",
+   "wid": "figures_p8_301",
+   "arm": "V",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 6,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "music"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "en",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "emotional_support",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Woman taking notes",
+      "role": "supporting",
+      "emotion": "focused",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
+      "audio": {
+       "valence": 6,
+       "arousal": 4
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 3
+      },
+      "language": {
+       "valence": 6,
+       "arousal": 3
+      }
+     },
+     {
+      "name": "Man presenting",
+      "role": "lead",
+      "emotion": "serious",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 4
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q052",
+   "wid": "wolf_p11_273",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "outdoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "en",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Woman",
+      "role": "supporting",
+      "emotion": "calm",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 3
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 3
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 3
+      }
+     },
+     {
+      "name": "Man",
+      "role": "lead",
+      "emotion": "suspense",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 6,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": 6,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 6,
+       "arousal": 5
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q037",
+   "wid": "wolf_p16_70",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "outdoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "ambient_sfx",
+     "music"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "en",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "sigh"
+    ],
+    "characters": [
+     {
+      "name": "Man in Blue Polo",
+      "role": "lead",
+      "emotion": "sad",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 3,
+       "arousal": 3
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 3
+      },
+      "language": {
+       "valence": 2,
+       "arousal": 3
+      }
+     },
+     {
+      "name": "Man in Suit",
+      "role": "supporting",
+      "emotion": "neutral",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 4
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 4
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q034",
+   "wid": "wolf_p2_301",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 3,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "yes",
+    "location_change_type": "same_scene_movement",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "ambient_sfx",
+     "music"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "en",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Jordan Belfort",
+      "role": "lead",
+      "emotion": "focused",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 6,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 6,
+       "arousal": 5
+      }
+     },
+     {
+      "name": "Colleague",
+      "role": "supporting",
+      "emotion": "calm",
+      "fraction_of_window": 1.0,
+      "speaking": "no",
+      "audio": {
+       "valence": 5,
+       "arousal": 3
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 3
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 3
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q001",
+   "wid": "wolf_p4_322",
+   "arm": "T",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "none"
+    ],
+    "max_humans_simultaneous": 0,
+    "max_humanoid_nonhuman": 0,
+    "setting": "U",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "near_silent"
+    ],
+    "audio_primary": "near_silent",
+    "speech_language": "none",
+    "speaker_visibility": "no_speech",
+    "foreground_source": "near_silent",
+    "music_role": "none",
+    "music_function": [
+     "none"
+    ],
+    "social_interaction": [
+     "none"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q035",
+   "wid": "new_dme_120.75",
+   "arm": "V",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "anim_3d",
+    "agents_present": [
+     "anim_human"
+    ],
+    "max_humans_simultaneous": 4,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "subtitles",
+    "audio_present": [
+     "dialogue",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "en",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "emotional_support",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "torso_contact"
+    ],
+    "nonverbal_emotion_sounds": [
+     "sigh"
+    ],
+    "characters": [
+     {
+      "name": "Gru",
+      "role": "lead",
+      "emotion": "annoyed",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 3
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 3
+      },
+      "language": {
+       "valence": 3,
+       "arousal": 3
+      }
+     },
+     {
+      "name": "Margo",
+      "role": "supporting",
+      "emotion": "calm",
+      "fraction_of_window": 0.5,
+      "speaking": "no",
+      "audio": {
+       "valence": 5,
+       "arousal": 2
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 2
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 2
+      }
+     },
+     {
+      "name": "Edith",
+      "role": "supporting",
+      "emotion": "calm",
+      "fraction_of_window": 0.5,
+      "speaking": "no",
+      "audio": {
+       "valence": 5,
+       "arousal": 2
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 2
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 2
+      }
+     },
+     {
+      "name": "Agnes",
+      "role": "supporting",
+      "emotion": "joy_warm",
+      "fraction_of_window": 0.5,
+      "speaking": "no",
+      "audio": {
+       "valence": 6,
+       "arousal": 3
+      },
+      "visual": {
+       "valence": 7,
+       "arousal": 3
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 2
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q069",
+   "wid": "new_dme_404.25",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "anim_3d",
+    "agents_present": [
+     "human",
+     "anim_creature"
+    ],
+    "max_humans_simultaneous": 1,
+    "max_humanoid_nonhuman": 3,
+    "setting": "indoor",
+    "location_change": "yes",
+    "location_change_type": "same_scene_movement",
+    "on_screen_text": "none",
+    "audio_present": [
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "music",
+    "speech_language": "none",
+    "speaker_visibility": "no_speech",
+    "foreground_source": "music",
+    "music_role": "score",
+    "music_function": [
+     "emotional_support"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Gru",
+      "role": "lead",
+      "emotion": "lonely_melancholy",
+      "fraction_of_window": 1.0,
+      "speaking": "no",
+      "audio": {
+       "valence": 4,
+       "arousal": 2
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 2
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     },
+     {
+      "name": "Minions",
+      "role": "supporting",
+      "emotion": "focused",
+      "fraction_of_window": 0.3,
+      "speaking": "no",
+      "audio": {
+       "valence": 4,
+       "arousal": 2
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q007",
+   "wid": "new_dme_425.25",
+   "arm": "T",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 1,
+    "max_humanoid_nonhuman": 0,
+    "setting": "U",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "en",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "none",
+    "music_function": [
+     "none"
+    ],
+    "social_interaction": [
+     "none"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "NA",
+      "role": "lead",
+      "emotion": [
+       "surprise"
+      ],
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "visual": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 6
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q030",
+   "wid": "old_dme_546.0",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "anim_3d",
+    "agents_present": [
+     "anim_human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "vehicle",
+    "location_change": "yes",
+    "location_change_type": "same_scene_movement",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "en",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "excitement",
+     "tension"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Gru",
+      "role": "lead",
+      "emotion": "exciting",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 8,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 7,
+       "arousal": 7
+      },
+      "language": {
+       "valence": 8,
+       "arousal": 8
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q028",
+   "wid": "new_dmh_330.75",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "anim_3d",
+    "agents_present": [
+     "anim_human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "hu",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Banker (Mr. Perkins)",
+      "role": "lead",
+      "emotion": "annoyed",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 3,
+       "arousal": 6
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 5
+      },
+      "language": {
+       "valence": 3,
+       "arousal": 5
+      }
+     },
+     {
+      "name": "Gru",
+      "role": "lead",
+      "emotion": "serious",
+      "fraction_of_window": 1.0,
+      "speaking": "no",
+      "audio": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 2
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q010",
+   "wid": "new_dmh_509.25",
+   "arm": "V",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "anim_3d",
+    "agents_present": [
+     "human",
+     "anim_creature"
+    ],
+    "max_humans_simultaneous": 1,
+    "max_humanoid_nonhuman": 2,
+    "setting": "vehicle",
+    "location_change": "yes",
+    "location_change_type": "same_scene_movement",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "hu",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "scream"
+    ],
+    "characters": [
+     {
+      "name": "Gru",
+      "role": "lead",
+      "emotion": "fear",
+      "fraction_of_window": 0.3,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 8
+      },
+      "language": {
+       "valence": 3,
+       "arousal": 8
+      }
+     },
+     {
+      "name": "Minion 1",
+      "role": "extra",
+      "emotion": "fear",
+      "fraction_of_window": 0.3,
+      "speaking": "no",
+      "audio": {
+       "valence": 4,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 8
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     },
+     {
+      "name": "Minion 2",
+      "role": "extra",
+      "emotion": "fear",
+      "fraction_of_window": 0.3,
+      "speaking": "no",
+      "audio": {
+       "valence": 4,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 8
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q055",
+   "wid": "old_dmh_31.5",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "anim_3d",
+    "agents_present": [
+     "anim_human"
+    ],
+    "max_humans_simultaneous": 4,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "hu",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [],
+    "characters": [
+     {
+      "name": "dmh",
+      "role": "lead",
+      "emotion": "funny",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 6
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 6
+      },
+      "language": {
+       "valence": 4,
+       "arousal": 5
+      }
+     },
+     {
+      "name": "Edith",
+      "role": "supporting",
+      "emotion": "anger",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
+      "audio": {
+       "valence": 2,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 2,
+       "arousal": 7
+      },
+      "language": {
+       "valence": 2,
+       "arousal": 7
+      }
+     },
+     {
+      "name": "Agnes",
+      "role": "supporting",
+      "emotion": "sad",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
+      "audio": {
+       "valence": 2,
+       "arousal": 6
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 3,
+       "arousal": 5
+      }
+     },
+     {
+      "name": "Miss Hattie",
+      "role": "supporting",
+      "emotion": "neutral",
+      "fraction_of_window": 0.8,
+      "speaking": "no",
+      "audio": {
+       "valence": 5,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "Q019",
+   "wid": "old_dmh_357.0",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "anim_3d",
+    "agents_present": [
+     "anim_human"
+    ],
+    "max_humans_simultaneous": 1,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "yes",
+    "location_change_type": "new_place",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "hu",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "characters": [
+     {
+      "name": "Bank Manager",
+      "role": "supporting",
+      "emotion": "annoyed",
+      "fraction_of_window": 0.5,
+      "speaking": "no",
+      "audio": {
+       "valence": 4,
+       "arousal": 6
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 5
+      },
+      "language": {
+       "valence": 4,
+       "arousal": 5
+      }
+     },
+     {
+      "name": "Gru",
+      "role": "lead",
+      "emotion": "serious",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
+      "audio": {
+       "valence": 3,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 3,
+       "arousal": 5
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "FG01",
+   "wid": "fgS026",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 4,
+    "max_humanoid_nonhuman": 0,
+    "setting": "outdoor",
+    "location_change": "yes",
+    "location_change_type": "same_scene_movement",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "transition",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "quarrel",
+     "walk_together"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "social_level_0_10": 5,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "emotion": [
+       "fear",
+       "tense"
+      ],
+      "fraction_of_window": 1.0,
+      "speaking": "no",
+      "audio": {
+       "valence": 3,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 8
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 0
+      }
+     },
+     {
+      "name": "JENNY",
+      "role": "lead",
+      "emotion": [
+       "fear",
+       "confident"
+      ],
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 8
+      },
+      "language": {
+       "valence": 4,
+       "arousal": 8
+      }
+     },
+     {
+      "name": "OLDERBOYS",
+      "role": "supporting",
+      "emotion": [
+       "anger",
+       "annoyed"
+      ],
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 2,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 2,
+       "arousal": 8
+      },
+      "language": {
+       "valence": 2,
+       "arousal": 8
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "FG03",
+   "wid": "fgS098",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 6,
+    "max_humanoid_nonhuman": 0,
+    "setting": "outdoor",
+    "location_change": "yes",
+    "location_change_type": "new_place",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "emotional_support",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "walk_together"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "social_level_0_10": 3,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "emotion": [
+       "focused",
+       "calm"
+      ],
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 6,
+       "arousal": 4
+      },
+      "visual": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "language": {
+       "valence": 6,
+       "arousal": 4
+      }
+     },
+     {
+      "name": "MRSBLUE",
+      "role": "supporting",
+      "emotion": [
+       "annoyed"
+      ],
+      "fraction_of_window": 0.2,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "language": {
+       "valence": 4,
+       "arousal": 5
+      }
+     },
+     {
+      "name": "OLDMAN",
+      "role": "supporting",
+      "emotion": [
+       "suspense"
+      ],
+      "fraction_of_window": 0.1,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "visual": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 4
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "FG07",
+   "wid": "fgS116",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 3,
+    "max_humanoid_nonhuman": 0,
+    "setting": "outdoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "laughter",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "emotional_support",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "walk_together"
+    ],
+    "nonverbal_emotion_sounds": [
+     "laughter"
+    ],
+    "social_level_0_10": 3,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "emotion": "calm",
+      "fraction_of_window": 0.9,
+      "speaking": "yes",
+      "audio": {
+       "valence": 2,
+       "arousal": 1
+      },
+      "visual": {
+       "valence": 2,
+       "arousal": 1
+      },
+      "language": {
+       "valence": 2,
+       "arousal": 1
+      }
+     },
+     {
+      "name": "MAN IN SAVANNAH",
+      "role": "supporting",
+      "emotion": "funny",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
+      "audio": {
+       "valence": 1,
+       "arousal": 2
+      },
+      "visual": {
+       "valence": 1,
+       "arousal": 2
+      },
+      "language": {
+       "valence": 1,
+       "arousal": 2
+      }
+     },
+     {
+      "name": "ELDERLY WOMAN",
+      "role": "supporting",
+      "emotion": "joy_warm",
+      "fraction_of_window": 0.4,
+      "speaking": "yes",
+      "audio": {
+       "valence": 2,
+       "arousal": 1
+      },
+      "visual": {
+       "valence": 2,
+       "arousal": 1
+      },
+      "language": {
+       "valence": 2,
+       "arousal": 1
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": "FG12",
+   "wid": "fgS066",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 3,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "emotional_support",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "limb_contact"
+    ],
+    "nonverbal_emotion_sounds": [
+     "sigh"
+    ],
+    "social_level_0_10": 4,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "emotion": [
+       "neutral",
+       "calm"
+      ],
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 3
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 3
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 2
+      }
+     },
+     {
+      "name": "MAN",
+      "role": "supporting",
+      "emotion": [
+       "annoyed",
+       "confident"
+      ],
+      "fraction_of_window": 0.8,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 4
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "FG19",
+   "wid": "fgS164",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "outdoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "emotional_support",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "walk_together"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "social_level_0_10": 3,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "emotion": [
+       "neutral",
+       "calm"
+      ],
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 3
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 2
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 3
+      }
+     },
+     {
+      "name": "AGING HIPPIE",
+      "role": "supporting",
+      "emotion": [
+       "exciting",
+       "surprise"
+      ],
+      "fraction_of_window": 0.9,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 5
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "FG22",
+   "wid": "fgS109",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "vehicle",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "off_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "none"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "social_level_0_10": 0,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "emotion": [
+       "fear",
+       "tense"
+      ],
+      "fraction_of_window": 0.8,
+      "speaking": "yes",
+      "audio": {
+       "valence": 3,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 8
+      },
+      "language": {
+       "valence": 3,
+       "arousal": 6
+      }
+     },
+     {
+      "name": "DAN",
+      "role": "lead",
+      "emotion": [
+       "exciting",
+       "confident"
+      ],
+      "fraction_of_window": 0.6,
+      "speaking": "no",
+      "audio": {
+       "valence": 5,
+       "arousal": 8
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 9
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "FG23",
+   "wid": "fgS009",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 3,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "yes",
+    "location_change_type": "same_scene_movement",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "transition",
+     "emotional_support"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "walk_together"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "social_level_0_10": 3,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "emotion": "joy_warm",
+      "fraction_of_window": 1.0,
+      "speaking": "no",
+      "audio": {
+       "valence": 5,
+       "arousal": 3
+      },
+      "visual": {
+       "valence": 6,
+       "arousal": 4
+      },
+      "language": {
+       "valence": "U",
+       "arousal": "U"
+      }
+     },
+     {
+      "name": "FORRESTVO",
+      "role": "lead",
+      "emotion": "calm",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 6,
+       "arousal": 3
+      },
+      "visual": {
+       "valence": "U",
+       "arousal": "U"
+      },
+      "language": {
+       "valence": 6,
+       "arousal": 3
+      }
+     },
+     {
+      "name": "MRSGUMP",
+      "role": "supporting",
+      "emotion": "neutral",
+      "fraction_of_window": 0.8,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 4
+      }
+     },
+     {
+      "name": "ELVISPRESLEY",
+      "role": "supporting",
+      "emotion": "calm",
+      "fraction_of_window": 0.4,
+      "speaking": "yes",
+      "audio": {
+       "valence": 7,
+       "arousal": 4
+      },
+      "visual": {
+       "valence": 7,
+       "arousal": 5
+      },
+      "language": {
+       "valence": 7,
+       "arousal": 4
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "FG24",
+   "wid": "fgS105",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "outdoor",
+    "location_change": "yes",
+    "location_change_type": "same_scene_movement",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "emotional_support",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "walk_together"
+    ],
+    "nonverbal_emotion_sounds": [
+     "sigh"
+    ],
+    "social_level_0_10": 4,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "emotion": "joy_warm",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 7,
+       "arousal": 6
+      },
+      "visual": {
+       "valence": 7,
+       "arousal": 6
+      },
+      "language": {
+       "valence": 7,
+       "arousal": 5
+      }
+     },
+     {
+      "name": "LT. DAN",
+      "role": "lead",
+      "emotion": "joy_warm",
+      "fraction_of_window": 0.8,
+      "speaking": "yes",
+      "audio": {
+       "valence": 7,
+       "arousal": 6
+      },
+      "visual": {
+       "valence": 7,
+       "arousal": 5
+      },
+      "language": {
+       "valence": 7,
+       "arousal": 5
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "FG26",
+   "wid": "fgS023",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 5,
+    "max_humanoid_nonhuman": 0,
+    "setting": "outdoor",
+    "location_change": "yes",
+    "location_change_type": "same_scene_movement",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "emotional_support",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "walk_together",
+     "limb_contact"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "social_level_0_10": 7,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "emotion": [
+       "focused"
+      ],
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 5
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 6
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 4
+      }
+     },
+     {
+      "name": "JENNY",
+      "role": "lead",
+      "emotion": [
+       "fear",
+       "tense"
+      ],
+      "fraction_of_window": 0.6,
+      "speaking": "yes",
+      "audio": {
+       "valence": 4,
+       "arousal": 6
+      },
+      "visual": {
+       "valence": 4,
+       "arousal": 6
+      },
+      "language": {
+       "valence": 3,
+       "arousal": 6
+      }
+     },
+     {
+      "name": "JENNYSDAD",
+      "role": "supporting",
+      "emotion": [
+       "anger"
+      ],
+      "fraction_of_window": 0.4,
+      "speaking": "yes",
+      "audio": {
+       "valence": 2,
+       "arousal": 7
+      },
+      "visual": {
+       "valence": 3,
+       "arousal": 7
+      },
+      "language": {
+       "valence": 2,
+       "arousal": 7
+      }
+     },
+     {
+      "name": "MAN",
+      "role": "extra",
+      "emotion": [
+       "surprise"
+      ],
+      "fraction_of_window": 0.1,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 4
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  },
+  {
+   "id": "FG28",
+   "wid": "fgS106",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "vehicle",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "emotional_support",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "walk_together"
+    ],
+    "nonverbal_emotion_sounds": [
+     "sigh"
+    ],
+    "social_level_0_10": 3,
+    "characters": [
+     {
+      "name": "LT. DAN",
+      "role": "lead",
+      "emotion": [
+       "serious",
+       "focused"
+      ],
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 6
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 5
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 6
+      }
+     },
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "emotion": [
+       "confused",
+       "neutral"
+      ],
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "visual": {
+       "valence": 5,
+       "arousal": 4
+      },
+      "language": {
+       "valence": 5,
+       "arousal": 4
+      }
+     }
+    ],
+    "emo_scale": 10
+   }
+  }
+ ]
+}

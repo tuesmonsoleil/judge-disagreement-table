@@ -83,30 +83,31 @@ const ZONES={y:['黃','高愉悅・高活力',['開心','興奮','快樂','愉�
  g:['綠','高愉悅・低活力',['平靜','放鬆','滿意','自在','知足','安心','舒適','平和','滿足']],
  n:['中性','無明顯情緒',[]]};
 const GEMO={funny:'好笑（黃）',joy_warm:'溫暖喜悅（黃）',exciting:'興奮（黃）',proud:'自豪（黃）',confident:'自信（黃）',awe:'驚嘆（黃）',surprise:'驚訝',sad:'悲傷（藍）',lonely_melancholy:'孤單憂鬱（藍）',bored:'無聊（藍）',
- fear:'害怕（紅）',anger:'生氣（紅）',disgust:'厭惡（紅）',embarrassment:'尷尬（紅）',suspense:'懸疑（紅）',annoyed:'煩躁（紅）',tense:'緊繃（紅）',serious:'嚴肅',focused:'專注',calm:'平靜（綠）',neutral:'中性'};
+ fear:'害怕（紅）',anger:'生氣（紅）',disgust:'厭惡（紅）',embarrassment:'尷尬（紅）',suspense:'懸疑（紅）',annoyed:'煩躁（紅）',tense:'緊繃（紅）',serious:'嚴肅',focused:'專注',sleepy:'想睡',calm:'平靜（綠）',neutral:'中性'};
 const U=['U','無法判斷'];
 const F=[
  ['screen_content','畫面內容','multi','',[['story','劇情畫面'],['intertitle','字卡'],['credits','片頭／片尾字幕'],['black','黑畫面'],U]],
  ['visual_style','畫面風格','single','',[['live_color','真人彩色'],['live_bw','真人黑白'],['anim_2d','2D 動畫'],['anim_3d','3D 動畫'],['minimal_line','簡筆線條'],['mixed','混合'],U]],
- ['agents_present','出現的角色類型','multi','真人＝真實演員；動畫人物＝2D/3D 動畫的人；動畫生物＝如小小兵',[['human','真人'],['anim_human','動畫人物'],['drawn_human','靜態繪製人物'],['puppet','偶'],['animal','真實動物'],['anim_creature','動畫生物'],['anim_dog','動畫狗'],['other_agent','其他'],['none','無'],U]],
+ ['agents_present','出現的角色類型','multi','真人＝真實演員；動畫人物＝2D/3D 動畫的人；動畫生物＝如小小兵',[['human','真人'],['anim_human','動畫人物'],['drawn_human','靜態繪製人物'],['puppet','偶'],['animal','真實動物'],['anim_creature','動畫生物'],['other_agent','其他'],['none','無'],U]],
  ['max_humans_simultaneous','同一畫面最多幾個「人」','single','真人＋動畫人物（不含小小兵這類非人角色）',[...[0,1,2,3,4,5,6,7,8,9].map(i=>[i,String(i)]),[10,'10 以上'],U]],
  ['max_humanoid_nonhuman','同一畫面最多幾個「類人非人角色」','single','例如小小兵',[...[0,1,2,3,4,5,6,7,8,9].map(i=>[i,String(i)]),[10,'10 以上'],U]],
  ['setting','場景','single','',[['indoor','室內'],['outdoor','室外'],['vehicle','交通工具內'],['abstract','非真實場所（如字卡）'],U]],
  ['location_change','場景地點是否改變','single','',[['yes','有'],['no','沒有'],U]],
  ['location_change_type','地點改變類型','single','沒有改變請選「無」',[['none','無'],['same_scene_movement','同場景內移動'],['new_place','換到新地點'],['ground_to_air','地面到空中'],U]],
  ['on_screen_text','畫面文字','single','聽到說話不等於有字幕',[['none','無'],['subtitles','字幕'],['intertitle','字卡'],['other','其他文字'],U]],
- ['audio_present','聽到的所有聲音','multi','',[['dialogue','對話'],['narration','旁白'],['music','音樂'],['singing','歌唱'],['laughter','笑聲'],['ambient_sfx','環境音效'],['gunshot','槍聲'],['game_ui','遊戲介面音'],['near_silent','近乎無聲'],U]],
+ ['audio_present','聽到的所有聲音','multi','',[['dialogue','對話'],['narration','旁白'],['music','音樂'],['singing','歌唱'],['laughter','笑聲'],['ambient_sfx','環境音效'],['gunshot','槍聲'],['animal_vocal','動物叫聲'],['yawn','打哈欠'],['cheer','歡呼'],['sigh','嘆氣'],['game_ui','遊戲介面音'],['near_silent','近乎無聲'],U]],
  ['audio_primary','最主要的聲音','single','',[['dialogue','對話'],['narration','旁白'],['music','音樂'],['singing','歌唱'],['laughter','笑聲'],['ambient_sfx','環境音效'],['near_silent','近乎無聲'],U]],
- ['speech_language','說話語言','single','',[['none','無語音'],['en','英語'],['fr','法語'],['hu','匈牙利語'],['de','德語'],['other','其他語言'],['mixed','混合'],['non_lexical','非語言發聲'],U]],
+ ['speech_language','說話語言','single','',[['none','無語音'],['en','英語'],['fr','法語'],['hu','匈牙利語'],['de','德語'],['other','其他語言'],U]],
  ['speaker_visibility','說話者是否在畫面中','single','',[['no_speech','沒有人說話'],['on_screen','在畫面上'],['off_screen','不在畫面上'],['narration','旁白'],['silent_talking','有嘴型但無聲'],U]],
- ['foreground_source','最引人注意的聲音來源','single','',[['speech','說話'],['laughter','笑聲'],['other_vocal','其他人聲'],['animal_sound','動物聲'],['music','音樂'],['vehicle_machine','車輛／機械'],['body_object','身體／物品聲'],['door_home','門／居家聲'],['nature_weather','自然／天氣'],['impact_explosion','撞擊／爆炸'],['gunshot','槍聲'],['game_ui','遊戲介面音'],['near_silent','近乎無聲'],U]],
+ ['foreground_source','最引人注意的聲音來源','single','',[['speech','說話'],['laughter','笑聲'],['other_vocal','其他人聲'],['animal_sound','動物聲'],['music','音樂'],['vehicle_machine','車輛／機械'],['body_object','身體／物品聲'],['door_home','門／居家聲'],['nature_weather','自然／天氣'],['impact_explosion','撞擊／爆炸'],['gunshot','槍聲'],['yawn','打哈欠'],['cheer','歡呼'],['sigh','嘆氣'],['game_ui','遊戲介面音'],['near_silent','近乎無聲'],U]],
  ['music_role','音樂角色','single','',[['none','無音樂'],['diegetic','場景內音樂'],['score','配樂'],U]],
  ['music_function','音樂作用','multi','無音樂請選「無」',[['none','無'],['tension','製造緊張'],['soothing','舒緩'],['transition','轉場'],['emotional_support','烘托情緒'],['ducks_under_speech','壓低讓位給說話'],U]],
- ['nonverbal_emotion_sounds','非語言情緒聲音','multi','',[['none','無'],['laughter','笑'],['sigh','嘆氣'],['yawn','打哈欠'],['cry','哭'],['scream','尖叫'],['other','其他'],U]],
+ ['nonverbal_emotion_sounds','非語言情緒聲音','multi','',[['none','無'],['laughter','笑'],['sigh','嘆氣'],['yawn','打哈欠'],['cry','哭'],['scream','尖叫'],['cheer','歡呼'],['other','其他'],U]],
 ];
 const FM=Object.fromEntries(F.map(x=>[x[0],x]));
 const SOC=[['self_talk','自言自語'],['dialogue','對話'],['phone_talk','講電話'],['limb_contact','手腳接觸'],['torso_contact','身體接觸（擁抱等）'],['frequent_contact','頻繁接觸'],['quarrel','爭吵'],['walk_together','一起走'],['other','其他']];
 const REL=[['family','家人'],['caregiver_child','照顧者與孩子'],['adversary','敵對'],['boss_subordinate','上司與下屬'],['friends','朋友'],['strangers','陌生人'],['U','無法判斷']];
+const LV=[[0,'0 完全沒有'],[1,'1 眼神接觸'],[2,'2 單方面說話'],[3,'3 對話'],[4,'4 對話＋手勢'],[5,'5 熱烈對話'],[6,'6 示意性肢體接觸'],[7,'7 四肢接觸'],[8,'8 肢體接觸或四肢長時間接觸'],[9,'9 大面積長時間或頻繁接觸'],[10,'10 幾乎全身接觸']];
 const SOCZH=Object.fromEntries([['none','無'],...SOC]);
 const ROLE=[['主角','主角'],['配角','配角'],['路人','路人'],['其他','其他']];
 const FRAC=[['<1/4','不到 1/4'],['1/4-1/2','1/4–1/2'],['1/2-3/4','1/2–3/4'],['>3/4','3/4 以上']];
@@ -233,37 +234,37 @@ function zoneWarn(r){if(!r.zone||r.zone==='n'||r.pleasant==null||r.energy==null)
 function drawSoc(d,r,re){
  lab(d,'參與的角色（必填，例如「Gru 和 Agnes」）');d.append(textIn(r,'who','輸入參與者',re));
  lab(d,'互動類型');d.append(optBtns(SOC,v=>r.type===v,v=>{r.type=v;re()}));
- lab(d,'互動強度（0 幾乎沒有，1 一次來回，2 持續，3 強烈）');d.append(optBtns([0,1,2,3].map(i=>[i,String(i)]),v=>r.intensity===v,v=>{r.intensity=v;re()}));
+ lab(d,'社交程度（0–10）'+(r.intensity!=null&&r.level==null?`（舊 0–3 答案：${r.intensity}）`:''));d.append(optBtns(LV,v=>r.level===v,v=>{r.level=v;re()}));
  lab(d,'兩者關係');d.append(optBtns(REL,v=>r.rel===v,v=>{r.rel=v;re()}));
  d.append(textIn(r,'note','補充（選填）',re));
 }
 const newChar=()=>({});const newSoc=()=>({});
 function rowOk(key,r){if(key==='characters'||key==='added')return !!(r.desc&&r.role&&r.n&&(r.neutral||(r.words&&r.words.length)||r.other)&&r.speaking&&r.frac);
- if(key==='social')return !!(r.who&&r.type&&r.intensity!=null&&r.rel);return true}
+ if(key==='social')return !!(r.who&&r.type&&(r.level!=null||r.intensity!=null)&&r.rel);return true}
 function fieldOk(k,fd){if(!fd)return false;if(mode==='blind'){if(k==='characters'||k==='social')return !!(fd.none||((fd.value||[]).length&&fd.value.every(r=>rowOk(k,r))));
   const f=FM[k];return f[2]==='multi'?!!(fd.value&&fd.value.length):fd.value!==undefined&&fd.value!==null}
  if(k==='characters'){const g=(itemOf(cur).gemini||{}).characters||[];const sc=fd.scores||[];const ok=g.length?g.every((_,i)=>sc[i]!=null):fd.score!=null;return ok&&(fd.added||[]).every(r=>rowOk('added',r))}
  return fd.score!=null}
 function blindKeys(){return [...F.map(f=>f[0]),'social','characters']}
 // ---------------- review
-const RF=[...F.map(f=>f[0]).slice(0,15),'music_function','social_interaction','social_intensity_0_3','nonverbal_emotion_sounds','characters'];
+const RFof=k=>{const it=k&&itemOf(k);return [...F.map(f=>f[0]).slice(0,15),'music_function','social_interaction',...(it&&it.gemini&&'social_level_0_10' in it.gemini?['social_level_0_10']:[]),'nonverbal_emotion_sounds','characters']};
 function zhVal(k,v){if(v==null)return'（無）';if(Array.isArray(v))return v.map(x=>zhVal(k,x)).join('、')||'（空）';
- if(k==='social_interaction')return SOCZH[v]||v;const f=FM[k];if(f){const m=f[4].find(o=>String(o[0])===String(v));if(m)return m[1]}return String(v)}
+ if(k==='social_interaction')return SOCZH[v]||v;if(k==='social_level_0_10'){const m=LV.find(o=>o[0]===+v);return m?m[1]:String(v)}const f=FM[k];if(f){const m=f[4].find(o=>String(o[0])===String(v));if(m)return m[1]}return String(v)}
 function scoreRow(fd,onSet){return optBtns([[0,'0 完全錯'],[1,'1 大致錯'],[2,'2 大致對'],[3,'3 完全對']],v=>fd.score===v,onSet)}
 function reviewField(k,R){const it=itemOf(cur),g=(it.gemini||{});const fd=R.fields[k]||(R.fields[k]={});const c=el('div','card');c.dataset.k=k;
- const name=k==='social_interaction'?'社交互動類型':k==='social_intensity_0_3'?'社交互動強度（0–3）':FM[k][1];
+ const name=k==='social_interaction'?'社交互動類型':k==='social_intensity_0_3'?'社交互動強度（Gemini 舊級距 0–3）':k==='social_level_0_10'?'社交程度（0–10）':FM[k][1];
  const h=el('h4','',name);h.append(el('span','st'+(fieldOk(k,fd)?' ok':''),fieldOk(k,fd)?'✓':'未評'));c.append(h);
  c.append(el('div','gem','Gemini：'+zhVal(k,g[k])));
  c.append(scoreRow(fd,v=>{fd.score=fd.score===v?undefined:v;save();renderForm()}));
- if(fd.score!=null&&fd.score<3){let opts=k==='social_interaction'?[['none','無'],...SOC]:k==='social_intensity_0_3'?[0,1,2,3].map(i=>[i,String(i)]):FM[k][4];const multi=k==='social_interaction'||(FM[k]&&FM[k][2]==='multi');
-  lab(c,'你認為的正確答案（選填）');c.append(optBtns(opts,v=>multi?(fd.alt||[]).includes(v):fd.alt===v,v=>{if(multi){let a=fd.alt||[];a=a.includes(v)?a.filter(x=>x!==v):[...a,v];fd.alt=a}else fd.alt=fd.alt===v?undefined:v;save();renderForm()}))}
+ if(fd.score!=null&&fd.score<3){let opts=k==='social_interaction'?[['none','無'],...SOC]:(k==='social_intensity_0_3'||k==='social_level_0_10')?LV:FM[k][4];const multi=k==='social_interaction'||(FM[k]&&FM[k][2]==='multi');
+  lab(c,'你認為的正確答案（選填）'+(k==='social_intensity_0_3'?'——請用新級距 0–10':''));c.append(optBtns(opts,v=>multi?(fd.alt||[]).includes(v):(k==='social_intensity_0_3'?fd.alt10:fd.alt)===v,v=>{if(multi){let a=fd.alt||[];a=a.includes(v)?a.filter(x=>x!==v):[...a,v];fd.alt=a}else{const ak=k==='social_intensity_0_3'?'alt10':'alt';fd[ak]=fd[ak]===v?undefined:v};save();renderForm()}))}
  c.append(freeBox(fd));return c}
 function reviewChars(R){const it=itemOf(cur),g=((it.gemini||{}).characters)||[];const fd=R.fields.characters||(R.fields.characters={scores:[],added:[]});const c=el('div','card');c.dataset.k='characters';
  const h=el('h4','','角色與情緒');h.append(el('span','st'+(fieldOk('characters',fd)?' ok':''),fieldOk('characters',fd)?'✓':'未評'));c.append(h);
  c.append(el('p','hint','逐一評分 Gemini 列出的角色；有遺漏的角色請按「＋ 新增 Gemini 遺漏的角色」。'));
  if(!g.length){c.append(el('div','gem','Gemini：沒有列出任何角色'));c.append(scoreRow(fd,v=>{fd.score=fd.score===v?undefined:v;save();renderForm()}))}
  g.forEach((x,i)=>{const d=el('div','row');const va=['audio','visual','language'].map(ch=>x[ch]?`${({audio:'聲音',visual:'畫面',language:'語言'})[ch]} 愉悅${x[ch].valence}/喚起${x[ch].arousal}`:'').filter(Boolean).join('；');
-  d.append(el('div','gem',`#${i+1} ${({lead:'主角',supporting:'配角',extra:'路人'})[x.role]||x.role}｜情緒：${GEMO[x.emotion]||x.emotion}｜出現 ${x.fraction_of_window??'?'}｜說話：${x.speaking==='yes'?'是':'否'}${va?'｜'+va+'（0–3）':''}`));
+  d.append(el('div','gem',`#${i+1} ${x.name?x.name+'｜':''}${({lead:'主角',supporting:'配角',extra:'路人'})[x.role]||x.role}｜情緒：${GEMO[x.emotion]||x.emotion}｜出現 ${x.fraction_of_window??'?'}｜說話：${x.speaking==='yes'?'是':'否'}${va?'｜'+va+(it.gemini.emo_scale===10?'（0–10；愉悅 0 極負向、5 中性、10 極正向；U＝無法判斷）':'（0–3）'):''}`));
   const s={score:(fd.scores||[])[i]};d.append(scoreRow(s,v=>{fd.scores=fd.scores||[];fd.scores[i]=fd.scores[i]===v?undefined:v;save();renderForm()}));c.append(d)});
  (fd.added||[]).forEach((r,i)=>{const d=el('div','row'+(rowOk('added',r)?'':' miss'));const x=el('button','btn del','✕');x.onclick=()=>{fd.added.splice(i,1);save();renderForm()};d.append(el('b','',`新增 #${i+1}`),x);drawChar(d,r,()=>{save();renderForm()});c.append(d)});
  const a=el('button','btn add','＋ 新增 Gemini 遺漏的角色');a.onclick=()=>{fd.added=fd.added||[];fd.added.push({});save();renderForm()};c.append(a);c.append(freeBox(fd));return c}
@@ -273,15 +274,15 @@ function renderForm(){const R=rec(cur),F0=$('#form');const y=window.scrollY;F0.i
   F0.append(rowsCard(R,'social','社交互動（每組互動一列）','每一組角色之間的互動填一列，其他按「＋」新增。',newSoc,drawSoc,'本片段沒有社交互動'));
   if(['dme','dmh'].includes(film))F0.append(lightCard(R));
   F0.append(rowsCard(R,'characters','角色與情緒（每個角色一列）','依情緒儀表板點選形容詞，愉悅度／活力度由後端依詞在圖上的位置換算；其他角色按「＋」新增。',newChar,drawChar,'本片段沒有角色'))}
- else RF.forEach(k=>F0.append(k==='characters'?reviewChars(R):reviewField(k,R)));
+ else RFof(cur).forEach(k=>F0.append(k==='characters'?reviewChars(R):reviewField(k,R)));
  window.scrollTo(0,y);updateFoot();
  document.querySelectorAll('#chips .chip').forEach((c,i)=>{const k=keysOf(film)[i];c.classList.toggle('done',isDone(mode,k)||(k===cur&&complete(k)))})}
-function missing(k){const R=store()[k]||{fields:{}};const keys=mode==='blind'?blindKeys():RF;return keys.filter(x=>!fieldOk(x,R.fields[x]))}
+function missing(k){const R=store()[k]||{fields:{}};const keys=mode==='blind'?blindKeys():RFof(k);return keys.filter(x=>!fieldOk(x,R.fields[x]))}
 function complete(k){return missing(k).length===0}
 function showMissing(){const m=missing(cur);document.querySelectorAll('.card').forEach(c=>c.classList.toggle('miss',m.includes(c.dataset.k)));
  if(m.length){$('#msg').textContent=`還有 ${m.length} 項沒填完（紅框）`;const f=document.querySelector('.card.miss');if(f)f.scrollIntoView({behavior:'smooth',block:'center'})}}
 function updateFoot(){const ks=keysOf(film),i=ks.indexOf(cur),m=missing(cur);$('#msg').textContent='';
- $('#prog').textContent=`本題完成 ${(mode==='blind'?blindKeys():RF).length-m.length}/${(mode==='blind'?blindKeys():RF).length} 項｜本片 ${ks.filter(k=>isDone(mode,k)).length}/${ks.length} 題`;
+ $('#prog').textContent=`本題完成 ${(mode==='blind'?blindKeys():RFof(cur)).length-m.length}/${(mode==='blind'?blindKeys():RFof(cur)).length} 項｜本片 ${ks.filter(k=>isDone(mode,k)).length}/${ks.length} 題`;
  $('#next').textContent=i===ks.length-1?'完成本片 ✓':'下一題 →'}
 $('#prev').onclick=()=>{const ks=keysOf(film),i=ks.indexOf(cur);if(i>0){cur=ks[i-1];render()}};
 $('#next').onclick=async()=>{if(!complete(cur)){showMissing();return}const R=rec(cur);R.done=true;await fetch('/api/save',{method:'POST',body:JSON.stringify({mode,key:cur,data:R})});
