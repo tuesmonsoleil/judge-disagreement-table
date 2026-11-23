@@ -1,38 +1,26 @@
-<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>評審不一致裁決表</title>
-<meta name="claude:viewport-fit-sides" content="cover">
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>待裁決 21 項</title>
 <style>
-/* Layout: single column, summary strip then a wide scrollable table of 21 rows */
-:root{--bg:#f6f7f9;--fg:#1c2330;--mute:#5d6778;--line:#d9dee6;--card:#fff;--gem:#1f6fb5;--hum:#b5541f;--head:#e9edf3}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#14181f;--fg:#e6e9ef;--mute:#98a2b3;--line:#2c3441;--card:#1b212b;--gem:#6fb1ee;--hum:#f0a070;--head:#232b37;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#14181f;--fg:#e6e9ef;--mute:#98a2b3;--line:#2c3441;--card:#1b212b;--gem:#6fb1ee;--hum:#f0a070;--head:#232b37;color-scheme:dark}
-body{background:var(--bg);color:var(--fg);font-family:Inter,"Noto Sans TC","Microsoft JhengHei",system-ui,sans-serif;line-height:1.6;padding-block:24px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
-main{max-width:1100px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
-h1{font-size:1.5rem;margin:0;text-wrap:balance}
-p{margin:0;color:var(--mute);max-width:65ch}
-.chips{display:flex;gap:8px;flex-wrap:wrap}
-.chip{border:1px solid var(--line);background:var(--card);border-radius:6px;padding:4px 10px;font-size:.85rem;cursor:pointer;color:var(--fg)}
-.chip[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
-.wrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--card)}
-table{border-collapse:collapse;width:100%;min-width:860px;font-size:.88rem}
-th,td{padding:8px 10px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
-th{background:var(--head);font-weight:600;white-space:nowrap}
-tr:last-child td{border-bottom:0}
-td.w{font-variant-numeric:tabular-nums;white-space:nowrap;font-weight:600}
+:root{--bg:#f6f7f9;--fg:#1c2330;--mute:#5d6778;--line:#d9dee6;--card:#fff;--gem:#1f6fb5;--hum:#b5541f;--ok:#1a7f4b}
+@media(prefers-color-scheme:dark){:root{--bg:#14181f;--fg:#e6e9ef;--mute:#98a2b3;--line:#2c3441;--card:#1b212b;--gem:#6fb1ee;--hum:#f0a070;--ok:#5fcf93;color-scheme:dark}}
+body{background:var(--bg);color:var(--fg);font:14px/1.6 system-ui,"Microsoft JhengHei",sans-serif;margin:0;padding:20px max(16px,env(safe-area-inset-left,0px))}
+main{max-width:1000px;margin:0 auto;display:flex;flex-direction:column;gap:14px}
+h1{font-size:1.4rem;margin:0}a{color:var(--gem)}
+.bar{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px;display:grid;grid-template-columns:minmax(0,360px) minmax(0,1fr);gap:14px}
+@media(max-width:700px){.card{grid-template-columns:1fr}}
+video{width:100%;border-radius:6px;background:#000}
+.t{font-weight:600}.f{color:var(--mute)}
+.kv{display:grid;grid-template-columns:7em 1fr;gap:2px 8px;margin:6px 0}.kv b{color:var(--mute);font-weight:500}
 .g{color:var(--gem)}.h{color:var(--hum)}
-.win{display:inline-block;font-size:.75rem;border:1px solid currentColor;border-radius:4px;padding:0 5px;margin-left:4px}
-td.v{font-weight:600}
-:focus-visible{outline:2px solid var(--gem);outline-offset:2px}
-</style>
-<main>
-<h1>評審不一致裁決表</h1>
-<p>評審（judge3）對同一欄位判了兩次，結果不同，共 21 欄次。Gemini 值、人工值與兩次評審結果並列，請你做最後裁決。</p>
-<div class="chips" id="chips" role="group" aria-label="依欄位篩選"></div>
-<div class="wrap"><table>
-<thead><tr><th>窗</th><th>欄位</th><th>Gemini</th><th>人工原文</th><th>人工校正</th><th>第 1 次評審</th><th>第 2 次評審</th></tr></thead>
-<tbody id="rows"></tbody></table></div>
-<p>藍色為偏向 Gemini，橙色為偏向人工。「†」表示人工校正後新增的內容。</p>
-</main>
+.opts{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.o{border:1px solid var(--line);background:transparent;color:var(--fg);border-radius:6px;padding:4px 10px;cursor:pointer;font:inherit;max-width:100%;overflow-wrap:anywhere;text-align:left}
+.o.on{background:var(--ok);color:#fff;border-color:var(--ok)}
+input.free{width:100%;box-sizing:border-box;margin-top:6px;padding:5px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg);font:inherit}
+.done{border-color:var(--ok)}
+</style></head><body><main>
+<div class="bar"><h1>待裁決 21 項</h1><button class="o" id="exp">複製我的決定（JSON）</button><span id="prog" class="f"></span></div>
+<p class="f">評審兩次結果不一致。看片段後在「我最後決定」選一個，或直接輸入；決定只存在這個瀏覽器，換裝置不會同步；完成後按「複製我的決定」貼給我。</p>
+<div id="list" style="display:flex;flex-direction:column;gap:14px"></div></main>
 <script>
 var D=[
 ["W12","agents_present","drawn_human,human","同右","anim_human, anim_creature","anim_human, anim_creature","人工","[\"drawn_human\", \"human\"]","Gemini"],
@@ -56,16 +44,23 @@ var D=[
 ["W16","foreground_source","vehicle_machine","同右","machine, music","vehicle_machine","Gemini","machine, music","人工"],
 ["W11","location_change","yes","同右","no","yes","Gemini","no","人工"],
 ["W03","social_interaction","7.5","同右","7.0","7.5","Gemini","7.0","人工"]];
+var DEC={},CL=['W03', 'W09', 'W11', 'W12', 'W14', 'W16', 'W19', 'W20', 'W21', 'W22', 'W25', 'W28'],M={'W03': 'W03_dme.mp4', 'W09': 'W09_dme.mp4', 'W11': 'W11_dme.mp4', 'W12': 'W12_dmh.mp4', 'W14': 'W14_dmh.mp4', 'W16': 'W16_dmh.mp4', 'W19': 'W19_tp.mp4', 'W20': 'W20_dme.mp4', 'W21': 'W21_dmh.mp4', 'W22': 'W22_dme.mp4', 'W25': 'W25_dmh.mp4', 'W28': 'W28_dme.mp4'};try{DEC=JSON.parse(localStorage.getItem('dec')||'{}')}catch(e){}
 function esc(s){var d=document.createElement("div");d.textContent=s;return d.innerHTML}
-function cell(v,w){return '<td class="v '+(w==="Gemini"?"g":"h")+'">'+esc(v)+'<span class="win">→ '+w+'</span></td>'}
-var cur="全部",fields=["全部"];
-D.forEach(function(r){if(fields.indexOf(r[1])<0)fields.push(r[1])});
-function draw(){
- document.getElementById("rows").innerHTML=D.filter(function(r){return cur==="全部"||r[1]===cur}).map(function(r){
-  return '<tr><td class="w">'+r[0]+'</td><td>'+r[1]+'</td><td class="g">'+esc(r[2])+'</td><td>'+esc(r[3])+'</td><td class="h">'+esc(r[4])+'</td>'+cell(r[5],r[6])+cell(r[7],r[8])+'</tr>'}).join("");
- var c=document.getElementById("chips");c.innerHTML="";
- fields.forEach(function(f){var b=document.createElement("button");b.className="chip";b.textContent=f;b.setAttribute("aria-pressed",f===cur);b.onclick=function(){cur=f;draw()};c.appendChild(b)})}
+function key(r,i){return r[0]+"|"+r[1]}
+function opts(r){var o=[["Gemini："+r[2],r[2]]];var hv=r[4];o.push(["人工校正："+hv,hv]);
+ if(r[5]!==r[2]&&r[5]!==hv)o.push(["第1次評審值："+r[5],r[5]]);if(r[7]!==r[2]&&r[7]!==hv&&r[7]!==r[5])o.push(["第2次評審值："+r[7],r[7]]);return o}
+function save(k,v){DEC[k]={final:v};try{localStorage.setItem("dec",JSON.stringify(DEC))}catch(e){}draw()}
+document.addEventListener("click",function(e){if(e.target.id==="exp"){var t=JSON.stringify(DEC,null,1);navigator.clipboard.writeText(t).then(function(){e.target.textContent="已複製"},function(){prompt("",t)})}});
+function draw(){var L=document.getElementById("list"),n=0;L.innerHTML="";
+ D.forEach(function(r,i){var k=key(r),cur=(DEC[k]||{}).final;if(cur)n++;
+  var c=document.createElement("div");c.className="card"+(cur?" done":"");
+  var vid=CL.indexOf(r[0])>=0?'<video controls preload="metadata" src="clips/'+M[r[0]]+'"></video>':'<div class="f">（找不到片段）</div>';
+  c.innerHTML='<div>'+vid+'</div><div><div class="t">'+r[0]+' · '+r[1]+'</div><div class="kv"><b>Gemini</b><span class="g">'+esc(r[2])+'</span><b>人工原文</b><span>'+esc(r[3])+'</span><b>人工校正</b><span class="h">'+esc(r[4])+'</span><b>第1次評審</b><span>'+esc(r[5])+' → '+r[6]+'勝</span><b>第2次評審</b><span>'+esc(r[7])+' → '+r[8]+'勝</span></div><div class="t">我最後決定</div><div class="opts"></div><input class="free" placeholder="或直接輸入其他答案">';
+  var ob=c.querySelector(".opts");
+  opts(r).forEach(function(p){var b=document.createElement("button");b.className="o"+(cur===p[1]?" on":"");b.textContent=p[0];b.onclick=function(){save(k,p[1])};ob.appendChild(b)});
+  var inp=c.querySelector("input");if(cur&&!opts(r).some(function(p){return p[1]===cur}))inp.value=cur;
+  inp.onchange=function(){if(inp.value.trim())save(k,inp.value.trim())};
+  L.appendChild(c)});
+ document.getElementById("prog").textContent="已決定 "+n+" / "+D.length}
 draw();
-</script>
-
-</body></html>
+</script></body></html>
