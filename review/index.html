@@ -138,7 +138,7 @@ function renderLeft(){
  const w=wOf(cur),L=$('#left');L.innerHTML='';
  L.append(el('div','meta',`${S.items.films.find(f=>f.film===film).name}｜${w.label}｜${w.time}`));
  if(mode==='review')L.append(el('div','meta',`Gemini 當時的輸入：${armZh(itemOf(cur).arm)}（題號 ${cur}）`));
- if(w.media){const v=document.createElement('video');v.src='/'+w.media;v.controls=true;v.preload='auto';
+ if(w.media){const v=document.createElement('video');v.src=w.media;v.controls=true;v.preload='auto';
   const wrap=el('div','vwrap');const cv=document.createElement('canvas');cv.className='ov';wrap.append(v,cv);L.append(wrap);
   const bar=el('div','vbar');const rp=el('button','btn','⟲ 重播');rp.onclick=()=>{v.currentTime=0;v.play()};
   const lp=el('label','',' 循環播放');const cb=document.createElement('input');cb.type='checkbox';cb.checked=true;v.loop=true;cb.onchange=()=>v.loop=cb.checked;lp.prepend(cb);
