@@ -127,7 +127,7 @@ function render(){
   const b=el('button','tab'+(f.film===film?' on':'')+(lock?' lock':''),f.name);b.append(el('small','',`${n}/${ks.length}`));b.title=lock?'請先完成這部片的盲標':'';
   b.onclick=()=>{if(lock){toast('請先完成這部片的盲標，再做審查');return}film=f.film;cur=null;render()};$('#filmTabs').append(b)});
  if(mode==='review'&&!blindDone(film)){$('#chips').innerHTML='';$('#left').innerHTML='<p>這部片的盲標尚未完成。為避免看到 Gemini 答案後影響判斷，請先完成盲標。</p>';$('#form').innerHTML='';renderRR();return}
- const ks=keysOf(film);if(!cur||!ks.includes(cur))cur=ks.find(k=>!isDone(mode,k))||ks[0];
+ const ks=keysOf(film);if(!ks.length){$('#chips').innerHTML='';$('#left').innerHTML='<p>這部片的審查已完成。社交程度請到 <a href=../social10/>社交程度 0–10 確認頁</a>。</p>';$('#form').innerHTML='';renderRR();return}if(!cur||!ks.includes(cur))cur=ks.find(k=>!isDone(mode,k))||ks[0];
  $('#chips').innerHTML='';ks.forEach((k,i)=>{const w=wOf(k);const c=el('button','chip'+(isDone(mode,k)?' done':'')+(k===cur?' cur':''),mode==='blind'?w.label:`${w.label}・${armZh(itemOf(k).arm)}`);
   c.onclick=()=>{const ci=ks.indexOf(cur);if(i>ci&&!complete(cur)&&ks.slice(ci,i).some(x=>!isDone(mode,x))){showMissing();return}cur=k;render()};$('#chips').append(c)});
  renderLeft();renderForm();renderRR();updateFoot();

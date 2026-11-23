@@ -2218,39 +2218,39 @@
      {
       "name": "FORREST",
       "role": "lead",
-      "emotion": "calm",
-      "fraction_of_window": 0.9,
+      "emotion": "focused",
+      "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": {
-       "valence": 2,
-       "arousal": 1
+       "valence": 7,
+       "arousal": 4
       },
       "visual": {
-       "valence": 2,
-       "arousal": 1
+       "valence": 6,
+       "arousal": 3
       },
       "language": {
-       "valence": 2,
-       "arousal": 1
+       "valence": 7,
+       "arousal": 4
       }
      },
      {
       "name": "MAN IN SAVANNAH",
       "role": "supporting",
       "emotion": "funny",
-      "fraction_of_window": 0.5,
+      "fraction_of_window": 0.6,
       "speaking": "yes",
       "audio": {
-       "valence": 1,
-       "arousal": 2
+       "valence": 5,
+       "arousal": 6
       },
       "visual": {
-       "valence": 1,
-       "arousal": 2
+       "valence": 5,
+       "arousal": 5
       },
       "language": {
-       "valence": 1,
-       "arousal": 2
+       "valence": 4,
+       "arousal": 5
       }
      },
      {
@@ -2260,19 +2260,20 @@
       "fraction_of_window": 0.4,
       "speaking": "yes",
       "audio": {
-       "valence": 2,
-       "arousal": 1
+       "valence": 8,
+       "arousal": 4
       },
       "visual": {
-       "valence": 2,
-       "arousal": 1
+       "valence": 7,
+       "arousal": 3
       },
       "language": {
-       "valence": 2,
-       "arousal": 1
+       "valence": 8,
+       "arousal": 4
       }
      }
-    ]
+    ],
+    "emo_scale": 10
    }
   },
   {
