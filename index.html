@@ -1,0 +1,71 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>評審不一致裁決表</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* Layout: single column, summary strip then a wide scrollable table of 21 rows */
+:root{--bg:#f6f7f9;--fg:#1c2330;--mute:#5d6778;--line:#d9dee6;--card:#fff;--gem:#1f6fb5;--hum:#b5541f;--head:#e9edf3}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#14181f;--fg:#e6e9ef;--mute:#98a2b3;--line:#2c3441;--card:#1b212b;--gem:#6fb1ee;--hum:#f0a070;--head:#232b37;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#14181f;--fg:#e6e9ef;--mute:#98a2b3;--line:#2c3441;--card:#1b212b;--gem:#6fb1ee;--hum:#f0a070;--head:#232b37;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:Inter,"Noto Sans TC","Microsoft JhengHei",system-ui,sans-serif;line-height:1.6;padding-block:24px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+main{max-width:1100px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+h1{font-size:1.5rem;margin:0;text-wrap:balance}
+p{margin:0;color:var(--mute);max-width:65ch}
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{border:1px solid var(--line);background:var(--card);border-radius:6px;padding:4px 10px;font-size:.85rem;cursor:pointer;color:var(--fg)}
+.chip[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
+.wrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--card)}
+table{border-collapse:collapse;width:100%;min-width:860px;font-size:.88rem}
+th,td{padding:8px 10px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+th{background:var(--head);font-weight:600;white-space:nowrap}
+tr:last-child td{border-bottom:0}
+td.w{font-variant-numeric:tabular-nums;white-space:nowrap;font-weight:600}
+.g{color:var(--gem)}.h{color:var(--hum)}
+.win{display:inline-block;font-size:.75rem;border:1px solid currentColor;border-radius:4px;padding:0 5px;margin-left:4px}
+td.v{font-weight:600}
+:focus-visible{outline:2px solid var(--gem);outline-offset:2px}
+</style>
+<main>
+<h1>評審不一致裁決表</h1>
+<p>評審（judge3）對同一欄位判了兩次，結果不同，共 21 欄次。Gemini 值、人工值與兩次評審結果並列，請你做最後裁決。</p>
+<div class="chips" id="chips" role="group" aria-label="依欄位篩選"></div>
+<div class="wrap"><table>
+<thead><tr><th>窗</th><th>欄位</th><th>Gemini</th><th>人工原文</th><th>人工校正</th><th>第 1 次評審</th><th>第 2 次評審</th></tr></thead>
+<tbody id="rows"></tbody></table></div>
+<p>藍色為偏向 Gemini，橙色為偏向人工。「†」表示人工校正後新增的內容。</p>
+</main>
+<script>
+var D=[
+["W12","agents_present","drawn_human,human","同右","anim_human, anim_creature","anim_human, anim_creature","人工","[\"drawn_human\", \"human\"]","Gemini"],
+["W20","agents_present","drawn_human,human","amin_human","anim_human","human","Gemini","human","人工"],
+["W22","agents_present","drawn_human,human","amin_human","anim_human","human","人工","human","Gemini"],
+["W25","agents_present","drawn_human,human","amin_human","anim_human","human","Gemini","human","人工"],
+["W28","agents_present","drawn_human,human","amin_human","anim_human","human","Gemini","human","人工"],
+["W19","audio_regime","ambient_sfx","同右","music, bark, sigh, ambient_sfx","music","人工","ambient_sfx","Gemini"],
+["W20","audio_regime","dialogue","同右","dialogue, music, 哈欠†","dialogue, music","人工","dialogue","Gemini"],
+["W21","foreground_source","speech","同右","music, dialogue, ambient_sfx, creature_murmur","speech","Gemini","dialogue","人工"],
+["W21","music_role","none","同右","劇情張力†","score","人工","none","Gemini"],
+["W20","n_humans_visible","3+","同右","4.0","4","人工","3+","Gemini"],
+["W28","n_humans_visible","3+","同右","4.0","4.0","人工","3+","Gemini"],
+["W21","social_interaction","0.0","同右","5.0","5.0","人工","0.0","Gemini"],
+["W28","social_interaction","8.0","同右","7.0","8.0","Gemini","7.0","人工"],
+["W09","speaker_visibility","off_screen","同右","on_screen","on_screen","人工","off_screen","Gemini"],
+["W21","speaker_visibility","no_speech","同右","yes","on_screen","人工","no_speech","Gemini"],
+["W21","speech_language","none","同右","not en","en","人工","none","Gemini"],
+["W09","valence","4.0","同右","5.0","5.0","人工","4.0","Gemini"],
+["W14","foreground_source","speech","ambient, music, speech","ambient_sfx, music, speech","ambient, music, speech","人工","speech","Gemini"],
+["W16","foreground_source","vehicle_machine","同右","machine, music","vehicle_machine","Gemini","machine, music","人工"],
+["W11","location_change","yes","同右","no","yes","Gemini","no","人工"],
+["W03","social_interaction","7.5","同右","7.0","7.5","Gemini","7.0","人工"]];
+function esc(s){var d=document.createElement("div");d.textContent=s;return d.innerHTML}
+function cell(v,w){return '<td class="v '+(w==="Gemini"?"g":"h")+'">'+esc(v)+'<span class="win">→ '+w+'</span></td>'}
+var cur="全部",fields=["全部"];
+D.forEach(function(r){if(fields.indexOf(r[1])<0)fields.push(r[1])});
+function draw(){
+ document.getElementById("rows").innerHTML=D.filter(function(r){return cur==="全部"||r[1]===cur}).map(function(r){
+  return '<tr><td class="w">'+r[0]+'</td><td>'+r[1]+'</td><td class="g">'+esc(r[2])+'</td><td>'+esc(r[3])+'</td><td class="h">'+esc(r[4])+'</td>'+cell(r[5],r[6])+cell(r[7],r[8])+'</tr>'}).join("");
+ var c=document.getElementById("chips");c.innerHTML="";
+ fields.forEach(function(f){var b=document.createElement("button");b.className="chip";b.textContent=f;b.setAttribute("aria-pressed",f===cur);b.onclick=function(){cur=f;draw()};c.appendChild(b)})}
+draw();
+</script>
+
+</body></html>
