@@ -1,0 +1,37 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>v5.3 評審不一致確認</title>
+<style>
+:root{--bg:#f6f7f9;--fg:#1c2330;--mute:#5d6778;--line:#d9dee6;--card:#fff;--g:#1f6fb5;--h:#b5541f}
+@media (prefers-color-scheme:dark){:root{--bg:#14181f;--fg:#e6e9ef;--mute:#98a2b3;--line:#2c3441;--card:#1b212b;--g:#6fb1ee;--h:#f0a070;color-scheme:dark}}
+body{background:var(--bg);color:var(--fg);font-family:"Noto Sans TC","Microsoft JhengHei",system-ui,sans-serif;margin:0;padding:24px max(16px,env(safe-area-inset-left))}
+main{max-width:900px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+.c{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:14px;display:flex;flex-direction:column;gap:8px}
+video{width:100%;max-width:560px;border-radius:6px}
+.g{color:var(--g)}.h{color:var(--h)} .m{color:var(--mute);font-size:.9rem}
+button{padding:6px 12px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg);cursor:pointer}
+button[aria-pressed=true]{background:var(--fg);color:var(--bg)}
+input{padding:6px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--fg);flex:1;min-width:0}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+textarea{width:100%;height:120px;box-sizing:border-box}
+</style></head><body><main>
+<h1>v5.3 評審不一致確認（13 窗 → 4 項）</h1>
+<p class="m">Gemini 評審同一欄判兩次結果不同。看片段後選「人工」「Gemini」或自填最後決定，再按最下方複製答案。</p>
+<div id="L"></div>
+<button id="ex">複製全部答案（JSON）</button><textarea id="out" readonly></textarea>
+</main><script>
+var D=[{"wid": "old_dmh_357.0", "field": "music_function", "human": "tension", "gemini": "tension, transition, ducks_under_speech", "j1": "\"tension\"", "w1": "人工", "j2": "\"tension, transition, ducks_under_speech\"", "w2": "Gemini", "status": "不一致"}, {"wid": "old_dmh_357.0", "field": "main_emotions", "human": "Mr. Perkins: 困擾/緊繃/平靜/自在; Gru: 錯愕/緊繃/平靜", "gemini": "supporting: anger; lead: tense", "j1": "\"Mr. Perkins: 困擾/緊纋/平靜/自在; Gru: 錯驚/緊纋/平靜\"", "w1": "人工", "j2": "\"supporting: anger; lead: tense\"", "w2": "Gemini", "status": "不一致"}, {"wid": "new_tp_89.25", "field": "audio_primary", "human": "ambient_sfx (小狗撞到家具的聲音)", "gemini": "music", "j1": "\"music\"", "w1": "Gemini", "j2": "\"ambient_sfx (小狗撞到家具的聲音)\"", "w2": "人工", "status": "不一致"}, {"wid": "new_dme_425.25", "field": "music_role", "human": "score", "gemini": "none", "j1": "\"none\"", "w1": "Gemini", "j2": "\"score\"", "w2": "人工", "status": "不一致"}],S={};try{S=JSON.parse(localStorage.getItem('v53')||'{}')}catch(e){}
+function save(){try{localStorage.setItem('v53',JSON.stringify(S))}catch(e){}}
+function esc(s){var d=document.createElement('div');d.textContent=s;return d.innerHTML}
+var L=document.getElementById('L');
+D.forEach(function(r,i){var k=r.wid+'|'+r.field,c=document.createElement('div');c.className='c';
+c.innerHTML='<b>'+esc(r.wid)+' · '+esc(r.field)+'</b><video controls preload="metadata" src="clips/'+r.wid+'.mp4"></video>'+
+'<div class="h">人工：'+esc(r.human)+'</div><div class="g">Gemini：'+esc(r.gemini)+'</div>'+
+'<div class="m">第 1 次評審 → '+r.w1+'；第 2 次評審 → '+r.w2+'</div>'+
+'<div class="row"><b>我最後決定：</b><button data-v="人工">人工</button><button data-v="Gemini">Gemini</button><input placeholder="或自填答案"></div>';
+var bs=c.querySelectorAll('button'),inp=c.querySelector('input');
+function draw(){bs.forEach(function(b){b.setAttribute('aria-pressed',S[k]&&S[k].pick===b.dataset.v)});inp.value=(S[k]&&S[k].text)||''}
+bs.forEach(function(b){b.onclick=function(){S[k]=S[k]||{};S[k].pick=b.dataset.v;save();draw()}});
+inp.oninput=function(){S[k]=S[k]||{};S[k].text=inp.value;save()};draw();L.appendChild(c)});
+document.getElementById('ex').onclick=function(){var t=JSON.stringify(S),o=document.getElementById('out');o.value=t;
+navigator.clipboard.writeText(t).catch(function(){o.select()})};
+</script></body></html>
