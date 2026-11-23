@@ -1,4 +1,4 @@
-<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>待審核：標註選項修正</title>
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>待審核：標註選項修正（已定案）</title>
 <style>
 :root{--bg:#f6f7f9;--fg:#1c2330;--mute:#5d6778;--line:#d9dee6;--card:#fff;--acc:#1f6fb5;--ok:#1a7f4b;--no:#b33a3a}
 @media(prefers-color-scheme:dark){:root{--bg:#14181f;--fg:#e6e9ef;--mute:#98a2b3;--line:#2c3441;--card:#1b212b;--acc:#6fb1ee;--ok:#5fcf93;--no:#ee7d7d;color-scheme:dark}}
@@ -16,7 +16,11 @@ input{width:100%;box-sizing:border-box;padding:5px 8px;border:1px solid var(--li
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
 </style></head><body><main>
 <div class="bar"><h1>待審核：標註選項修正</h1><span id="prog" class="f"></span><button class="o" id="exp">複製我的決定（JSON）</button></div>
-<p>21 項評審不一致已收到你的裁決並存檔。本頁是剩下要你審核的兩部分：評分選項與級距修正、人工答案的拼字／遺漏校正。每項選「同意」或「不同意」，需要時在框內補充。決定只存在這個瀏覽器，完成後按「複製我的決定」貼給我。</p>
+<div class="card y"><div class="t">11/23 定案：本頁所有項目使用者已全部同意</div><div>補充規則：新增「沒人說話」選項；amin_animal 改歸 anim_creature；動畫片只會有 anim_human 或 anim_creature，human 指真人，片中的狗等有戲份的生物歸 anim_creature。</div>
+<div class="t" style="margin-top:6px">套用 21 項裁決與校正後的統計（417 欄次）</div>
+<div>直接評 192：一致 120、Gemini 勝 35、人工勝 37、使用者另定 0</div><div>盲標 225：一致 103、Gemini 勝 76、人工勝 43、使用者另定 3</div>
+<div class="f">21 項裁決：人工勝 15、Gemini 勝 3、使用者另定 3（W21 的 speech_language＝hu、speaker_visibility＝on_screen、music_role＝score）。評審是 Gemini，「Gemini 勝」只當參考。</div></div>
+<p>下方為已定案的審核內容，保留供查閱。下一輪：你評分完成後送 Gemini，不一致的欄次會以同樣方式放到這裡讓你確認。</p>
 <h2>一、評分選項與級距修正（v5.3 草案）</h2><div id="sch" style="display:flex;flex-direction:column;gap:10px"></div>
 <h2>二、拼字／遺漏校正候選</h2><p>相似字比對與人工規則找出的候選；「次數」是在三份比對檔中出現的次數，空白表示這次新偵測。</p><div id="typo" class="grid"></div>
 </main><script>
