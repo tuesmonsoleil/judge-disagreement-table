@@ -19,7 +19,7 @@ textarea{width:100%;height:120px;box-sizing:border-box}
 <div id="L"></div>
 <button id="ex">複製全部答案（JSON）</button><textarea id="out" readonly></textarea>
 </main><script>
-var D=[{"wid": "figures_p7_112", "field": "social_interaction", "human": "none", "gemini": "walk_together", "j1": "[\"walk_together\"]", "w1": "Gemini", "j2": "\"none\"", "w2": "人工", "status": "不一致"}],S={};try{S=JSON.parse(localStorage.getItem('v53')||'{}')}catch(e){}
+var D=[],S={};try{S=JSON.parse(localStorage.getItem('v53')||'{}')}catch(e){}
 function save(){try{localStorage.setItem('v53',JSON.stringify(S))}catch(e){}}
 function esc(s){var d=document.createElement('div');d.textContent=s;return d.innerHTML}
 var L=document.getElementById('L');
