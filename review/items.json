@@ -1,6 +1,14 @@
 {
  "films": [
   {
+   "film": "dmh",
+   "name": "神偷奶爸（匈牙利語版 dmh）",
+   "wids": [
+    "old_dmh_399.0",
+    "old_dmh_420.0"
+   ]
+  },
+  {
    "film": "forrest",
    "name": "阿甘正傳（Forrest Gump，德語，無影像）",
    "wids": [
@@ -18,6 +26,26 @@
   }
  ],
  "windows": [
+  {
+   "wid": "old_dmh_399.0",
+   "dataset": "NV",
+   "film": "dmh",
+   "media": "media/old_dmh_399.0.mp4",
+   "text": "（無台詞）",
+   "time": "399.0–409.5 秒",
+   "label": "補評 01"
+  },
+  {
+   "wid": "old_dmh_420.0",
+   "dataset": "NV",
+   "film": "dmh",
+   "media": "media/old_dmh_420.0.mp4",
+   "text": "NA: A Már ne\nNA: kezdjék!",
+   "time": "420.0–430.5 秒",
+   "label": "補評 02",
+   "text_en": "NA: Oh, don't\nNA: start that!",
+   "text_zh": "NA: 噢，別\nNA: 開始了！"
+  },
   {
    "wid": "fg10_009",
    "dataset": "FG",
@@ -943,6 +971,189 @@
       ],
       "language": [
        "愉悅"
+      ]
+     }
+    ],
+    "emo_scale": "grid"
+   }
+  },
+  {
+   "id": "R2_old_dmh_399.0",
+   "wid": "old_dmh_399.0",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "anim_3d",
+    "agents_present": [
+     "anim_human",
+     "anim_creature"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "yes",
+    "location_change_type": "new_place",
+    "on_screen_text": "none",
+    "audio_present": [
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "music",
+    "speech_language": "none",
+    "speaker_visibility": "no_speech",
+    "foreground_source": "music",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "transition"
+    ],
+    "social_interaction": [
+     "none"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "social_level_0_10": 0,
+    "characters": [
+     {
+      "name": "Minions",
+      "role": "supporting",
+      "fraction_of_window": 0.2,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "緊張",
+       "錯愕"
+      ],
+      "language": [
+       "U"
+      ]
+     },
+     {
+      "name": "Gru",
+      "role": "lead",
+      "fraction_of_window": 0.2,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "緊張",
+       "緊繃"
+      ],
+      "language": [
+       "U"
+      ]
+     },
+     {
+      "name": "Guards",
+      "role": "extra",
+      "fraction_of_window": 0.8,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "平靜",
+       "放鬆"
+      ],
+      "language": [
+       "U"
+      ]
+     },
+     {
+      "name": "Elephant",
+      "role": "extra",
+      "fraction_of_window": 0.4,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "疲累",
+       "平靜"
+      ],
+      "language": [
+       "U"
+      ]
+     }
+    ],
+    "emo_scale": "grid"
+   }
+  },
+  {
+   "id": "R2_old_dmh_420.0",
+   "wid": "old_dmh_420.0",
+   "arm": "TV",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "anim_3d",
+    "agents_present": [
+     "human",
+     "animal"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "yes",
+    "location_change_type": "new_place",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "music",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "hu",
+    "speaker_visibility": "off_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "tension",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "social_level_0_10": 3,
+    "characters": [
+     {
+      "name": "Scientist 1",
+      "role": "supporting",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
+      "audio": [
+       "緊張"
+      ],
+      "visual": [
+       "緊張"
+      ],
+      "language": [
+       "緊張"
+      ]
+     },
+     {
+      "name": "Elephant",
+      "role": "extra",
+      "fraction_of_window": 0.2,
+      "speaking": "no",
+      "audio": [
+       "U"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "U"
       ]
      }
     ],
