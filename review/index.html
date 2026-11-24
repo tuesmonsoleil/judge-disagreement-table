@@ -70,7 +70,7 @@ pre.tx{white-space:pre-wrap;background:#f3f4f6;border-radius:6px;padding:8px;fon
 (function(){var of=window.fetch.bind(window);function L(k,d){try{return JSON.parse(localStorage.getItem(k)||"null")||d}catch(e){return d}}function W(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
 function J(o){return Promise.resolve(new Response(JSON.stringify(o),{headers:{"Content-Type":"application/json"}}))}
 var IT=null;window.fetch=function(u,o){u=String(u);
- if(u.indexOf("/api/state")===0)return (IT?Promise.resolve(IT):of("items.json?v=1124g").then(function(r){return r.json()}).then(function(j){IT=j;return j})).then(function(it){return J({items:it,blind:L("rv_blind",{}),review:L("rv_review",{}),status:L("rv_status",{}),rr:[]})});
+ if(u.indexOf("/api/state")===0)return (IT?Promise.resolve(IT):of("items.json?v=1124h").then(function(r){return r.json()}).then(function(j){IT=j;return j})).then(function(it){return J({items:it,blind:L("rv_blind",{}),review:L("rv_review",{}),status:L("rv_status",{}),rr:[]})});
  if(u.indexOf("/api/save")===0){var b=JSON.parse(o.body),k="rv_"+b.mode,d=L(k,{});d[b.key]=b.data;W(k,d);return J({ok:true})}
  if(u.indexOf("/api/complete")===0){var c=JSON.parse(o.body),st=L("rv_status",{});(st.done=st.done||{})[c.mode+":"+c.film]=new Date().toISOString();W("rv_status",st);return J({ok:true})}
  if(u.indexOf("/media/")===0)return of(u.slice(1));return of(u,o)};
@@ -89,7 +89,7 @@ const F=[
  ['screen_content','畫面內容','multi','',[['story','劇情畫面'],['intertitle','字卡'],['credits','片頭／片尾字幕'],['black','黑畫面'],U]],
  ['visual_style','畫面風格','single','',[['live_color','真人彩色'],['live_bw','真人黑白'],['anim_2d','2D 動畫'],['anim_3d','3D 動畫'],['minimal_line','簡筆線條'],['mixed','混合'],U]],
  ['agents_present','出現的角色類型','multi','真人＝真實演員；動畫人物＝2D/3D 動畫的人；動畫生物＝如小小兵',[['human','真人'],['anim_human','動畫人物'],['drawn_human','靜態繪製人物'],['puppet','偶'],['animal','真實動物'],['anim_creature','動畫生物'],['other_agent','其他'],['none','無'],U]],
- ['max_humans_simultaneous','同一畫面最多幾個「人」','single','真人＋動畫人物（不含小小兵這類非人角色）',[...[0,1,2,3,4,5,6,7,8,9].map(i=>[i,String(i)]),[10,'10 以上'],U]],
+ ['max_humans_simultaneous','同一畫面最多幾個「人」','single','只數畫面主要聚焦、可清楚辨識的人（真人＋動畫人物，不含小小兵）；背景模糊或無法判斷的人不計，另請在備註寫「背景有模糊多人」',[...[0,1,2,3,4,5,6,7,8,9].map(i=>[i,String(i)]),[10,'10 以上'],U]],
  ['max_humanoid_nonhuman','同一畫面最多幾個「類人非人角色」','single','例如小小兵',[...[0,1,2,3,4,5,6,7,8,9].map(i=>[i,String(i)]),[10,'10 以上'],U]],
  ['setting','場景','single','',[['indoor','室內'],['outdoor','室外'],['vehicle','交通工具內'],['abstract','非真實場所（如字卡）'],U]],
  ['location_change','場景地點是否改變','single','',[['yes','有'],['no','沒有'],U]],
