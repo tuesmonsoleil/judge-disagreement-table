@@ -70,7 +70,7 @@ pre.tx{white-space:pre-wrap;background:#f3f4f6;border-radius:6px;padding:8px;fon
 (function(){var of=window.fetch.bind(window);function L(k,d){try{return JSON.parse(localStorage.getItem(k)||"null")||d}catch(e){return d}}function W(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
 function J(o){return Promise.resolve(new Response(JSON.stringify(o),{headers:{"Content-Type":"application/json"}}))}
 var IT=null;window.fetch=function(u,o){u=String(u);
- if(u.indexOf("/api/state")===0)return (IT?Promise.resolve(IT):of("items.json?v=1124c").then(function(r){return r.json()}).then(function(j){IT=j;return j})).then(function(it){return J({items:it,blind:L("rv_blind",{}),review:L("rv_review",{}),status:L("rv_status",{}),rr:[]})});
+ if(u.indexOf("/api/state")===0)return (IT?Promise.resolve(IT):of("items.json?v=1124d").then(function(r){return r.json()}).then(function(j){IT=j;return j})).then(function(it){return J({items:it,blind:L("rv_blind",{}),review:L("rv_review",{}),status:L("rv_status",{}),rr:[]})});
  if(u.indexOf("/api/save")===0){var b=JSON.parse(o.body),k="rv_"+b.mode,d=L(k,{});d[b.key]=b.data;W(k,d);return J({ok:true})}
  if(u.indexOf("/api/complete")===0){var c=JSON.parse(o.body),st=L("rv_status",{});(st.done=st.done||{})[c.mode+":"+c.film]=new Date().toISOString();W("rv_status",st);return J({ok:true})}
  if(u.indexOf("/media/")===0)return of(u.slice(1));return of(u,o)};
