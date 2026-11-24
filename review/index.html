@@ -52,7 +52,7 @@ pre.tx{white-space:pre-wrap;background:#f3f4f6;border-radius:6px;padding:8px;fon
 .rr table{border-collapse:collapse;width:100%;font-size:12px}.rr td,.rr th{border-bottom:1px solid var(--line);padding:3px 4px;text-align:left;vertical-align:top}
 .toast{position:fixed;right:16px;bottom:64px;background:#1d2430;color:#fff;padding:8px 12px;border-radius:8px;display:none;z-index:9}
 @media (max-width:900px){main{grid-template-columns:1fr}.left{position:static;max-height:none}}
-</style></head><body><nav id="gnav" style="display:flex;gap:14px;flex-wrap:wrap;padding:8px 16px;font:14px system-ui,sans-serif;border-bottom:1px solid #8884;background:Canvas;color:CanvasText;position:sticky;top:0;z-index:9"><b>S2S 人工評分</b><a href="../" style="color:#1f6fb5;">首頁</a><a href="../review/" style="color:#1f6fb5;font-weight:700;text-decoration:underline">人工評分／審查</a><a href="../social10/" style="color:#1f6fb5;">社交程度 0–10</a><a href="../verdict53/" style="color:#1f6fb5;">重審（評審不一致）</a></nav>
+</style></head><body><nav id="gnav" style="display:flex;gap:14px;flex-wrap:wrap;padding:8px 16px;font:14px system-ui,sans-serif;border-bottom:1px solid #8884"><b>S2S 人工評分</b><a href="../" style="color:#1f6fb5;">首頁</a><a href="../review/" style="color:#1f6fb5;font-weight:700">人工評分／審查</a><a href="../verdict53/" style="color:#1f6fb5;">最後決定</a></nav>
 <header>
   <b>人工評分</b>
   <div class="tabs" id="modeTabs"></div>
@@ -116,18 +116,19 @@ let S,mode='blind',film=null,cur=null,saveT=null;
 async function load(){S=await (await fetch('/api/state')).json();film=S.items.films[0].film;render();setInterval(poll,10000)}
 async function poll(){const s=await (await fetch('/api/state')).json();S.status=s.status;S.rr=s.rr;renderRR()}
 const winsOf=f=>S.items.films.find(x=>x.film===f).wids;
-const keysOf=f=>mode==='blind'?winsOf(f):S.items.review.filter(r=>winsOf(f).includes(r.wid)).map(r=>r.id);
+const reported=w=>{const x=S.items.windows.find(y=>y.wid===w);return x&&x.dataset!=='FG'};
+const keysOf=f=>mode==='blind'?winsOf(f).filter(w=>!reported(w)):S.items.review.filter(r=>winsOf(f).includes(r.wid)).map(r=>r.id);
 const store=()=>mode==='blind'?S.blind:S.review;
 function rec(k){const d=store();if(!d[k])d[k]={fields:{}};return d[k]}
-function blindDone(f){return winsOf(f).every(w=>isDone('blind',w))}
+function blindDone(f){return winsOf(f).every(w=>reported(w)||isDone('blind',w))}
 function isDone(m,k){const d=(m==='blind'?S.blind:S.review)[k];return !!(d&&d.done)}
 function render(){
  $('#modeTabs').innerHTML='';[['blind','① 盲標（先做）'],['review','② 審查 Gemini']].forEach(([m,t])=>{const b=el('button','tab'+(m===mode?' on':''),t);b.onclick=()=>{mode=m;cur=null;render()};$('#modeTabs').append(b)});
- $('#filmTabs').innerHTML='';S.items.films.forEach(f=>{const ks=keysOf(f.film),n=ks.filter(k=>isDone(mode,k)).length,lock=mode==='review'&&!blindDone(f.film);
+ if(!keysOf(film).length||(mode==='review'&&!blindDone(film))){const nf=S.items.films.find(f=>keysOf(f.film).length&&(mode==='blind'||blindDone(f.film)));if(nf){film=nf.film;cur=null}} $('#filmTabs').innerHTML='';S.items.films.forEach(f=>{if(!keysOf(f.film).length)return;const ks=keysOf(f.film),n=ks.filter(k=>isDone(mode,k)).length,lock=mode==='review'&&!blindDone(f.film);
   const b=el('button','tab'+(f.film===film?' on':'')+(lock?' lock':''),f.name);b.append(el('small','',`${n}/${ks.length}`));b.title=lock?'請先完成這部片的盲標':'';
   b.onclick=()=>{if(lock){toast('請先完成這部片的盲標，再做審查');return}film=f.film;cur=null;render()};$('#filmTabs').append(b)});
  if(mode==='review'&&!blindDone(film)){$('#chips').innerHTML='';$('#left').innerHTML='<p>這部片的盲標尚未完成。為避免看到 Gemini 答案後影響判斷，請先完成盲標。</p>';$('#form').innerHTML='';renderRR();return}
- const ks=keysOf(film);if(!ks.length){$('#chips').innerHTML='';$('#left').innerHTML='<p>這部片的審查已完成。社交程度請到 <a href=../social10/>社交程度 0–10 確認頁</a>。</p>';$('#form').innerHTML='';renderRR();return}if(!cur||!ks.includes(cur))cur=ks.find(k=>!isDone(mode,k))||ks[0];
+ const ks=keysOf(film);if(!ks.length){$('#chips').innerHTML='';$('#left').innerHTML='<p>這部片的審查已完成。最後決定請到 <a href=../verdict53/>最後決定頁</a>。</p>';$('#form').innerHTML='';renderRR();return}if(!cur||!ks.includes(cur))cur=ks.find(k=>!isDone(mode,k))||ks[0];
  $('#chips').innerHTML='';ks.forEach((k,i)=>{const w=wOf(k);const c=el('button','chip'+(isDone(mode,k)?' done':'')+(k===cur?' cur':''),mode==='blind'?w.label:`${w.label}・${armZh(itemOf(k).arm)}`);
   c.onclick=()=>{const ci=ks.indexOf(cur);if(i>ci&&!complete(cur)&&ks.slice(ci,i).some(x=>!isDone(mode,x))){showMissing();return}cur=k;render()};$('#chips').append(c)});
  renderLeft();renderForm();renderRR();updateFoot();
@@ -276,17 +277,26 @@ function renderForm(){const R=rec(cur),F0=$('#form');const y=window.scrollY;F0.i
   if(['dme','dmh'].includes(film))F0.append(lightCard(R));
   F0.append(rowsCard(R,'characters','角色與情緒（每個角色一列）','依情緒儀表板點選形容詞，愉悅度／活力度由後端依詞在圖上的位置換算；其他角色按「＋」新增。',newChar,drawChar,'本片段沒有角色'))}
  else RFof(cur).forEach(k=>F0.append(k==='characters'?reviewChars(R):reviewField(k,R)));
- window.scrollTo(0,y);updateFoot();
+ pager();window.scrollTo(0,y);updateFoot();
  document.querySelectorAll('#chips .chip').forEach((c,i)=>{const k=keysOf(film)[i];c.classList.toggle('done',isDone(mode,k)||(k===cur&&complete(k)))})}
 function missing(k){const R=store()[k]||{fields:{}};const keys=mode==='blind'?blindKeys():RFof(k);return keys.filter(x=>!fieldOk(x,R.fields[x]))}
 function complete(k){return missing(k).length===0}
 function showMissing(){const m=missing(cur);document.querySelectorAll('.card').forEach(c=>c.classList.toggle('miss',m.includes(c.dataset.k)));
  if(m.length){$('#msg').textContent=`還有 ${m.length} 項沒填完（紅框）`;const f=document.querySelector('.card.miss');if(f)f.scrollIntoView({behavior:'smooth',block:'center'})}}
 function updateFoot(){const ks=keysOf(film),i=ks.indexOf(cur),m=missing(cur);$('#msg').textContent='';
- $('#prog').textContent=`本題完成 ${(mode==='blind'?blindKeys():RFof(cur)).length-m.length}/${(mode==='blind'?blindKeys():RFof(cur)).length} 項｜本片 ${ks.filter(k=>isDone(mode,k)).length}/${ks.length} 題`;
- $('#next').textContent=i===ks.length-1?'完成本片 ✓':'下一題 →'}
-$('#prev').onclick=()=>{const ks=keysOf(film),i=ks.indexOf(cur);if(i>0){cur=ks[i-1];render()}};
-$('#next').onclick=async()=>{if(!complete(cur)){showMissing();return}const R=rec(cur);R.done=true;await fetch('/api/save',{method:'POST',body:JSON.stringify({mode,key:cur,data:R})});
+ $('#prog').textContent=`第 ${pos+1}/${cards().length} 欄｜本題完成 ${(mode==='blind'?blindKeys():RFof(cur)).length-m.length}/${(mode==='blind'?blindKeys():RFof(cur)).length} 項｜本片 ${ks.filter(k=>isDone(mode,k)).length}/${ks.length} 題`;
+ $('#next').textContent=pos<cards().length-1?'下一題 →':i===ks.length-1?'完成本片 ✓':'下一個片段 →'}
+let pos=0,posKey=null;
+function cards(){return [...document.querySelectorAll('#form>.card')]}
+function pager(){const c=cards();const id=mode+':'+cur;if(posKey!==id){posKey=id;const i=c.findIndex(x=>missing(cur).includes(x.dataset.k));pos=i<0?0:i}
+ pos=Math.max(0,Math.min(pos,c.length-1));c.forEach((x,i)=>x.style.display=i===pos?'':'none')}
+function go(d){const c=cards();if(pos+d>=0&&pos+d<c.length){pos+=d;pager();updateFoot();return true}return false}
+document.querySelector('#form').addEventListener('click',e=>{const b=e.target.closest&&e.target.closest('button');if(!b)return;const p0=posKey,i0=pos,c=cards()[pos];if(!c)return;const k=c.dataset.k,fd=rec(cur).fields[k]||{};let adv=false;
+ if(mode==='blind'){adv=FM[k]&&FM[k][2]!=='multi'&&FM[k][2]!=='text'&&FM[k][2]!=='rows'?fieldOk(k,fd):!!fd.none}
+ else if(k!=='characters'&&fd.score!=null){const multi=k==='social_interaction'||(FM[k]&&FM[k][2]==='multi');adv=fd.score===3||(fd.alt!=null&&!multi)}
+ if(adv)setTimeout(()=>{if(posKey!==p0||pos!==i0)return;if(!go(1))$('#next').onclick()},250)});
+$('#prev').onclick=()=>{if(go(-1))return;const ks=keysOf(film),i=ks.indexOf(cur);if(i>0){cur=ks[i-1];render()}};
+$('#next').onclick=async()=>{if(go(1))return;if(!complete(cur)){const i=cards().findIndex(x=>missing(cur).includes(x.dataset.k));if(i>=0){pos=i;pager();updateFoot();$('#msg').textContent='這一項還沒填'}return}const R=rec(cur);R.done=true;await fetch('/api/save',{method:'POST',body:JSON.stringify({mode,key:cur,data:R})});
  const ks=keysOf(film),i=ks.indexOf(cur);const left=ks.filter(k=>!isDone(mode,k));
  if(!left.length){const r=await (await fetch('/api/complete',{method:'POST',body:JSON.stringify({mode,film})})).json();toast('本片完成：答案存在這個瀏覽器，全部完成後按「複製全部答案」貼給 Claude');
   S.status=(await (await fetch('/api/state')).json()).status;cur=null;const nf=S.items.films.find(f=>keysOf(f.film).some(k=>!isDone(mode,k))&&(mode==='blind'||blindDone(f.film)));if(nf)film=nf.film;render();return}
