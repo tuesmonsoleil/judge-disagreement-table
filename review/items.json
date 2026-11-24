@@ -297,9 +297,9 @@
    "dataset": "FG",
    "film": "forrest",
    "media": null,
-   "text": "【時間】白天\n　標註檔：前後 10 TR 內無跳躍\n【場景】薩凡納的公車站長椅\n　標註檔：Savannah｜bench at bus stop｜bench at bus stop（ext，day）\n【人物】阿甘坐在長椅上\n　標註檔：FORREST\n【前文】男人面帶嚴肅看著前方，接著一輛公車停下。隨後公車上有著一九八一年的新車款廣告，男人打開了巧克力盒。\n【後文】她搖了搖頭拒絕。阿甘接著說他覺得自己可以吃好幾磅，並說了他媽媽常說的話：人生就像一盒巧克力，你永遠不知道會拿到什麼。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】3:00.0–3:20.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-10 -18.0s [AD] der Mann schaut mit ernstem Gesicht ins Leere.\nTR-7 -13.9s [AD] ein Linienbus hält.\nTR-5  -8.4s [AD] darauf eine Werbung für ein neues Automodell von Neunzehnhunderteinundachtzig\nTR-1  -1.3s [AD] der Mann öffnet die Pralinenschachtel.\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.9s [AD] eine schwarze Frau in Schwesterntracht setzt sich zu ihm auf die Bank.\nTR+2   4.8s [AD] schnell macht der Mann die Schachtel wieder zu.\nTR+3   7.1s [AD] die Krankenschwester blickt in eine Zeitschrift.\nTR+4  10.0s FORREST: Hallo!\nTR+5  11.9s FORREST: mein Name ist Forrest, Forrest Gump.\nTR+7  14.5s [AD] die Schwester sieht kurz hoch nickt und liest weiter.\nTR+8  17.2s [AD] Forrest hält ihr die geöffnete Pralinenschachtel hin.\nTR+9  19.9s FORREST: möchten Sie eine Praline?\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+11  22.2s [AD] sie schüttelt den Kopf.\nTR+12  24.4s FORREST: ich glaub, ich könnte sie pfundweise essen.\nTR+14  28.8s FORREST: meine Mama hat immer gesagt:\nTR+15  30.9s FORREST: das Leben ist wie eine Schachtel Pralinen.\nTR+17  34.2s [AD] er steckt sich eine in den Mund.\nTR+17  35.9s FORREST: man weiß nie, was man kriegt.\nTR+19  38.1s [AD] die Schwester reagiert nicht.",
-   "text_en": "【時間】白天\n　標註檔：前後 10 TR 內無跳躍\n【場景】薩凡納的公車站長椅\n　標註檔：Savannah｜bench at bus stop｜bench at bus stop（ext，day）\n【人物】阿甘坐在長椅上\n　標註檔：FORREST\n【前文】男人面帶嚴肅看著前方，接著一輛公車停下。隨後公車上有著一九八一年的新車款廣告，男人打開了巧克力盒。\n【後文】她搖了搖頭拒絕。阿甘接著說他覺得自己可以吃好幾磅，並說了他媽媽常說的話：人生就像一盒巧克力，你永遠不知道會拿到什麼。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】3:00.0–3:20.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-10 -18.0s [AD] the man stares into space with a serious face.\nTR-7 -13.9s [AD] a scheduled bus stops.\nTR-5  -8.4s [AD] on it is an advertisement for a new 1981 car model.\nTR-1  -1.3s [AD] the man opens the box of chocolates.\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.9s [AD] a black woman in a nurse's uniform sits down on the bench next to him.\nTR+2   4.8s [AD] quickly, the man closes the box again.\nTR+3   7.1s [AD] the nurse looks into a magazine.\nTR+4  10.0s FORREST: Hello!\nTR+5  11.9s FORREST: my name is Forrest, Forrest Gump.\nTR+7  14.5s [AD] the nurse looks up briefly, nods, and continues reading.\nTR+8  17.2s [AD] Forrest holds out the opened box of chocolates to her.\nTR+9  19.9s FORREST: would you like a chocolate?\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+11  22.2s [AD] she shakes her head.\nTR+12  24.4s FORREST: I think I could eat them by the pound.\nTR+14  28.8s FORREST: my mama always said:\nTR+15  30.9s FORREST: life is like a box of chocolates.\nTR+17  34.2s [AD] he puts one into his mouth.\nTR+17  35.9s FORREST: you never know what you're gonna get.\nTR+19  38.1s [AD] the nurse does not react.",
-   "text_zh": "【時間】白天\n　標註檔：前後 10 TR 內無跳躍\n【場景】薩凡納的公車站長椅\n　標註檔：Savannah｜bench at bus stop｜bench at bus stop（ext，day）\n【人物】阿甘坐在長椅上\n　標註檔：FORREST\n【前文】男人面帶嚴肅看著前方，接著一輛公車停下。隨後公車上有著一九八一年的新車款廣告，男人打開了巧克力盒。\n【後文】她搖了搖頭拒絕。阿甘接著說他覺得自己可以吃好幾磅，並說了他媽媽常說的話：人生就像一盒巧克力，你永遠不知道會拿到什麼。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】3:00.0–3:20.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-10 -18.0s [AD] 那男人面容嚴肅地望向虛空。\nTR-7 -13.9s [AD] 一輛公車停下。\nTR-5  -8.4s [AD] 車上有著一則一九八一年新車款的廣告。\nTR-1  -1.3s [AD] 男人打開了巧克力盒。\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.9s [AD] 一名穿著護士服的黑人女性坐到他旁邊的長椅上。\nTR+2   4.8s [AD] 男人迅速地又把盒子闔上。\nTR+3   7.1s [AD] 護士看著一本雜誌。\nTR+4  10.0s FORREST: 嗨！\nTR+5  11.9s FORREST: 我的名字是阿甘，福雷斯特·甘。\nTR+7  14.5s [AD] 護士短暫地抬頭看了一眼、點頭，然後繼續閱讀。\nTR+8  17.2s [AD] 阿甘將打開的巧克力盒遞向她。\nTR+9  19.9s FORREST: 你想來顆巧克力嗎？\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+11  22.2s [AD] 她搖搖頭。\nTR+12  24.4s FORREST: 我想我可以一磅一磅地吃它們。\nTR+14  28.8s FORREST: 我媽媽總是說：\nTR+15  30.9s FORREST: 人生就像一盒巧克力。\nTR+17  34.2s [AD] 他把一顆放進嘴裡。\nTR+17  35.9s FORREST: 你永遠不知道你會拿到什麼。\nTR+19  38.1s [AD] 護士毫無反應。",
+   "text": "【時間】白天\n　標註檔：前後 10 TR 內無跳躍\n【場景】薩凡納的公車站長椅\n　標註檔：Savannah｜bench at bus stop｜bench at bus stop（ext，day）\n【人物】阿甘（獨自一人坐在長椅上）\n　標註檔：FORREST\n【前 40 TR 摘要】一片羽毛在空中飄飛，最後落在阿甘的運動鞋上。阿甘將羽毛撿起並仔細端詳，隨後把它夾進一本童書裡，再放入自己的手提箱中。接著他拿出並打開了一盒巧克力，一輛公車隨之停靠在旁。\n【後 40 TR 摘要】護理師搖頭拒絕了阿甘的巧克力。阿甘一邊吃著巧克力，一邊向護理師提起母親說過的人生哲學。隨後他注意到護理師的鞋子，兩人開始交談。之後情節短暫跳回阿甘小時候戴著腳部金屬支架的回憶。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】3:00.0–3:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.9s [AD] eine schwarze Frau in Schwesterntracht setzt sich zu ihm auf die Bank.\nTR+2   4.8s [AD] schnell macht der Mann die Schachtel wieder zu.\nTR+3   7.1s [AD] die Krankenschwester blickt in eine Zeitschrift.\nTR+4  10.0s FORREST: Hallo!\nTR+5  11.9s FORREST: mein Name ist Forrest, Forrest Gump.\nTR+7  14.5s [AD] die Schwester sieht kurz hoch nickt und liest weiter.\nTR+8  17.2s [AD] Forrest hält ihr die geöffnete Pralinenschachtel hin.\nTR+9  19.9s FORREST: möchten Sie eine Praline?\n════ 本窗結束 ════",
+   "text_en": "【時間】白天\n　標註檔：前後 10 TR 內無跳躍\n【場景】薩凡納的公車站長椅\n　標註檔：Savannah｜bench at bus stop｜bench at bus stop（ext，day）\n【人物】阿甘（獨自一人坐在長椅上）\n　標註檔：FORREST\n【前 40 TR 摘要】一片羽毛在空中飄飛，最後落在阿甘的運動鞋上。阿甘將羽毛撿起並仔細端詳，隨後把它夾進一本童書裡，再放入自己的手提箱中。接著他拿出並打開了一盒巧克力，一輛公車隨之停靠在旁。\n【後 40 TR 摘要】護理師搖頭拒絕了阿甘的巧克力。阿甘一邊吃著巧克力，一邊向護理師提起母親說過的人生哲學。隨後他注意到護理師的鞋子，兩人開始交談。之後情節短暫跳回阿甘小時候戴著腳部金屬支架的回憶。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】3:00.0–3:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.9s [AD] A Black woman in a nurse's uniform sits down next to him on the bench.\nTR+2   4.8s [AD] Quickly, the man closes the box again.\nTR+3   7.1s [AD] The nurse looks into a magazine.\nTR+4  10.0s FORREST: Hello!\nTR+5  11.9s FORREST: My name is Forrest, Forrest Gump.\nTR+7  14.5s [AD] The nurse looks up briefly, nods, and continues reading.\nTR+8  17.2s [AD] Forrest holds out the opened box of chocolates to her.\nTR+9  19.9s FORREST: Would you like a chocolate?\n════ 本窗結束 ════",
+   "text_zh": "【時間】白天\n　標註檔：前後 10 TR 內無跳躍\n【場景】薩凡納的公車站長椅\n　標註檔：Savannah｜bench at bus stop｜bench at bus stop（ext，day）\n【人物】阿甘（獨自一人坐在長椅上）\n　標註檔：FORREST\n【前 40 TR 摘要】一片羽毛在空中飄飛，最後落在阿甘的運動鞋上。阿甘將羽毛撿起並仔細端詳，隨後把它夾進一本童書裡，再放入自己的手提箱中。接著他拿出並打開了一盒巧克力，一輛公車隨之停靠在旁。\n【後 40 TR 摘要】護理師搖頭拒絕了阿甘的巧克力。阿甘一邊吃著巧克力，一邊向護理師提起母親說過的人生哲學。隨後他注意到護理師的鞋子，兩人開始交談。之後情節短暫跳回阿甘小時候戴著腳部金屬支架的回憶。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】3:00.0–3:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.9s [AD] 一個穿著護士服的黑人婦女坐到他身旁的長椅上。\nTR+2   4.8s [AD] 男子趕緊把盒子又蓋上了。\nTR+3   7.1s [AD] 護士正在看一本雜誌。\nTR+4  10.0s FORREST: 你好！\nTR+5  11.9s FORREST: 我的名字叫阿甘，福雷斯特·甘。\nTR+7  14.5s [AD] 護士微微抬頭看了一下，點點頭，繼續閱讀。\nTR+8  17.2s [AD] 阿甘把打開的巧克力盒遞給她。\nTR+9  19.9s FORREST: 你想來顆巧克力嗎？\n════ 本窗結束 ════",
    "time": "3:00.0–3:20.0",
    "label": "10TR 01"
   },
@@ -308,9 +308,9 @@
    "dataset": "FG",
    "film": "forrest",
    "media": null,
-   "text": "【時間】白天\n　標註檔：13:11.0 起：倒敘\n【場景】阿拉巴馬州格林博，行駛中的校車內部\n　標註檔：Greenbow Alabama｜school bus｜inside driving bus（int，day）\n【人物】阿甘與珍妮（兩人為同車乘客）\n　標註檔：FORREST、FORRESTVO、JENNY\n【前文】阿甘登上校車後在車廂內尋找座位，其他學生紛紛拒絕讓他坐旁邊。最後金髮小女孩珍妮開口邀請阿甘坐在她旁邊，阿甘心想自己從沒見過這麼美麗的事物。\n【後文】阿甘與珍妮在校車前往學校的整段路程中一直交談。自此之後兩人經常黏在一起，成為形影不離的好友。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】13:20.0–13:40.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-39 -76.0s [AD] die rauchende Busfahrerin sieht Forrest an.\nTR-37 -73.7s DOROTHY HARRIS: kommst du oder kommst du nicht?\nTR-37 -72.1s FORREST (CHILD): Mama sagt, ich darf nicht bei Fremden ins Auto einsteigen.\nTR-35 -68.5s DOROTHY HARRIS: das hier ist der Bus zur Schule.\nTR-34 -66.6s [AD] Forrest bleibt unschlüssig vor der Tür stehen.\nTR-32 -63.5s FORREST (CHILD): ich bin Forrest, Forrest Gump.\nTR-31 -60.8s DOROTHY HARRIS: ich bin Dorothy Harris.\nTR-30 -58.9s FORREST (CHILD): dann sind sie ja jetzt keine Fremde mehr.\nTR-29 -56.0s [AD] Dorothy schmunzelt.\nTR-28 -54.9s [AD] Forrest steigt etwas mühsam mit seinen Beinschienen ein.\nTR-24 -47.8s [AD] er geht durch den fast voll besetzten Bus und blickt auf zwei Jungs in einer Bank.\nTR-23 -44.2s BOY #1: hier sitzt schon einer.\nTR-21 -40.2s BOY #2: hier auch\nTR-20 -39.4s [AD] der Platz neben ihm ist leer.\nTR-19 -37.6s [AD] Forrest sieht ein Mädchen an, das neben einem anderen sitzt.\nTR-18 -34.9s [AD] es schüttelt den Kopf.\nTR-17 -33.7s [AD] weit hinten sitzt ein Junge auch allein in einer Bank.\nTR-16 -31.5s BOY #3: hier kannst du auch nicht sitzen.\nTR-15 -28.5s FORREST (V.O.): komisch, was man noch aus seiner Kinderzeit weiß.\nTR-13 -25.0s FORREST (V.O.): ... weil ...\nTR-13 -24.3s FORREST (V.O.): ich kann mich nicht daran erinnern, wie ich geboren wurde.\nTR-11 -20.6s FORREST (V.O.): ... ich ...\nTR-10 -19.8s FORREST (V.O.): ich weiß auch nicht mehr, was ich zu meinem ersten Weihnachtsfest gekriegt habe und nichts von meinem aller ersten Picknick, aber ... dafür weiß ich ganz genau, wann ich das erste mal die süßeste Stimme auf der ganzen Welt gehört habe.\nTR-4  -6.9s JENNY (CHILD): wenn du willst, kannst du hier sitzen.\nTR-3  -4.4s [AD] ein zierliches, blondes Mädchen schaut ihn an.\nTR-1  -1.8s FORREST (V.O.): ich hatte noch nie in meinem Leben etwas so schönes gesehen.\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.1s FORREST (V.O.): sie war wie ein Engel.\nTR+2   4.5s JENNY (CHILD): was ist?\nTR+2   5.3s JENNY (CHILD): setzt du dich hin oder nicht?\nTR+4   8.2s [AD] Forrest setzt sich und senkt verlegen den Blick.\nTR+5  11.9s JENNY (CHILD): was ist denn mit deinen Beinen?\nTR+6  13.9s FORREST (CHILD): ähm, überhaupt nichts, danke.\nTR+7  15.6s FORREST (CHILD): meine Beine sind ordentlich in Ordnung.\nTR+9  18.8s FORREST (V.O.): ich saß also da im Bus.\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+10  21.0s FORREST (V.O.): ... und wir haben uns unterhalten.\nTR+11  23.1s FORREST (V.O.): ... die ganze Fahrt bis zur Schule\nTR+12  25.8s FORREST (V.O.): abgesehen von Mama ... hat nie jemand mit mir geredet ... oder mich was gefragt.\nTR+15  32.0s FORREST (CHILD): kann es sein, dass du dumm bist oder sowas?\nTR+17  34.0s FORREST (CHILD): Mama sagt:\nTR+17  34.9s FORREST (CHILD): dumm ist der, der dummes tut.\nTR+19  38.4s JENNY (CHILD): ich bin Jenny.\nTR+19  39.2s [AD] sie gibt ihm die Hand.\nTR+20  40.2s FORREST (CHILD): ich bin Forrest, Forrest Gump.\nTR+21  42.8s FORREST (V.O.): von dem Tag an waren wir immer zusammen, ... Jenny und ich.\nTR+23  46.4s FORREST (V.O.): wir waren wie Pech und Schwefel.\nTR+24  48.4s [AD] sie laufen zu einer Eiche.\nTR+24  49.8s FORREST (V.O.): sie hat mir beigebracht wie man klettert.\nTR+26  52.5s JENNY (CHILD): komm, Forrest!\nTR+27  54.3s FORREST (V.O.): und ich hab ihr gezeigt, wie man hangelt.\nTR+28  56.7s [AD] er hängt mit einer Hand am Ast.\nTR+29  59.0s FORREST (V.O.): sie hat mir beim Lesen lernen geholfen.\nTR+31  62.1s FORREST (V.O.): und ich hab ihr gezeigt wie man schaukelt.\nTR+32  64.4s [AD] er hängt kopfüber im Baum.\nTR+33  66.3s FORREST (V.O.): und manchmal saßen wir auch einfach nur so da und warteten auf die Sterne.\nTR+34  69.8s FORREST (CHILD): Ma macht sich bestimmt Sorgen um mich.\nTR+36  72.8s JENNY (CHILD): bleib doch noch ein bisschen länger!\nTR+37  74.6s [AD] auf dem Baum nimmt sie seine Hand.\nTR+38  76.0s FORREST (V.O.): aus irgendeinem Grund wollte Jenny nie nach Hause gehen.\nTR+39  79.7s FORREST (CHILD): okay, Jenny\nTR+40  81.0s FORREST (CHILD): ich bleibe.\nTR+41  82.8s FORREST (V.O.): sie war meine aller beste Freundin.\nTR+42  85.9s [AD] auf der Wartebank blickt Forrest traurig vor sich hin.\nTR+44  88.6s FORREST (V.O.): ... meine einzige Freundin.\nTR+45  90.1s [AD] die Krankenschwester sieht ungerührt in ihre Zeitschrift.\nTR+46  93.7s FORREST: meine Mama sagte immer:\nTR+47  94.7s FORREST: Wunder passieren an jedem Tag.\nTR+48  96.3s [AD] die Schwester blickt hoch.\nTR+48  97.3s FORREST: es gibt Leute, die glauben nicht daran, aber es ist so.",
-   "text_en": "【時間】白天\n　標註檔：13:11.0 起：倒敘\n【場景】阿拉巴馬州格林博，行駛中的校車內部\n　標註檔：Greenbow Alabama｜school bus｜inside driving bus（int，day）\n【人物】阿甘與珍妮（兩人為同車乘客）\n　標註檔：FORREST、FORRESTVO、JENNY\n【前文】阿甘登上校車後在車廂內尋找座位，其他學生紛紛拒絕讓他坐旁邊。最後金髮小女孩珍妮開口邀請阿甘坐在她旁邊，阿甘心想自己從沒見過這麼美麗的事物。\n【後文】阿甘與珍妮在校車前往學校的整段路程中一直交談。自此之後兩人經常黏在一起，成為形影不離的好友。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】13:20.0–13:40.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-39 -76.0s [AD] The smoking bus driver looks at Forrest.\nTR-37 -73.7s DOROTHY HARRIS: Are you coming or not?\nTR-37 -72.1s FORREST (CHILD): Mama says I must not get into a car with strangers.\nTR-35 -68.5s DOROTHY HARRIS: This is the bus to school.\nTR-34 -66.6s [AD] Forrest stands hesitatingly in front of the door.\nTR-32 -63.5s FORREST (CHILD): I'm Forrest, Forrest Gump.\nTR-31 -60.8s DOROTHY HARRIS: I'm Dorothy Harris.\nTR-30 -58.9s FORREST (CHILD): Then you aren't strangers anymore now.\nTR-29 -56.0s [AD] Dorothy smiles.\nTR-28 -54.9s [AD] Forrest boards with a bit of trouble because of his leg braces.\nTR-24 -47.8s [AD] He walks through the almost full bus and looks at two boys on a bench.\nTR-23 -44.2s BOY #1: Someone is already sitting here.\nTR-21 -40.2s BOY #2: Here too.\nTR-20 -39.4s [AD] The seat next to him is empty.\nTR-19 -37.6s [AD] Forrest looks at a girl sitting next to another.\nTR-18 -34.9s [AD] She shakes her head.\nTR-17 -33.7s [AD] Far in the back, a boy is also sitting alone on a bench.\nTR-16 -31.5s BOY #3: You can't sit here either.\nTR-15 -28.5s FORREST (V.O.): Funny what you still remember from your childhood.\nTR-13 -25.0s FORREST (V.O.): ... because ...\nTR-13 -24.3s FORREST (V.O.): I can't remember how I was born.\nTR-11 -20.6s FORREST (V.O.): ... I ...\nTR-10 -19.8s FORREST (V.O.): I also don't remember what I got for my first Christmas and nothing about my very first picnic, but ... for that, I know exactly when I heard the sweetest voice in the whole world for the first time.\nTR-4  -6.9s JENNY (CHILD): If you want, you can sit here.\nTR-3  -4.4s [AD] A petite, blonde girl looks at him.\nTR-1  -1.8s FORREST (V.O.): I had never seen anything so beautiful in my life.\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.1s FORREST (V.O.): She was like an angel.\nTR+2   4.5s JENNY (CHILD): What is it?\nTR+2   5.3s JENNY (CHILD): Are you sitting down or not?\nTR+4   8.2s [AD] Forrest sits down and lowers his gaze in embarrassment.\nTR+5  11.9s JENNY (CHILD): What's wrong with your legs anyway?\nTR+6  13.9s FORREST (CHILD): Um, absolutely nothing, thank you.\nTR+7  15.6s FORREST (CHILD): My legs are just fine.\nTR+9  18.8s FORREST (V.O.): So I was sitting there on the bus.\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+10  21.0s FORREST (V.O.): ... and we talked.\nTR+11  23.1s FORREST (V.O.): ... the whole ride to school.\nTR+12  25.8s FORREST (V.O.): Apart from Mama ... no one ever talked to me ... or asked me anything.\nTR+15  32.0s FORREST (CHILD): Could it be that you're stupid or something?\nTR+17  34.0s FORREST (CHILD): Mama says:\nTR+17  34.9s FORREST (CHILD): Stupid is as stupid does.\nTR+19  38.4s JENNY (CHILD): I'm Jenny.\nTR+19  39.2s [AD] She gives him her hand.\nTR+20  40.2s FORREST (CHILD): I'm Forrest, Forrest Gump.\nTR+21  42.8s FORREST (V.O.): From that day on, we were always together, ... Jenny and I.\nTR+23  46.4s FORREST (V.O.): We were like peas and carrots.\nTR+24  48.4s [AD] They run to an oak tree.\nTR+24  49.8s FORREST (V.O.): She taught me how to climb.\nTR+26  52.5s JENNY (CHILD): Come on, Forrest!\nTR+27  54.3s FORREST (V.O.): And I showed her how to hang.\nTR+28  56.7s [AD] He hangs by one hand from the branch.\nTR+29  59.0s FORREST (V.O.): She helped me learn to read.\nTR+31  62.1s FORREST (V.O.): And I showed her how to swing.\nTR+32  64.4s [AD] He hangs upside down in the tree.\nTR+33  66.3s FORREST (V.O.): And sometimes we just sat there like that and waited for the stars.\nTR+34  69.8s FORREST (CHILD): Ma is definitely worried about me.\nTR+36  72.8s JENNY (CHILD): Stay just a little longer!\nTR+37  74.6s [AD] Up in the tree she takes his hand.\nTR+38  76.0s FORREST (V.O.): For some reason, Jenny never wanted to go home.\nTR+39  79.7s FORREST (CHILD): Okay, Jenny.\nTR+40  81.0s FORREST (CHILD): I'll stay.\nTR+41  82.8s FORREST (V.O.): She was my very best friend.\nTR+42  85.9s [AD] On the waiting bench, Forrest looks sadly ahead.\nTR+44  88.6s FORREST (V.O.): ... my only friend.\nTR+45  90.1s [AD] The nurse looks unmovingly into her magazine.\nTR+46  93.7s FORREST: My mama always said:\nTR+47  94.7s FORREST: Miracles happen every day.\nTR+48  96.3s [AD] The nurse looks up.\nTR+48  97.3s FORREST: There are people who don't believe in them, but it's true.",
-   "text_zh": "【時間】白天\n　標註檔：13:11.0 起：倒敘\n【場景】阿拉巴馬州格林博，行駛中的校車內部\n　標註檔：Greenbow Alabama｜school bus｜inside driving bus（int，day）\n【人物】阿甘與珍妮（兩人為同車乘客）\n　標註檔：FORREST、FORRESTVO、JENNY\n【前文】阿甘登上校車後在車廂內尋找座位，其他學生紛紛拒絕讓他坐旁邊。最後金髮小女孩珍妮開口邀請阿甘坐在她旁邊，阿甘心想自己從沒見過這麼美麗的事物。\n【後文】阿甘與珍妮在校車前往學校的整段路程中一直交談。自此之後兩人經常黏在一起，成為形影不離的好友。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】13:20.0–13:40.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-39 -76.0s [AD] 抽菸的女公車司機看著阿甘。\nTR-37 -73.7s DOROTHY HARRIS: 你要上車還是不上車？\nTR-37 -72.1s FORREST (CHILD): 媽媽說，我不可以搭陌生人的車。\nTR-35 -68.5s DOROTHY HARRIS: 這是去學校的公車。\nTR-34 -66.6s [AD] 阿甘猶豫地站在門口。\nTR-32 -63.5s FORREST (CHILD): 我是阿甘，福雷斯特·甘。\nTR-31 -60.8s DOROTHY HARRIS: 我是桃樂絲·哈里斯。\nTR-30 -58.9s FORREST (CHILD): 那你們現在就不是陌生人了。\nTR-29 -56.0s [AD] 桃樂絲微微一笑。\nTR-28 -54.9s [AD] 阿甘帶著腿支架有些費力地上車。\nTR-24 -47.8s [AD] 他走過幾乎坐滿的公車，看向長椅上的兩個男孩。\nTR-23 -44.2s BOY #1: 這裡已經有人坐了。\nTR-21 -40.2s BOY #2: 這裡也是。\nTR-20 -39.4s [AD] 他旁邊的位子是空的。\nTR-19 -37.6s [AD] 阿甘看著一個坐在另一個人旁邊的女孩。\nTR-18 -34.9s [AD] 她搖了搖頭。\nTR-17 -33.7s [AD] 最後面也有一個男孩獨自坐在長椅上。\nTR-16 -31.5s BOY #3: 你也不能坐這裡。\nTR-15 -28.5s FORREST (V.O.): 真奇怪，小時候的事情還能記得多少。\nTR-13 -25.0s FORREST (V.O.): ……因為……\nTR-13 -24.3s FORREST (V.O.): 我不記得我是怎麼出生的。\nTR-11 -20.6s FORREST (V.O.): ……我……\nTR-10 -19.8s FORREST (V.O.): 我也不記得我第一個聖誕節收到什麼，還有我人生第一次野餐的任何事，但是……我卻清楚記得我第一次聽到全世界最甜美的聲音是什麼時候。\nTR-4  -6.9s JENNY (CHILD): 如果你想的話，你可以坐這裡。\nTR-3  -4.4s [AD] 一個嬌小、金髮的女孩看著他。\nTR-1  -1.8s FORREST (V.O.): 我這輩子從沒見過這麼美麗的東西。\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.1s FORREST (V.O.): 她就像個天使。\nTR+2   4.5s JENNY (CHILD): 怎樣？\nTR+2   5.3s JENNY (CHILD): 你要坐下來還是不要？\nTR+4   8.2s [AD] 阿甘坐了下來，尷尬地垂下目光。\nTR+5  11.9s JENNY (CHILD): 你的腿是怎麼了？\nTR+6  13.9s FORREST (CHILD): 呃，完全沒事，謝謝。\nTR+7  15.6s FORREST (CHILD): 我的腿好得很。\nTR+9  18.8s FORREST (V.O.): 所以我當時就坐在公車上。\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+10  21.0s FORREST (V.O.): ……我們一直在聊天。\nTR+11  23.1s FORREST (V.O.): ……一路聊到學校。\nTR+12  25.8s FORREST (V.O.): 除了媽媽……從來沒有人跟我說過話……也沒有人問過我什麼。\nTR+15  32.0s FORREST (CHILD): 你會不會是腦子笨或怎麼樣的？\nTR+17  34.0s FORREST (CHILD): 媽媽說：\nTR+17  34.9s FORREST (CHILD): 傻人有傻福。\nTR+19  38.4s JENNY (CHILD): 我是珍妮。\nTR+19  39.2s [AD] 她跟他握手。\nTR+20  40.2s FORREST (CHILD): 我是阿甘，福雷斯特·甘。\nTR+21  42.8s FORREST (V.O.): 從那天起，我們總是在一起，……珍妮和我。\nTR+23  46.4s FORREST (V.O.): 我們形影不離。\nTR+24  48.4s [AD] 他們跑到一棵橡樹旁。\nTR+24  49.8s FORREST (V.O.): 她教我怎麼爬樹。\nTR+26  52.5s JENNY (CHILD): 來啊，阿甘！\nTR+27  54.3s FORREST (V.O.): 而我教她怎麼吊樹枝。\nTR+28  56.7s [AD] 他單手吊在樹枝上。\nTR+29  59.0s FORREST (V.O.): 她幫我學會讀書。\nTR+31  62.1s FORREST (V.O.): 而我教她盪鞦韆。\nTR+32  64.4s [AD] 他倒掛在樹上。\nTR+33  66.3s FORREST (V.O.): 有時候我們就只是那樣坐著，等待星星出現。\nTR+34  69.8s FORREST (CHILD): 麻麻一定很擔心我。\nTR+36  72.8s JENNY (CHILD): 再多待一會兒嘛！\nTR+37  74.6s [AD] 她在樹上拉起他的手。\nTR+38  76.0s FORREST (V.O.): 出於某種原因，珍妮從不想回家。\nTR+39  79.7s FORREST (CHILD): 好吧，珍妮。\nTR+40  81.0s FORREST (CHILD): 我留下來。\nTR+41  82.8s FORREST (V.O.): 她是我最好的朋友。\nTR+42  85.9s [AD] 在候診長椅上，阿甘神情落寞地看著前方。\nTR+44  88.6s FORREST (V.O.): ……我唯一的溫暖。\nTR+45  90.1s [AD] 護士面無表情地看著她的雜誌。\nTR+46  93.7s FORREST: 我媽媽總是說：\nTR+47  94.7s FORREST: 奇蹟每天都會發生。\nTR+48  96.3s [AD] 護士抬起頭。\nTR+48  97.3s FORREST: 有些人不相信，但事實就是如此。",
+   "text": "【時間】白天\n　標註檔：13:11.0 起：倒敘\n【場景】阿拉巴馬州格林博，行駛中的校車內部\n　標註檔：Greenbow Alabama｜school bus｜inside driving bus（int，day）\n【人物】阿甘與童年珍妮在校車上\n　標註檔：FORREST、FORRESTVO、JENNY\n【前 20 TR 摘要】阿甘環顧四周尋找座位，但其他孩子拒絕讓他坐在旁邊。阿甘透過旁白回憶童年往事，表示雖然記不清出生、聖誕節和野餐的細節，卻清楚記得第一次聽到世上最甜美聲音的時刻。隨後，一位金髮小女孩開口邀請阿甘坐在她旁邊，阿甘在心裡感嘆從沒見過這麼美麗的事物。\n【後 20 TR 摘要】阿甘透過旁白說明兩人接下來在校車上聊了一路直到學校，除了阿甘的母親外，從未有人與他交談或問他問題。對話中阿甘向珍妮提及母親說過的話，珍妮則自我介紹並與阿甘握手，阿甘也報上全名。此後兩人便經常膩在一起形影不離，珍妮教阿甘爬樹與讀書，阿甘則教珍妮單手吊單槓。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】13:20.0–13:40.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.1s FORREST (V.O.): sie war wie ein Engel.\nTR+2   4.5s JENNY (CHILD): was ist?\nTR+2   5.3s JENNY (CHILD): setzt du dich hin oder nicht?\nTR+4   8.2s [AD] Forrest setzt sich und senkt verlegen den Blick.\nTR+5  11.9s JENNY (CHILD): was ist denn mit deinen Beinen?\nTR+6  13.9s FORREST (CHILD): ähm, überhaupt nichts, danke.\nTR+7  15.6s FORREST (CHILD): meine Beine sind ordentlich in Ordnung.\nTR+9  18.8s FORREST (V.O.): ich saß also da im Bus.\n════ 本窗結束 ════",
+   "text_en": "【時間】白天\n　標註檔：13:11.0 起：倒敘\n【場景】阿拉巴馬州格林博，行駛中的校車內部\n　標註檔：Greenbow Alabama｜school bus｜inside driving bus（int，day）\n【人物】阿甘與童年珍妮在校車上\n　標註檔：FORREST、FORRESTVO、JENNY\n【前 20 TR 摘要】阿甘環顧四周尋找座位，但其他孩子拒絕讓他坐在旁邊。阿甘透過旁白回憶童年往事，表示雖然記不清出生、聖誕節和野餐的細節，卻清楚記得第一次聽到世上最甜美聲音的時刻。隨後，一位金髮小女孩開口邀請阿甘坐在她旁邊，阿甘在心裡感嘆從沒見過這麼美麗的事物。\n【後 20 TR 摘要】阿甘透過旁白說明兩人接下來在校車上聊了一路直到學校，除了阿甘的母親外，從未有人與他交談或問他問題。對話中阿甘向珍妮提及母親說過的話，珍妮則自我介紹並與阿甘握手，阿甘也報上全名。此後兩人便經常膩在一起形影不離，珍妮教阿甘爬樹與讀書，阿甘則教珍妮單手吊單槓。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】13:20.0–13:40.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.1s FORREST (V.O.): she was like an angel.\nTR+2   4.5s JENNY (CHILD): what is it?\nTR+2   5.3s JENNY (CHILD): are you going to sit down or not?\nTR+4   8.2s [AD] Forrest sits down and lowers his gaze in embarrassment.\nTR+5  11.9s JENNY (CHILD): what's wrong with your legs anyway?\nTR+6  13.9s FORREST (CHILD): um, nothing at all, thank you.\nTR+7  15.6s FORREST (CHILD): my legs are just fine.\nTR+9  18.8s FORREST (V.O.): so I was sitting there on the bus.\n════ 本窗結束 ════",
+   "text_zh": "【時間】白天\n　標註檔：13:11.0 起：倒敘\n【場景】阿拉巴馬州格林博，行駛中的校車內部\n　標註檔：Greenbow Alabama｜school bus｜inside driving bus（int，day）\n【人物】阿甘與童年珍妮在校車上\n　標註檔：FORREST、FORRESTVO、JENNY\n【前 20 TR 摘要】阿甘環顧四周尋找座位，但其他孩子拒絕讓他坐在旁邊。阿甘透過旁白回憶童年往事，表示雖然記不清出生、聖誕節和野餐的細節，卻清楚記得第一次聽到世上最甜美聲音的時刻。隨後，一位金髮小女孩開口邀請阿甘坐在她旁邊，阿甘在心裡感嘆從沒見過這麼美麗的事物。\n【後 20 TR 摘要】阿甘透過旁白說明兩人接下來在校車上聊了一路直到學校，除了阿甘的母親外，從未有人與他交談或問他問題。對話中阿甘向珍妮提及母親說過的話，珍妮則自我介紹並與阿甘握手，阿甘也報上全名。此後兩人便經常膩在一起形影不離，珍妮教阿甘爬樹與讀書，阿甘則教珍妮單手吊單槓。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】13:20.0–13:40.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.1s FORREST (V.O.): 她就像個天使。\nTR+2   4.5s JENNY (CHILD): 怎麼了？\nTR+2   5.3s JENNY (CHILD): 你要不要坐下來？\nTR+4   8.2s [AD] 阿甘坐下，尷尬地低下頭。\nTR+5  11.9s JENNY (CHILD): 你的腿到底是怎麼了？\nTR+6  13.9s FORREST (CHILD): 呃，沒事，謝謝。\nTR+7  15.6s FORREST (CHILD): 我的腿好得很。\nTR+9  18.8s FORREST (V.O.): 所以我當時坐在公車上。\n════ 本窗結束 ════",
    "time": "13:20.0–13:40.0",
    "label": "10TR 02"
   },
@@ -319,9 +319,9 @@
    "dataset": "FG",
    "film": "forrest",
    "media": null,
-   "text": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】阿拉巴馬大學女生宿舍珍妮的房間\n　標註檔：University of Alabama｜girl's dormitory｜Jenny's room（int，night）\n【人物】阿甘與珍妮在房內，室友在稍後的畫面中出現\n　標註檔：FORREST、JENNY\n【前文】珍妮拉起阿甘的手放在自己胸口，阿甘感到不知所措並發出聲音。\n【後文】珍妮與阿甘對話，隨後珍妮親吻阿甘的臉頰。室友背對他們躺在床上。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】24:40.0–25:00.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-10 -18.4s [AD] verlegen schaut er weg.\nTR-8 -14.4s [AD] Jenny nimmt seine Hand und legt sie sich auf die Brust.\nTR-4  -7.8s [AD] Forrest linst aus den Augenwinkeln rüber.\nTR-3  -4.5s [AD] er zuckt zusammen.\nTR-2  -2.6s FORREST: ouh\nTR-1  -1.6s FORREST: ouh\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.6s FORREST: das tut mir leid.\nTR+0   1.5s JENNY: macht doch nichts.\nTR+1   2.0s FORREST (V.O.): entschuldige!\nTR+3   6.1s FORREST: oh\nTR+3   7.9s FORREST: pfuh\nTR+4   9.0s FORREST: oh\nTR+4   9.5s [AD] er schaut aufgewühlt vor sich hin.\nTR+5  11.2s JENNY: ist ja gut.\nTR+6  12.4s [AD] Jenny zieht den BH wieder an.\nTR+7  15.5s JENNY: ist ja gut.\nTR+8  16.8s FORREST: oh, ist mir schwindelig.\nTR+9  19.1s [AD] sie schmiegt ihren Kopf an seine Schulter und streicht ihm über die Wange.\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+12  25.6s JENNY: im Hauswirtschaftskurs ist dir das nie passiert.\nTR+13  27.6s JENNY: hä\nTR+15  31.2s FORREST: pf\nTR+15  31.8s JENNY: mh hm\nTR+15  31.9s FORREST: hm\nTR+16  32.6s JENNY: hihi\nTR+16  33.3s FORREST: nein\nTR+17  34.0s [AD] sie küsst ihn auf die Wange.\nTR+18  36.2s [AD] die Mitbewohnerin liegt von ihnen abgewandt im Bett und schaut angewidert.\nTR+19  39.9s FORREST: ich hab den Bademantel von deiner Freundin schmutzig gemacht.",
-   "text_en": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】阿拉巴馬大學女生宿舍珍妮的房間\n　標註檔：University of Alabama｜girl's dormitory｜Jenny's room（int，night）\n【人物】阿甘與珍妮在房內，室友在稍後的畫面中出現\n　標註檔：FORREST、JENNY\n【前文】珍妮拉起阿甘的手放在自己胸口，阿甘感到不知所措並發出聲音。\n【後文】珍妮與阿甘對話，隨後珍妮親吻阿甘的臉頰。室友背對他們躺在床上。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】24:40.0–25:00.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-10 -18.4s [AD] he looks away, embarrassed.\nTR-8 -14.4s [AD] Jenny takes his hand and places it on her chest.\nTR-4  -7.8s [AD] Forrest peeks over out of the corner of his eye.\nTR-3  -4.5s [AD] he winces.\nTR-2  -2.6s FORREST: ouch\nTR-1  -1.6s FORREST: ouch\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.6s FORREST: I'm sorry.\nTR+0   1.5s JENNY: that's alright.\nTR+1   2.0s FORREST (V.O.): excuse me!\nTR+3   6.1s FORREST: oh\nTR+3   7.9s FORREST: whew\nTR+4   9.0s FORREST: oh\nTR+4   9.5s [AD] he looks ahead, agitated.\nTR+5  11.2s JENNY: it's alright.\nTR+6  12.4s [AD] Jenny puts her bra back on.\nTR+7  15.5s JENNY: it's alright.\nTR+8  16.8s FORREST: oh, I'm dizzy.\nTR+9  19.1s [AD] she rests her head on his shoulder and strokes his cheek.\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+12  25.6s JENNY: that never happened to you in home economics class.\nTR+13  27.6s JENNY: huh\nTR+15  31.2s FORREST: pf\nTR+15  31.8s JENNY: mh hm\nTR+15  31.9s FORREST: hm\nTR+16  32.6s JENNY: tee-hee\nTR+16  33.3s FORREST: no\nTR+17  34.0s [AD] she kisses him on the cheek.\nTR+18  36.2s [AD] the roommate is lying in bed facing away from them, looking disgusted.\nTR+19  39.9s FORREST: I got your girlfriend's bathrobe dirty.",
-   "text_zh": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】阿拉巴馬大學女生宿舍珍妮的房間\n　標註檔：University of Alabama｜girl's dormitory｜Jenny's room（int，night）\n【人物】阿甘與珍妮在房內，室友在稍後的畫面中出現\n　標註檔：FORREST、JENNY\n【前文】珍妮拉起阿甘的手放在自己胸口，阿甘感到不知所措並發出聲音。\n【後文】珍妮與阿甘對話，隨後珍妮親吻阿甘的臉頰。室友背對他們躺在床上。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】24:40.0–25:00.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-10 -18.4s [AD] 他尷尬地把視線移開。\nTR-8 -14.4s [AD] 珍妮抓起他的手，放在自己的胸口上。\nTR-4  -7.8s [AD] 阿甘用眼角偷看。\nTR-3  -4.5s [AD] 他畏縮了一下。\nTR-2  -2.6s FORREST: 噢\nTR-1  -1.6s FORREST: 噢\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.6s FORREST: 對不起。\nTR+0   1.5s JENNY: 沒關係。\nTR+1   2.0s FORREST (V.O.): 對不起！\nTR+3   6.1s FORREST: 噢\nTR+3   7.9s FORREST: 呼\nTR+4   9.0s FORREST: 噢\nTR+4   9.5s [AD] 他神情激動地看著前方。\nTR+5  11.2s JENNY: 沒關係。\nTR+6  12.4s [AD] 珍妮把胸罩穿了回去。\nTR+7  15.5s JENNY: 沒關係。\nTR+8  16.8s FORREST: 噢，我頭暈。\nTR+9  19.1s [AD] 她把頭靠在他的肩膀上，撫摸著他的臉頰。\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+12  25.6s JENNY: 你在家政課上從來沒發生過這種事。\nTR+13  27.6s JENNY: 哈\nTR+15  31.2s FORREST: 哼\nTR+15  31.8s JENNY: 嗯哼\nTR+15  31.9s FORREST: 嗯\nTR+16  32.6s JENNY: 嘻嘻\nTR+16  33.3s FORREST: 不\nTR+17  34.0s [AD] 她吻了他的臉頰。\nTR+18  36.2s [AD] 室友背對著他們躺在床上，面露厭惡。\nTR+19  39.9s FORREST: 我弄髒了你女朋友的浴袍。",
+   "text": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】阿拉巴馬大學女宿珍妮的房間\n　標註檔：University of Alabama｜girl's dormitory｜Jenny's room（int，night）\n【人物】阿甘與珍妮在房內，室友在背景床上\n　標註檔：FORREST、JENNY\n【前 20 TR 摘要】珍妮詢問阿甘是否曾與女孩交往，阿甘回答自己坐在家政課女孩旁邊。隨後珍妮脫下胸罩，阿甘見狀轉頭並感到害羞。接著珍妮將阿甘的手放在自己的胸部上，阿甘偷看後身體一陣緊繃並發出聲音。\n【後 20 TR 摘要】珍妮提到阿甘在家政課時沒發生這種事，並親吻了阿甘的臉頰。背對他們的室友躺在床上露出嫌棄的表情。阿甘說自己弄髒了朋友的浴袍，珍妮表示不在乎並說她討厭室友。隨後畫面切換至美式足球場，教練大喊奔跑，阿甘甩開對手達陣。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】24:40.0–25:00.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.6s FORREST: das tut mir leid.\nTR+0   1.5s JENNY: macht doch nichts.\nTR+1   2.0s FORREST (V.O.): entschuldige!\nTR+3   6.1s FORREST: oh\nTR+3   7.9s FORREST: pfuh\nTR+4   9.0s FORREST: oh\nTR+4   9.5s [AD] er schaut aufgewühlt vor sich hin.\nTR+5  11.2s JENNY: ist ja gut.\nTR+6  12.4s [AD] Jenny zieht den BH wieder an.\nTR+7  15.5s JENNY: ist ja gut.\nTR+8  16.8s FORREST: oh, ist mir schwindelig.\nTR+9  19.1s [AD] sie schmiegt ihren Kopf an seine Schulter und streicht ihm über die Wange.\n════ 本窗結束 ════",
+   "text_en": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】阿拉巴馬大學女宿珍妮的房間\n　標註檔：University of Alabama｜girl's dormitory｜Jenny's room（int，night）\n【人物】阿甘與珍妮在房內，室友在背景床上\n　標註檔：FORREST、JENNY\n【前 20 TR 摘要】珍妮詢問阿甘是否曾與女孩交往，阿甘回答自己坐在家政課女孩旁邊。隨後珍妮脫下胸罩，阿甘見狀轉頭並感到害羞。接著珍妮將阿甘的手放在自己的胸部上，阿甘偷看後身體一陣緊繃並發出聲音。\n【後 20 TR 摘要】珍妮提到阿甘在家政課時沒發生這種事，並親吻了阿甘的臉頰。背對他們的室友躺在床上露出嫌棄的表情。阿甘說自己弄髒了朋友的浴袍，珍妮表示不在乎並說她討厭室友。隨後畫面切換至美式足球場，教練大喊奔跑，阿甘甩開對手達陣。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】24:40.0–25:00.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.6s FORREST: I'm sorry.\nTR+0   1.5s JENNY: It doesn't matter.\nTR+1   2.0s FORREST (V.O.): Excuse me!\nTR+3   6.1s FORREST: oh\nTR+3   7.9s FORREST: whew\nTR+4   9.0s FORREST: oh\nTR+4   9.5s [AD] he looks troubled ahead.\nTR+5  11.2s JENNY: it's alright.\nTR+6  12.4s [AD] Jenny puts her bra back on.\nTR+7  15.5s JENNY: it's alright.\nTR+8  16.8s FORREST: oh, I feel dizzy.\nTR+9  19.1s [AD] she rests her head on his shoulder and strokes his cheek.\n════ 本窗結束 ════",
+   "text_zh": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】阿拉巴馬大學女宿珍妮的房間\n　標註檔：University of Alabama｜girl's dormitory｜Jenny's room（int，night）\n【人物】阿甘與珍妮在房內，室友在背景床上\n　標註檔：FORREST、JENNY\n【前 20 TR 摘要】珍妮詢問阿甘是否曾與女孩交往，阿甘回答自己坐在家政課女孩旁邊。隨後珍妮脫下胸罩，阿甘見狀轉頭並感到害羞。接著珍妮將阿甘的手放在自己的胸部上，阿甘偷看後身體一陣緊繃並發出聲音。\n【後 20 TR 摘要】珍妮提到阿甘在家政課時沒發生這種事，並親吻了阿甘的臉頰。背對他們的室友躺在床上露出嫌棄的表情。阿甘說自己弄髒了朋友的浴袍，珍妮表示不在乎並說她討厭室友。隨後畫面切換至美式足球場，教練大喊奔跑，阿甘甩開對手達陣。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】24:40.0–25:00.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.6s FORREST: 對不起。\nTR+0   1.5s JENNY: 沒關係。\nTR+1   2.0s FORREST (V.O.): 對不起！\nTR+3   6.1s FORREST: 噢\nTR+3   7.9s FORREST: 呼\nTR+4   9.0s FORREST: 噢\nTR+4   9.5s [AD] 他神情困擾地看著前方。\nTR+5  11.2s JENNY: 沒事的。\nTR+6  12.4s [AD] 珍妮把胸罩穿了回去。\nTR+7  15.5s JENNY: 沒事的。\nTR+8  16.8s FORREST: 噢，我覺得頭暈。\nTR+9  19.1s [AD] 她把頭靠在他的肩膀上，撫摸著他的臉頰。\n════ 本窗結束 ════",
    "time": "24:40.0–25:00.0",
    "label": "10TR 03"
   },
@@ -330,9 +330,9 @@
    "dataset": "FG",
    "film": "forrest",
    "media": null,
-   "text": "【時間】白天\n　標註檔：46:37.6 起：時間跳躍（數秒至約兩小時）\n【場景】越南叢 L林\n　標註檔：Vietnam｜embattled jungle｜in front of embattled jungle（ext，day）；Vietnam｜embattled jungle｜in the embattled jungle（ext，day）；Vietnam｜embattled jungle｜finding place of Tex（ext，day）\n【人物】阿甘與受傷的士兵 Tex\n　標註檔：FORREST\n【前文】阿甘在激戰中逃跑後發現自己落單，想起巴布是他的好朋友，於是停下腳步轉身跑回去找他。\n【後文】阿甘將 Tex 扛在肩上帶離現場，隨後又折返回去協助其他受傷的同袍。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】46:00.0–46:20.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-34 -67.7s [AD] ein Feuerball fegt die MG-Schützen weg.\nTR-28 -54.2s [AD] Forrest schaut verstört zwischen Dan und Bubba hin und her.\nTR-25 -49.1s [AD] Dan zerrt Forrest hoch.\nTR-24 -47.0s LT. DAN: Gump, verdammt nochmal!\nTR-22 -42.9s [AD] Forrest rennt los.\nTR-21 -41.8s [AD] überall schlagen Granaten ein.\nTR-21 -40.3s [AD] Erde spritzt hoch.\nTR-19 -36.2s [AD] ein Soldat hinter Forrest wird weggerissen.\nTR-14 -26.4s [AD] Forrest überholt Bubba ohne ihn zu bemerken.\nTR-10 -19.4s FORREST (V.O.): lief und lief.\nTR-10 -18.4s FORREST (V.O.): genauso wie Jenny es mir gesagt hatte.\nTR-7 -13.7s FORREST (V.O.): ich lief so schnell und weit, ... dass ich ziemlich bald ganz alleine war.\nTR-5  -9.6s FORREST (V.O.): und das ... war eine böse Sache.\nTR-4  -6.8s FORREST: Bubba\nTR-3  -5.8s [AD] er bleibt stehen, schnellt herum und rennt zurück.\nTR-2  -3.3s FORREST (V.O.): Bubba war mein bester guter Freund.\nTR-1  -1.6s FORREST (V.O.): ich musste nachsehen, ob es ihm gut geht.\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   1.6s [AD] Forrest läuft durch den lichten Dschungel.\nTR+6  12.0s FORREST: Bubba\nTR+6  12.9s [AD] neben ihm hebt sich eine Hand.\nTR+7  14.4s FORREST (V.O.): auf meinem Rückweg und auf der Suche nach Bubba, ... naja, da hat auf einmal der junge auf der Erde gelegen.\nTR+9  19.8s FORREST: Tex\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+10  20.6s [AD] Forrest legt sich Tex über die Schultern.\nTR+11  22.6s FORREST: oh\nTR+11  22.8s FORREST: okay\nTR+11  23.8s FORREST (V.O.): ich konnte ihn doch nicht einfach alleine da liegen lassen ... bei der Angst, die er hatte.\nTR+14  28.2s FORREST (V.O.): also hab ich ihn aufgehoben ... und bin mit ihm da raus.\nTR+15  31.2s [AD] Tex ist an der Schulter verwundet.\nTR+16  32.9s [AD] sein Hemd ist blutdurchtränkt.\nTR+18  36.5s TEX: auh\nTR+19  38.5s [AD] Forrest kommt mit Tex zu einer Lichtung an einem Flussufer und legt ihn ins Gras.\nTR+22  45.8s FORREST (V.O.): jedes Mal, wenn ich wieder zurück lief, um Bubba zu suchen, sagte irgendein anderer zu mir:\nTR+25  50.4s FORREST (V.O.): hilf mir, Forrest!\nTR+25  51.4s FORREST (V.O.): hilf mir!\nTR+27  54.6s [AD] er legt einen Soldaten mit blutigem Kopfverband ans Ufer und rennt zurück.\nTR+28  57.8s [AD] er findet Dallas.\nTR+29  58.9s DALLAS: ich hör nichts.\nTR+30  61.4s [AD] Forrest legt auch ihn ans Ufer.\nTR+31  63.3s 2ND WOUNDED SOLDIER: bleib schön liegen liegen!\nTR+32  64.2s 2ND WOUNDED SOLDIER: du wirst schon wieder.\nTR+34  69.0s FORREST (V.O.): allmählich kriegte ich Angst, dass ich Bubba nie mehr finde.\nTR+36  73.5s [AD] er stolpert und starrt auf Dans blutige Beine.\nTR+38  76.1s LT. DAN: Charlie scheint hier überall zu sein.\nTR+38  77.7s LT. DAN: ich brauche auf der stelle Kampfbomber!\nTR+39  79.4s LT. DAN: beeilt euch!\nTR+40  80.1s LT. DAN: over\nTR+40  82.0s FORREST: Lieutenant Dan!\nTR+41  83.0s FORREST: Coleman ist tot!\nTR+42  84.1s LT. DAN: ich weiss, dass er tot ist.\nTR+42  85.3s LT. DAN: mein ganzes verdammtes Platoon ist hinüber.\nTR+43  87.7s [AD] Forrest schnallt Dan den Rucksack ab.\nTR+45  90.0s LT. DAN: was machst du da?\nTR+45  91.4s LT. DAN: lass mich hier!\nTR+46  92.2s LT. DAN: hau ab!\nTR+46  92.7s LT. DAN: hörst du?\nTR+46  93.6s LT. DAN: du sollst mich hier lassen!\nTR+47  94.7s LT. DAN: verzieh dich!\nTR+47  95.8s [AD] Forrest wuchtet Dan auf die Schultern.\nTR+48  97.7s LT. DAN: ich sag doch, lass mich hier.\nTR+49  99.1s LT. DAN: du sollst mich hier liegen lassen, du Idiot.",
-   "text_en": "【時間】白天\n　標註檔：46:37.6 起：時間跳躍（數秒至約兩小時）\n【場景】越南叢 L林\n　標註檔：Vietnam｜embattled jungle｜in front of embattled jungle（ext，day）；Vietnam｜embattled jungle｜in the embattled jungle（ext，day）；Vietnam｜embattled jungle｜finding place of Tex（ext，day）\n【人物】阿甘與受傷的士兵 Tex\n　標註檔：FORREST\n【前文】阿甘在激戰中逃跑後發現自己落單，想起巴布是他的好朋友，於是停下腳步轉身跑回去找他。\n【後文】阿甘將 Tex 扛在肩上帶離現場，隨後又折返回去協助其他受傷的同袍。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】46:00.0–46:20.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-34 -67.7s [AD] a fireball sweeps away the machine gunners.\nTR-28 -54.2s [AD] Forrest looks in dismay back and forth between Dan and Bubba.\nTR-25 -49.1s [AD] Dan pulls Forrest up.\nTR-24 -47.0s LT. DAN: Gump, goddammit!\nTR-22 -42.9s [AD] Forrest starts running.\nTR-21 -41.8s [AD] artillery shells explode everywhere.\nTR-21 -40.3s [AD] dirt flies up.\nTR-19 -36.2s [AD] a soldier behind Forrest is blown away.\nTR-14 -26.4s [AD] Forrest overtakes Bubba without noticing him.\nTR-10 -19.4s FORREST (V.O.): ran and ran.\nTR-10 -18.4s FORREST (V.O.): just like Jenny had told me.\nTR-7 -13.7s FORREST (V.O.): I ran so fast and so far... that pretty soon I was all alone.\nTR-5  -9.6s FORREST (V.O.): and that... was a bad thing.\nTR-4  -6.8s FORREST: Bubba\nTR-3  -5.8s [AD] he stops, spins around and runs back.\nTR-2  -3.3s FORREST (V.O.): Bubba was my best good friend.\nTR-1  -1.6s FORREST (V.O.): I had to check and see if he was all right.\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   1.6s [AD] Forrest runs through the sparse jungle.\nTR+6  12.0s FORREST: Bubba\nTR+6  12.9s [AD] next to him a hand rises.\nTR+7  14.4s FORREST (V.O.): on my way back and looking for Bubba, ... well, suddenly that boy was lying on the ground.\nTR+9  19.8s FORREST: Tex\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+10  20.6s [AD] Forrest slings Tex over his shoulders.\nTR+11  22.6s FORREST: oh\nTR+11  22.8s FORREST: okay\nTR+11  23.8s FORREST (V.O.): I just couldn't leave him lying there all alone... with all the fear he had.\nTR+14  28.2s FORREST (V.O.): so I picked him up... and got out of there with him.\nTR+15  31.2s [AD] Tex is wounded in the shoulder.\nTR+16  32.9s [AD] his shirt is soaked with blood.\nTR+18  36.5s TEX: ouch\nTR+19  38.5s [AD] Forrest brings Tex to a clearing by a riverbank and lays him in the grass.\nTR+22  45.8s FORREST (V.O.): every time I ran back again to look for Bubba, someone else would say to me:\nTR+25  50.4s FORREST (V.O.): help me, Forrest!\nTR+25  51.4s FORREST (V.O.): help me!\nTR+27  54.6s [AD] he places a soldier with a bloody head bandage on the bank and runs back.\nTR+28  57.8s [AD] he finds Dallas.\nTR+29  58.9s DALLAS: I can't hear anything.\nTR+30  61.4s [AD] Forrest lays him on the bank too.\nTR+31  63.3s 2ND WOUNDED SOLDIER: stay right there!\nTR+32  64.2s 2ND WOUNDED SOLDIER: you're going to be fine.\nTR+34  69.0s FORREST (V.O.): gradually I started getting scared that I'd never find Bubba again.\nTR+36  73.5s [AD] he stumbles and stares at Dan's bloody legs.\nTR+38  76.1s LT. DAN: Charlie seems to be everywhere here.\nTR+38  77.7s LT. DAN: I need fighter-bombers right now!\nTR+39  79.4s LT. DAN: hurry up!\nTR+40  80.1s LT. DAN: over\nTR+40  82.0s FORREST: Lieutenant Dan!\nTR+41  83.0s FORREST: Coleman is dead!\nTR+42  84.1s LT. DAN: I know he's dead.\nTR+42  85.3s LT. DAN: my whole damn platoon is gone.\nTR+43  87.7s [AD] Forrest unstraps Dan's backpack.\nTR+45  90.0s LT. DAN: what are you doing?\nTR+45  91.4s LT. DAN: leave me here!\nTR+46  92.2s LT. DAN: get out of here!\nTR+46  92.7s LT. DAN: do you hear?\nTR+46  93.6s LT. DAN: you're supposed to leave me here!\nTR+47  94.7s LT. DAN: piss off!\nTR+47  95.8s [AD] Forrest heaves Dan onto his shoulders.\nTR+48  97.7s LT. DAN: I'm telling you, leave me here.\nTR+49  99.1s LT. DAN: you're supposed to leave me lying here, you idiot.",
-   "text_zh": "【時間】白天\n　標註檔：46:37.6 起：時間跳躍（數秒至約兩小時）\n【場景】越南叢 L林\n　標註檔：Vietnam｜embattled jungle｜in front of embattled jungle（ext，day）；Vietnam｜embattled jungle｜in the embattled jungle（ext，day）；Vietnam｜embattled jungle｜finding place of Tex（ext，day）\n【人物】阿甘與受傷的士兵 Tex\n　標註檔：FORREST\n【前文】阿甘在激戰中逃跑後發現自己落單，想起巴布是他的好朋友，於是停下腳步轉身跑回去找他。\n【後文】阿甘將 Tex 扛在肩上帶離現場，隨後又折返回去協助其他受傷的同袍。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】46:00.0–46:20.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-34 -67.7s [AD] 一團火球掃蕩了機槍手。\nTR-28 -54.2s [AD] 阿甘不知所措地在丹中尉和巴布之間看來看去。\nTR-25 -49.1s [AD] 丹把阿甘拉起來。\nTR-24 -47.0s LT. DAN: 甘普，他媽的！\nTR-22 -42.9s [AD] 阿甘開始奔跑。\nTR-21 -41.8s [AD] 砲彈到處爆炸。\nTR-21 -40.3s [AD] 泥土四處飛濺。\nTR-19 -36.2s [AD] 阿甘身後的一名士兵被炸飛了。\nTR-14 -26.4s [AD] 阿甘超過了巴布卻沒有注意到他。\nTR-10 -19.4s FORREST (V.O.): 跑了又跑。\nTR-10 -18.4s FORREST (V.O.): 就像珍妮對我說過的那樣。\nTR-7 -13.7s FORREST (V.O.): 我跑得那麼快又那麼遠……以至於很快我就孤身一人了。\nTR-5  -9.6s FORREST (V.O.): 而那……是一件壞事。\nTR-4  -6.8s FORREST: 巴布\nTR-3  -5.8s [AD] 他停下腳步，猛地轉身跑了回去。\nTR-2  -3.3s FORREST (V.O.): 巴布是我最好的好朋友。\nTR-1  -1.6s FORREST (V.O.): 我得去看看他是不是平安無事。\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   1.6s [AD] 阿甘穿過稀疏的叢林。\nTR+6  12.0s FORREST: 巴布\nTR+6  12.9s [AD] 他身旁揚起了一隻手。\nTR+7  14.4s FORREST (V.O.): 在我回頭尋找巴布的路上，……嗯，突然那個小伙子就倒在地上。\nTR+9  19.8s FORREST: 德州\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+10  20.6s [AD] 阿甘把德州扛在肩膀上。\nTR+11  22.6s FORREST: 哦\nTR+11  22.8s FORREST: 好吧\nTR+11  23.8s FORREST (V.O.): 我怎麼能把他一個人留在那裡……憑他心裡的那種恐懼。\nTR+14  28.2s FORREST (V.O.): 所以我把他扶起來……帶著他逃了出來。\nTR+15  31.2s [AD] 德州肩膀受傷了。\nTR+16  32.9s [AD] 他的襯衫被血浸透了。\nTR+18  36.5s TEX: 哎喲\nTR+19  38.5s [AD] 阿甘帶着德州來到河岸的一塊空地上，把他放在草地上。\nTR+22  45.8s FORREST (V.O.): 每當我跑回去找巴布時，總會有別的人對我說：\nTR+25  50.4s FORREST (V.O.): 救救我，阿甘！\nTR+25  51.4s FORREST (V.O.): 救救我！\nTR+27  54.6s [AD] 他把一個頭部纏着血繃帶的士兵放在岸邊，然後跑了回去。\nTR+28  57.8s [AD] 他找到了達拉斯。\nTR+29  58.9s DALLAS: 我什麼也聽不見。\nTR+30  61.4s [AD] 阿甘也把他放在岸邊。\nTR+31  63.3s 2ND WOUNDED SOLDIER: 乖乖躺着！\nTR+32  64.2s 2ND WOUNDED SOLDIER: 你會沒事的。\nTR+34  69.0s FORREST (V.O.): 漸漸地我開始害怕再也找不到巴布了。\nTR+36  73.5s [AD] 他絆了一下，盯着丹血淋淋的雙腿。\nTR+38  76.1s LT. DAN: 越共好像到處都是。\nTR+38  77.7s LT. DAN: 我馬上需要戰鬥轟炸機！\nTR+39  79.4s LT. DAN: 快點！\nTR+40  80.1s LT. DAN: 完畢\nTR+40  82.0s FORREST: 丹中尉！\nTR+41  83.0s FORREST: 科爾曼死了！\nTR+42  84.1s LT. DAN: 我知道他死了。\nTR+42  85.3s LT. DAN: 我整個該死排的人都完了。\nTR+43  87.7s [AD] 阿甘解下丹的背包。\nTR+45  90.0s LT. DAN: 你在幹什麼？\nTR+45  91.4s LT. DAN: 把我留這兒！\nTR+46  92.2s LT. DAN: 滾開！\nTR+46  92.7s LT. DAN: 聽到沒有？\nTR+46  93.6s LT. DAN: 你應該把我留這兒！\nTR+47  94.7s LT. DAN: 走開！\nTR+47  95.8s [AD] 阿甘把丹扛到肩膀上。\nTR+48  97.7s LT. DAN: 我說了，把我留這兒。\nTR+49  99.1s LT. DAN: 你應該讓我就這樣躺這兒，你這個笨蛋。",
+   "text": "【時間】白天\n　標註檔：46:37.6 起：時間跳躍（數秒至約兩小時）\n【場景】越南交戰中的叢林\n　標註檔：Vietnam｜embattled jungle｜in front of embattled jungle（ext，day）；Vietnam｜embattled jungle｜in the embattled jungle（ext，day）；Vietnam｜embattled jungle｜finding place of Tex（ext，day）\n【人物】阿甘與受傷的士兵泰克斯\n　標註檔：FORREST\n【前 40 TR 摘要】在一場激烈的砲火攻擊中，丹中尉將阿甘拉起並催促他快跑。阿甘隨後開始奔跑，途中超越了巴布卻未察覺。他在意識到自己落單且狀況不妙後停下腳步，轉身折返尋找摯友巴布。\n【後 40 TR 摘要】阿甘將受傷的泰克斯扛到肩上，並將他轉移到河岸邊的草地上休息。接著阿甘又多次折返戰場，陸續協助並搬運了其他受傷的士兵撤離。最後他找到了受傷的丹中尉，不顧對方要求將其留在原地的命令，堅持將丹中尉背走。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】46:00.0–46:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   1.6s [AD] Forrest läuft durch den lichten Dschungel.\nTR+6  12.0s FORREST: Bubba\nTR+6  12.9s [AD] neben ihm hebt sich eine Hand.\nTR+7  14.4s FORREST (V.O.): auf meinem Rückweg und auf der Suche nach Bubba, ... naja, da hat auf einmal der junge auf der Erde gelegen.\nTR+9  19.8s FORREST: Tex\n════ 本窗結束 ════",
+   "text_en": "【時間】白天\n　標註檔：46:37.6 起：時間跳躍（數秒至約兩小時）\n【場景】越南交戰中的叢林\n　標註檔：Vietnam｜embattled jungle｜in front of embattled jungle（ext，day）；Vietnam｜embattled jungle｜in the embattled jungle（ext，day）；Vietnam｜embattled jungle｜finding place of Tex（ext，day）\n【人物】阿甘與受傷的士兵泰克斯\n　標註檔：FORREST\n【前 40 TR 摘要】在一場激烈的砲火攻擊中，丹中尉將阿甘拉起並催促他快跑。阿甘隨後開始奔跑，途中超越了巴布卻未察覺。他在意識到自己落單且狀況不妙後停下腳步，轉身折返尋找摯友巴布。\n【後 40 TR 摘要】阿甘將受傷的泰克斯扛到肩上，並將他轉移到河岸邊的草地上休息。接著阿甘又多次折返戰場，陸續協助並搬運了其他受傷的士兵撤離。最後他找到了受傷的丹中尉，不顧對方要求將其留在原地的命令，堅持將丹中尉背走。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】46:00.0–46:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   1.6s [AD] Forrest runs through the sparse jungle.\nTR+6  12.0s FORREST: Bubba\nTR+6  12.9s [AD] next to him, a hand rises.\nTR+7  14.4s FORREST (V.O.): ...on my way back and looking for Bubba, well, all of a sudden the boy was lying on the ground.\nTR+9  19.8s FORREST: Tex\n════ 本窗結束 ════",
+   "text_zh": "【時間】白天\n　標註檔：46:37.6 起：時間跳躍（數秒至約兩小時）\n【場景】越南交戰中的叢林\n　標註檔：Vietnam｜embattled jungle｜in front of embattled jungle（ext，day）；Vietnam｜embattled jungle｜in the embattled jungle（ext，day）；Vietnam｜embattled jungle｜finding place of Tex（ext，day）\n【人物】阿甘與受傷的士兵泰克斯\n　標註檔：FORREST\n【前 40 TR 摘要】在一場激烈的砲火攻擊中，丹中尉將阿甘拉起並催促他快跑。阿甘隨後開始奔跑，途中超越了巴布卻未察覺。他在意識到自己落單且狀況不妙後停下腳步，轉身折返尋找摯友巴布。\n【後 40 TR 摘要】阿甘將受傷的泰克斯扛到肩上，並將他轉移到河岸邊的草地上休息。接著阿甘又多次折返戰場，陸續協助並搬運了其他受傷的士兵撤離。最後他找到了受傷的丹中尉，不顧對方要求將其留在原地的命令，堅持將丹中尉背走。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】46:00.0–46:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   1.6s [AD] 阿甘跑過稀疏的叢林。\nTR+6  12.0s FORREST: 巴布\nTR+6  12.9s [AD] 他旁邊舉起了一隻手。\nTR+7  14.4s FORREST (V.O.): 在我回程尋找巴布時……嗯，突然間那孩子就躺在地上。\nTR+9  19.8s FORREST: 泰克斯\n════ 本窗結束 ════",
    "time": "46:00.0–46:20.0",
    "label": "10TR 04"
   },
@@ -341,9 +341,9 @@
    "dataset": "FG",
    "film": "forrest",
    "media": null,
-   "text": "【時間】白天\n　標註檔：52:51.2 起：大幅時間跳躍（數小時至數年）\n【場景】越南某醫院交誼廳\n　標註檔：Vietnam｜hospital lounge｜hospital lounge（int，day）\n【人物】阿甘與其他士兵（包含一位拿著桌球拍的士兵），彼此是軍 友關係。\n　標註檔：MAN\n【前文】阿甘坐在醫院交誼廳看電視，收到許多寄給珍妮但被退回的信件。接著其他士兵叫他把電視關掉。\n【後文】拿著桌球拍的士兵教阿甘打桌球的要領，隨後阿甘開始在醫院裡練習打桌球。\n（摘要由 Gemini 依前後各 80 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】53:00.0–53:20.0，10 TR（電影時間）\n\n──── 前 80 TR ────\nTR-80 -159.4s FORREST: hey, Bubba!\nTR-79 -156.8s BUBBA: hey, Forrest!\nTR-77 -153.5s BUBBA: Forrest\nTR-76 -151.8s BUBBA: w, wie, wieso ist das passiert?\nTR-75 -149.1s FORREST: du hast einen Schuss abgekriegt.\nTR-73 -145.1s FORREST (V.O.): dann hat Bubba etwas gesagt, das ich niemals vergessen werde.\nTR-71 -141.1s BUBBA: ich möchte nach Hause.\nTR-70 -139.7s BUBBA: tchich\nTR-69 -137.4s FORREST (V.O.): Bubba war mein bester guter Freund.\nTR-68 -134.5s FORREST (V.O.): ... und sogar ich weiß, dass man soetwas nicht an der nächsten Straßenecke finden kann.\nTR-65 -129.6s FORREST (V.O.): Bubba wollte ... Kapitän auf seinem Shrimpkutter werden.\nTR-63 -125.8s FORREST (V.O.): stattdessen ist er an dem Fluss in Vietnam gestorben.\nTR-60 -119.0s [AD] auf der Wartebank\nTR-59 -117.8s FORREST: das ist alles, was ich darüber sagen kann.\nTR-58 -115.4s [AD] neben Forrest sitzt jetzt ein dicker Mann.\nTR-57 -113.5s MAN IN SAVANNAH: es war eine Kugel, hab ich recht?\nTR-56 -111.5s [AD] Forrest sieht ihn abrupt an.\nTR-55 -109.1s FORREST: eine Kugel?\nTR-54 -108.0s MAN IN SAVANNAH: was sie angesprungen und gebissen hat.\nTR-53 -104.1s FORREST: oh\nTR-52 -102.7s FORREST: ja, sir.\nTR-52 -102.0s FORREST: hat mich direkt in den Allerwertesten gebissen.\nTR-50 -99.0s FORREST: es hat geheißen, so ne wunde ist eine Millionen Dollar Wert.\nTR-48 -95.1s FORREST: aber die Army hat das Geld wohl behalten.\nTR-47 -93.4s FORREST (V.O.): ich hab nie einen Cent davon gesehen.\nTR-45 -89.4s FORREST: das einzig Gute, wenn man ne Verletzung am Allerwertesten hat, ist ...\nTR-44 -86.3s [AD] im Lazarett\nTR-43 -85.7s FORREST (V.O.): ... man kriegt viel Eis.\nTR-42 -83.7s FORREST (V.O.): die haben mir so viel Eis gegeben wie ich essen konnte.\nTR-41 -81.3s FORREST (V.O.): und soll ich Ihnen mal was sagen?\nTR-40 -79.8s FORREST (V.O.): im Bett nebenan lag ein guter Freund von mir.\nTR-39 -77.3s [AD] Forrest, mit zwei Eistüten, liegt auf dem Bauch.\nTR-38 -75.1s FORREST: Lieutenant Dan\nTR-37 -73.6s FORREST: ich hab ein Eis.\nTR-37 -72.5s FORREST: hier, bitte\nTR-36 -71.7s [AD] Dan schaut ins Leere.\nTR-36 -70.5s FORREST: lu\nTR-35 -70.0s FORREST: Lieutenant Dan, ein Eis ... bitte\nTR-34 -67.3s [AD] Dan nimmt die Tüte, legt sie in seine Bettpfanne, und starrt weiter vor sich hin.\nTR-31 -61.8s [AD] Forrest robbt von einer Liege auf sein Bett.\nTR-30 -59.9s FORREST: each\nTR-29 -56.1s MALE NURSE: Zeit für ihr Bad, Lieutenant.\nTR-28 -54.3s [AD] der Pfleger legt Dans Hände an einen Haltegriff.\nTR-26 -51.4s [AD] Dans Unterschenkel sind amputiert.\nTR-25 -49.2s [AD] die Stümpfe sind mit Bandagen umwickelt.\nTR-24 -47.3s [AD] der Pfleger hebt ihn hoch.\nTR-24 -46.1s SOLDIER: Harper\nTR-23 -44.9s [AD] eine Rollliege wird herangeschoben.\nTR-22 -43.3s [AD] der Pfleger legt Dan darauf.\nTR-21 -41.6s SOLDIER: Cooper\nTR-21 -40.9s [AD] Dan wird weggerollt.\nTR-20 -39.9s SOLDIER: Larson\nTR-20 -38.9s [AD] Post wird verteilt.\nTR-19 -37.3s SOLDIER: Webster\nTR-19 -36.5s [AD] Forrest schleckt weiter sein Eis.\nTR-18 -34.6s SOLDIER: Gump\nTR-17 -32.9s SOLDIER: Gump\nTR-17 -32.5s FORREST: ich bin Forrest Gump.\nTR-16 -31.2s [AD] er bekommt ein dickes Bündel Briefe.\nTR-14 -27.7s SOLDIER: Kyle\nTR-14 -26.6s [AD] Forrest zieht den obersten Brief heraus.\nTR-13 -24.5s [AD] er ist an Jenny adressiert und mit dem Stempel unzustellbar versehen.\nTR-10 -19.7s SOLDIER: Johnson\nTR-10 -18.4s [AD] Forrest nimmt weiter Briefe aus dem Bündel.\nTR-9 -16.3s [AD] alle sind an Jenny gerichtet und haben denselben Stempel.\nTR-7 -12.5s [AD] niedergeschlagen betrachtet Forrest einen Brief nach dem anderen.\nTR-4  -8.0s [AD] in einem Freizeitraum des Lazaretts sitzt Forrest mit einem Eis vorm Fernseher.\nTR-2  -2.6s SOLDIER IN LIVING ROOM: Gump, wieso guckst du dir nur diese blöde Scheiße an?\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s SOLDIER IN LIVING ROOM: dreh das ab!\nTR+0   1.7s [AD] mühsam steht Forrest von mehreren Kissen auf.\nTR+3   7.3s FORREST: aua\nTR+3   7.7s [AD] ein Tischtennisball trifft seinen Kopf.\nTR+4  10.0s PINGPONG GUY: hey, Gump!\nTR+5  10.8s [AD] der Mann bewegt seinen Schläger wie im Spiel.\nTR+6  13.1s PINGPONG GUY: weißt du, wie das hier geht?\nTR+7  14.4s [AD] Forrest schüttelt den Kopf.\nTR+8  16.4s PINGPONG GUY: na, komm, dann zeig ichs dir, okay?\nTR+9  18.3s [AD] er gibt Forrest den Schläger\n════ 本窗結束 ════\n\n──── 後 80 TR ────\nTR+10  20.4s PINGPONG GUY: also, das Wichtigste an dem Spiel ist, ganz egal, was passiert,\nTR+12  25.2s PINGPONG GUY: aber ... du darfst ... nie den Ball aus dem Auge verlieren.\nTR+14  29.1s [AD] er bewegt den Ball hin und her.\nTR+15  30.6s [AD] Forrest behält ihn im Blick.\nTR+15  31.9s PINGPONG GUY: na, dann\nTR+16  32.8s [AD] mit dem Eis in der Hand spielt Forrest gegen einen Rollstuhlfahrer.\nTR+18  36.2s FORREST (V.O.): aus irgendeinem Grund war ich wohl ein Naturtalent beim Pingpong.\nTR+20  40.0s PINGPONG GUY: siehst du?\nTR+20  41.2s PINGPONG GUY: jeder Idiot kann das spielen.\nTR+21  43.4s FORREST (V.O.): jedenfalls spielte ichs von da an dauernd.\nTR+22  45.5s [AD] er übt die Angabe.\nTR+23  47.2s FORREST (V.O.): ich hab sogar Pingpong gespielt, wenn ich gar keinen hatte, der mit mir Pingpong gespielt hat.\nTR+25  51.0s [AD] die Bälle springen vom Gegnerfeld in eine Bettpfanne.\nTR+27  55.0s [AD] Forrest spielt vor vielen Zuschauern gegen das hochgeklappte Gegnerfeld.\nTR+29  59.6s FORREST (V.O.): die Leute im Lazarett haben gesagt, ich hätte dabei ausgesehen wie eine Ente im Wasser.\nTR+32  64.1s FORREST (V.O.): ich weiß nicht, was das heißen soll.\nTR+32  66.0s FORREST (V.O.): sogar Lieutenant Dan kam und hat mir beim Spielen zugesehen.\nTR+34  69.4s [AD] Dan auf einer Liege schaut mürrisch nach draußen.\nTR+35  71.7s [AD] Forrest spielt allein.\nTR+36  72.9s [AD] dabei trifft er immer wieder ein Zielquadrat auf einer hochgestellten Platte.\nTR+38  76.3s [AD] ein Offizier kommt.\nTR+38  77.3s OFFICER: Private Gump\nTR+40  80.2s FORREST: ja, Sir!\nTR+41  82.0s OFFICER: stehen Sie bequem!\nTR+41  82.9s [AD] Forrest greift wieder ...\nTR+42  84.2s OFFICER: mein Sohn\nTR+42  84.8s [AD] ... zu Ball und Schläger.\nTR+43  86.2s OFFICER: Ihnen wird die Tapferkeitsmedaille verliehen.\nTR+43  87.9s [AD] im Schlafsaal\nTR+44  88.5s FORREST: stellen sie sich vor, Lieutenant Dan!\nTR+45  90.8s FORREST: die wollen mir doch tatsächlich die ...\nTR+46  92.7s [AD] er zieht einen Vorhang weg.\nTR+47  94.2s [AD] in dans bett liegt ein Mann mit vollständig bandagiertem Kopf und Oberkörper.\nTR+48  97.8s [AD] zu einer Schwester\nTR+49  98.7s FORREST: Ma'am\nTR+50 100.7s FORREST: was haben die denn mit Lieutenant Dan gemacht?\nTR+51 102.9s NURSE: in die Heimat geschickt\nTR+52 105.0s [AD] Forrest sieht wieder auf den Schwerverletzten.\nTR+55 110.6s FORREST (V.O.): zwei wochen später ... habe ich Vietnam verlassen.\nTR+56 113.5s [AD] im Fernsehen\nTR+57 114.1s ANCHORMAN: die Zeremonie wurde eröffnet mit einem eindeutigen Bekenntnis des Präsidenten hinsichtlich der Notwendigkeit einer weiteren Eskalation des Krieges in Vietnam.\nTR+60 121.3s ANCHORMAN: Johnson verlieh vier Tapferkeitsmedaillen an Männer aus den vier Waffengarden.\nTR+62 124.8s PRESIDENT JOHNSON: Amerika ist Ihnen zu tiefstem Dank verpflichtet, mein Sohn.\nTR+63 127.5s [AD] Johnson hängt Forrest die Medaille um.\nTR+64 129.7s PRESIDENT JOHNSON: wie ich höre, sind Sie verletzt worden.\nTR+65 131.8s PRESIDENT JOHNSON: wo wurden Sie getroffen?\nTR+66 133.4s FORREST: in den Allerwertesten, Sir\nTR+67 135.2s PRESIDENT JOHNSON: na, das muss ja ein Anblick sein.\nTR+68 137.4s PRESIDENT JOHNSON: das möcht ich gerne sehen.\nTR+69 138.9s [AD] im Saal sitzt auch die Mutter von Forrest.\nTR+70 141.0s [AD] der glotzt Johnson an, dreht sich um, und entblößt die Pobacke mit der Wunde.\nTR+73 147.4s [AD] im Frisörladen gucken drei Männer verdutzt zum Bildschirm.\nTR+75 150.6s [AD] Johnson winkt amüsiert ab und geht.\nTR+76 152.8s PRESIDENT JOHNSON: hm\nTR+76 153.2s PRESIDENT JOHNSON: Donnerwetter\nTR+77 154.5s [AD] Forrest vor dem Lincoln Memorial\nTR+78 156.3s FORREST (V.O.): danach ist Mama ins Hotel gegangen, um sich ein bisschen hinzulegen ... und ich hab einen Spaziergang gemacht, um mir die Hauptstadt unserer Nation anzusehen.\nTR+82 164.0s ISABEL: Hillary, hey, ich hab jetzt die Veteranen\nTR+82 165.8s [AD] er trägt Paradeuniform.\nTR+83 167.3s HILLARY: wir warten schon seit einer halben ...\nTR+84 168.3s FORREST (V.O.): es war ein Glück, dass Mama sich hingelegt hatte.\nTR+85 171.1s FORREST (V.O.): Denn die Straßen waren voller Menschen, die sich alle die Statuen und Denkmäler ansehen wollten.\nTR+88 176.1s FORREST (V.O.): manche leute waren schrecklich laut und schubsten mich.\nTR+89 178.8s [AD] er wird in eine Schlange von 'Veteranen gegen den Krieg' geschoben.",
-   "text_en": "【時間】白天\n　標註檔：52:51.2 起：大幅時間跳躍（數小時至數年）\n【場景】越南某醫院交誼廳\n　標註檔：Vietnam｜hospital lounge｜hospital lounge（int，day）\n【人物】阿甘與其他士兵（包含一位拿著桌球拍的士兵），彼此是軍 友關係。\n　標註檔：MAN\n【前文】阿甘坐在醫院交誼廳看電視，收到許多寄給珍妮但被退回的信件。接著其他士兵叫他把電視關掉。\n【後文】拿著桌球拍的士兵教阿甘打桌球的要領，隨後阿甘開始在醫院裡練習打桌球。\n（摘要由 Gemini 依前後各 80 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】53:00.0–53:20.0，10 TR（電影時間）\n\n──── 前 80 TR ────\nTR-80 -159.4s FORREST: hey, Bubba!\nTR-79 -156.8s BUBBA: hey, Forrest!\nTR-77 -153.5s BUBBA: Forrest\nTR-76 -151.8s BUBBA: h, how, how did this happen?\nTR-75 -149.1s FORREST: you got shot.\nTR-73 -145.1s FORREST (V.O.): then Bubba said something I'll never forget.\nTR-71 -141.1s BUBBA: I want to go home.\nTR-70 -139.7s BUBBA: tchich\nTR-69 -137.4s FORREST (V.O.): Bubba was my best, good friend.\nTR-68 -134.5s FORREST (V.O.): ...and even I know you can't just find something like that on the next street corner.\nTR-65 -129.6s FORREST (V.O.): Bubba wanted to be... captain of his own shrimping boat.\nTR-63 -125.8s FORREST (V.O.): instead, he died by that river in Vietnam.\nTR-60 -119.0s [AD] on the bench\nTR-59 -117.8s FORREST: that's all I have to say about that.\nTR-58 -115.4s [AD] a heavy man is now sitting next to Forrest.\nTR-57 -113.5s MAN IN SAVANNAH: it was a bullet, am I right?\nTR-56 -111.5s [AD] Forrest looks at him abruptly.\nTR-55 -109.1s FORREST: a bullet?\nTR-54 -108.0s MAN IN SAVANNAH: what jumped out and bit her.\nTR-53 -104.1s FORREST: oh\nTR-52 -102.7s FORREST: yes, sir.\nTR-52 -102.0s FORREST: bit me right in the buttocks.\nTR-50 -99.0s FORREST: they said a wound like that is worth a million dollars.\nTR-48 -95.1s FORREST: but the Army probably kept the money.\nTR-47 -93.4s FORREST (V.O.): I never saw a cent of it.\nTR-45 -89.4s FORREST: the only good thing about having an injury on your buttocks is...\nTR-44 -86.3s [AD] at the hospital\nTR-43 -85.7s FORREST (V.O.): ...you get a lot of ice.\nTR-42 -83.7s FORREST (V.O.): they gave me as much ice as I could eat.\nTR-41 -81.3s FORREST (V.O.): and you want to know something?\nTR-40 -79.8s FORREST (V.O.): in the bed next to me lay a good friend of mine.\nTR-39 -77.3s [AD] Forrest, with two ice cream cones, lies on his stomach.\nTR-38 -75.1s FORREST: Lieutenant Dan\nTR-37 -73.6s FORREST: I have some ice cream.\nTR-37 -72.5s FORREST: here, please\nTR-36 -71.7s [AD] Dan stares into the void.\nTR-36 -70.5s FORREST: lu\nTR-35 -70.0s FORREST: Lieutenant Dan, some ice cream... please\nTR-34 -67.3s [AD] Dan takes the cone, drops it into his bedpan, and continues staring ahead.\nTR-31 -61.8s [AD] Forrest crawls from a gurney onto his bed.\nTR-30 -59.9s FORREST: each\nTR-29 -56.1s MALE NURSE: Time for your bath, Lieutenant.\nTR-28 -54.3s [AD] the orderly places Dan's hands on a grab bar.\nTR-26 -51.4s [AD] Dan's lower legs are amputated.\nTR-25 -49.2s [AD] the stumps are wrapped in bandages.\nTR-24 -47.3s [AD] the orderly lifts him up.\nTR-24 -46.1s SOLDIER: Harper\nTR-23 -44.9s [AD] a rolling stretcher is pushed over.\nTR-22 -43.3s [AD] the orderly puts Dan on it.\nTR-21 -41.6s SOLDIER: Cooper\nTR-21 -40.9s [AD] Dan is wheeled away.\nTR-20 -39.9s SOLDIER: Larson\nTR-20 -38.9s [AD] Mail call.\nTR-19 -37.3s SOLDIER: Webster\nTR-19 -36.5s [AD] Forrest continues licking his ice cream.\nTR-18 -34.6s SOLDIER: Gump\nTR-17 -32.9s SOLDIER: Gump\nTR-17 -32.5s FORREST: I am Forrest Gump.\nTR-16 -31.2s [AD] he receives a thick bundle of letters.\nTR-14 -27.7s SOLDIER: Kyle\nTR-14 -26.6s [AD] Forrest pulls out the top letter.\nTR-13 -24.5s [AD] it is addressed to Jenny and stamped as undeliverable.\nTR-10 -19.7s SOLDIER: Johnson\nTR-10 -18.4s [AD] Forrest continues taking letters from the bundle.\nTR-9 -16.3s [AD] all of them are addressed to Jenny and have the same stamp.\nTR-7 -12.5s [AD] dejected, Forrest looks at one letter after another.\nTR-4  -8.0s [AD] in a recreation room of the hospital, Forrest sits with an ice cream in front of the TV.\nTR-2  -2.6s SOLDIER IN LIVING ROOM: Gump, why are you watching this stupid crap?\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s SOLDIER IN LIVING ROOM: turn that off!\nTR+0   1.7s [AD] with difficulty, Forrest gets up from several pillows.\nTR+3   7.3s FORREST: ouch\nTR+3   7.7s [AD] a ping-pong ball hits his head.\nTR+4  10.0s PINGPONG GUY: hey, Gump!\nTR+5  10.8s [AD] the man moves his paddle as if playing.\nTR+6  13.1s PINGPONG GUY: do you know how this works?\nTR+7  14.4s [AD] Forrest shakes his head.\nTR+8  16.4s PINGPONG GUY: come on, then I'll show you, okay?\nTR+9  18.3s [AD] he hands Forrest the paddle\n════ 本窗結束 ════\n\n──── 後 80 TR ────\nTR+10  20.4s PINGPONG GUY: so, the most important thing about the game is, no matter what happens,\nTR+12  25.2s PINGPONG GUY: but... you must... never take your eyes off the ball.\nTR+14  29.1s [AD] he moves the ball back and forth.\nTR+15  30.6s [AD] Forrest keeps his eyes on it.\nTR+15  31.9s PINGPONG GUY: well, then\nTR+16  32.8s [AD] with the ice cream in his hand, Forrest plays against a man in a wheelchair.\nTR+18  36.2s FORREST (V.O.): for some reason, I guess I was a natural at ping-pong.\nTR+20  40.0s PINGPONG GUY: see?\nTR+20  41.2s PINGPONG GUY: any idiot can play that.\nTR+21  43.4s FORREST (V.O.): anyway, I played it all the time from then on.\nTR+22  45.5s [AD] he practices his serve.\nTR+23  47.2s FORREST (V.O.): I even played ping-pong when I didn't have anyone to play ping-pong with.\nTR+25  51.0s [AD] the balls bounce from the opponent's side into a bedpan.\nTR+27  55.0s [AD] Forrest plays against the folded-up opponent's side in front of many spectators.\nTR+29  59.6s FORREST (V.O.): the people at the hospital said I looked like a duck in the water.\nTR+32  64.1s FORREST (V.O.): I don't know what that's supposed to mean.\nTR+32  66.0s FORREST (V.O.): even Lieutenant Dan came and watched me play.\nTR+34  69.4s [AD] Dan on a gurney looks glumly outside.\nTR+35  71.7s [AD] Forrest plays alone.\nTR+36  72.9s [AD] hitting a target square on an upright board repeatedly.\nTR+38  76.3s [AD] an officer arrives.\nTR+38  77.3s OFFICER: Private Gump\nTR+40  80.2s FORREST: yes, Sir!\nTR+41  82.0s OFFICER: at ease!\nTR+41  82.9s [AD] Forrest reaches again...\nTR+42  84.2s OFFICER: my boy\nTR+42  84.8s [AD] ...for the ball and paddle.\nTR+43  86.2s OFFICER: you are awarded the Medal of Honor.\nTR+43  87.9s [AD] in the dormitory\nTR+44  88.5s FORREST: imagine that, Lieutenant Dan!\nTR+45  90.8s FORREST: they actually want to give me the...\nTR+46  92.7s [AD] he pulls away a curtain.\nTR+47  94.2s [AD] in Dan's bed lies a man with his head and upper body completely bandaged.\nTR+48  97.8s [AD] to a nurse\nTR+49  98.7s FORREST: Ma'am\nTR+50 100.7s FORREST: what did they do to Lieutenant Dan?\nTR+51 102.9s NURSE: sent home\nTR+52 105.0s [AD] Forrest looks back at the severely injured man.\nTR+55 110.6s FORREST (V.O.): two weeks later... I left Vietnam.\nTR+56 113.5s [AD] on television\nTR+57 114.1s ANCHORMAN: the ceremony opened with a clear commitment by the President regarding the necessity of further escalating the war in Vietnam.\nTR+60 121.3s ANCHORMAN: Johnson awarded four Medals of Honor to men from the four armed services.\nTR+62 124.8s PRESIDENT JOHNSON: America is deeply indebted to you, my son.\nTR+63 127.5s [AD] Johnson places the medal around Forrest's neck.\nTR+64 129.7s PRESIDENT JOHNSON: I hear you were wounded.\nTR+65 131.8s PRESIDENT JOHNSON: where were you hit?\nTR+66 133.4s FORREST: in the buttocks, Sir\nTR+67 135.2s PRESIDENT JOHNSON: well, that must be quite a sight.\nTR+68 137.4s PRESIDENT JOHNSON: I'd like to see that.\nTR+69 138.9s [AD] Forrest's mother is also sitting in the hall.\nTR+70 141.0s [AD] he stares at Johnson, turns around, and bares his buttock with the wound.\nTR+73 147.4s [AD] in the barbershop, three men look perplexedly at the screen.\nTR+75 150.6s [AD] Johnson dismisses it amusedly and walks away.\nTR+76 152.8s PRESIDENT JOHNSON: hm\nTR+76 153.2s PRESIDENT JOHNSON: good grief\nTR+77 154.5s [AD] Forrest in front of the Lincoln Memorial\nTR+78 156.3s FORREST (V.O.): afterwards, Mama went to the hotel to lie down for a bit... and I went for a walk to see our nation's capital.\nTR+82 164.0s ISABEL: Hillary, hey, I've got the veterans now\nTR+82 165.8s [AD] he is wearing a parade uniform.\nTR+83 167.3s HILLARY: we've been waiting for half a...\nTR+84 168.3s FORREST (V.O.): it was lucky that Mama had lain down.\nTR+85 171.1s FORREST (V.O.): because the streets were full of people, all wanting to see the statues and monuments.\nTR+88 176.1s FORREST (V.O.): some people were terribly loud and pushed me.\nTR+89 178.8s [AD] he is pushed into a line of 'Veterans Against the War'.",
-   "text_zh": "【時間】白天\n　標註檔：52:51.2 起：大幅時間跳躍（數小時至數年）\n【場景】越南某醫院交誼廳\n　標註檔：Vietnam｜hospital lounge｜hospital lounge（int，day）\n【人物】阿甘與其他士兵（包含一位拿著桌球拍的士兵），彼此是軍 友關係。\n　標註檔：MAN\n【前文】阿甘坐在醫院交誼廳看電視，收到許多寄給珍妮但被退回的信件。接著其他士兵叫他把電視關掉。\n【後文】拿著桌球拍的士兵教阿甘打桌球的要領，隨後阿甘開始在醫院裡練習打桌球。\n（摘要由 Gemini 依前後各 80 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】53:00.0–53:20.0，10 TR（電影時間）\n\n──── 前 80 TR ────\nTR-80 -159.4s FORREST: 嘿，巴布！\nTR-79 -156.8s BUBBA: 嘿，阿甘！\nTR-77 -153.5s BUBBA: 阿甘\nTR-76 -151.8s BUBBA: 怎，怎麼，這是怎麼發生的？\nTR-75 -149.1s FORREST: 你中槍了。\nTR-73 -145.1s FORREST (V.O.): 然後巴布說了一句話，我永遠不會忘記。\nTR-71 -141.1s BUBBA: 我想回家。\nTR-70 -139.7s BUBBA: 嘖\nTR-69 -137.4s FORREST (V.O.): 巴布是我最好最好的朋友。\nTR-68 -134.5s FORREST (V.O.): ……而且連我都知道，這種東西在下一個街角是找不到的。\nTR-65 -129.6s FORREST (V.O.): 巴布想成為……他自己的蝦船船長。\nTR-63 -125.8s FORREST (V.O.): 相反地，他在越南的那條河邊死了。\nTR-60 -119.0s [AD] 在長椅上\nTR-59 -117.8s FORREST: 關於這個，我只能說這麼多。\nTR-58 -115.4s [AD] 阿甘旁邊現在坐了一個胖胖的男人。\nTR-57 -113.5s MAN IN SAVANNAH: 那是顆子彈，我沒說錯吧？\nTR-56 -111.5s [AD] 阿甘突然看了他一眼。\nTR-55 -109.1s FORREST: 子彈？\nTR-54 -108.0s MAN IN SAVANNAH: 什麼東西跳過來咬了她。\nTR-53 -104.1s FORREST: 哦\nTR-52 -102.7s FORREST: 是的，長官。\nTR-52 -102.0s FORREST: 直接咬在我的屁股上。\nTR-50 -99.0s FORREST: 他們說這種傷口值一百萬美元。\nTR-48 -95.1s FORREST: 但軍隊可能把錢留下了。\nTR-47 -93.4s FORREST (V.O.): 我連一分錢也沒見過。\nTR-45 -89.4s FORREST: 屁股受傷唯一的好處就是……\nTR-44 -86.3s [AD] 在醫務室裡\nTR-43 -85.7s FORREST (V.O.): ……你會得到很多冰塊。\nTR-42 -83.7s FORREST (V.O.): 他們給我無限量供應的冰塊。\nTR-41 -81.3s FORREST (V.O.): 你想知道一件事嗎？\nTR-40 -79.8s FORREST (V.O.): 我旁邊的床躺著我的一個好朋友。\nTR-39 -77.3s [AD] 阿甘拿著兩支冰淇淋筒，趴在床上。\nTR-38 -75.1s FORREST: 丹中尉\nTR-37 -73.6s FORREST: 我有一個冰淇淋。\nTR-37 -72.5s FORREST: 給您，請\nTR-36 -71.7s [AD] 丹凝視著虛空。\nTR-36 -70.5s FORREST: 丹\nTR-35 -70.0s FORREST: 丹中尉，一根冰淇淋……請拿著\nTR-34 -67.3s [AD] 丹接過甜筒，把它放進便盆裡，繼續凝視著前方。\nTR-31 -61.8s [AD] 阿甘從行軍床爬到他的床上。\nTR-30 -59.9s FORREST: 每個\nTR-29 -56.1s MALE NURSE: 該洗澡了，中尉。\nTR-28 -54.3s [AD] 看護將丹的手放在扶手上。\nTR-26 -51.4s [AD] 丹的小腿截肢了。\nTR-25 -49.2s [AD] 殘肢上纏著繃帶。\nTR-24 -47.3s [AD] 看護把他抬起來。\nTR-24 -46.1s SOLDIER: 哈珀\nTR-23 -44.9s [AD] 推來了一張滾動式擔架。\nTR-22 -43.3s [AD] 看護把丹放到上面。\nTR-21 -41.6s SOLDIER: 庫珀\nTR-21 -40.9s [AD] 丹被推走了。\nTR-20 -39.9s SOLDIER: 拉森\nTR-20 -38.9s [AD] 分發郵件。\nTR-19 -37.3s SOLDIER: 韋伯斯特\nTR-19 -36.5s [AD] 阿甘繼續舔著他的冰淇淋。\nTR-18 -34.6s SOLDIER: 甘普\nTR-17 -32.9s SOLDIER: 甘普\nTR-17 -32.5s FORREST: 我是阿甘。\nTR-16 -31.2s [AD] 他收到了一大捆信件。\nTR-14 -27.7s SOLDIER: 凱爾\nTR-14 -26.6s [AD] 阿甘抽出了最上面的一封信。\nTR-13 -24.5s [AD] 收件人是珍妮，並蓋有無法投遞的郵戳。\nTR-10 -19.7s SOLDIER: 強森\nTR-10 -18.4s [AD] 阿甘繼續從信封堆中抽出信件。\nTR-9 -16.3s [AD] 全部都是寄給珍妮的，而且蓋著相同的郵戳。\nTR-7 -12.5s [AD] 沮喪的阿甘一封接一封地看著信。\nTR-4  -8.0s [AD] 在醫務室的交誼廳裡，阿甘一邊吃著冰淇淋一邊看電視。\nTR-2  -2.6s SOLDIER IN LIVING ROOM: 甘普，你為什麼只看這種蠢得要命的廢物？\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s SOLDIER IN LIVING ROOM: 把這個關掉！\nTR+0   1.7s [AD] 阿甘吃力地從好幾個枕頭上站起來。\nTR+3   7.3s FORREST: 哎喲\nTR+3   7.7s [AD] 一顆乒乓球擊中了頭。\nTR+4  10.0s PINGPONG GUY: 嘿，甘普！\nTR+5  10.8s [AD] 那個人像在比賽一樣揮舞著球拍。\nTR+6  13.1s PINGPONG GUY: 你知道這個怎麼玩嗎？\nTR+7  14.4s [AD] 阿甘搖搖頭。\nTR+8  16.4s PINGPONG GUY: 來吧，那我來示範給你看，好嗎？\nTR+9  18.3s [AD] 他把球拍交給阿甘\n════ 本窗結束 ════\n\n──── 後 80 TR ────\nTR+10  20.4s PINGPONG GUY: 所以，這個遊戲最重要的是，不管發生什麼事，\nTR+12  25.2s PINGPONG GUY: 但是……你絕對……不能把視線從球上移開。\nTR+14  29.1s [AD] 他來回移動著球。\nTR+15  30.6s [AD] 阿甘緊緊盯著球。\nTR+15  31.9s PINGPONG GUY: 好吧\nTR+16  32.8s [AD] 手裡拿著冰淇淋，阿甘和一個坐輪椅的人對打。\nTR+18  36.2s FORREST (V.O.): 不知為什麼，我在打乒乓球方面好像很有天賦。\nTR+20  40.0s PINGPONG GUY: 看到了嗎？\nTR+20  41.2s PINGPONG GUY: 任何白癡都會玩這個。\nTR+21  43.4s FORREST (V.O.): 總之，從那時起我一直在打乒乓球。\nTR+22  45.5s [AD] 他練習發球。\nTR+23  47.2s FORREST (V.O.): 甚至在我找不到任何人跟我打乒乓球時，我也在打乒乓球。\nTR+25  51.0s [AD] 球從對手的場地彈進便盆裡。\nTR+27  55.0s [AD] 阿甘在眾多觀眾面前對著豎起來的對手場地打球。\nTR+29  59.6s FORREST (V.O.): 醫務室的人說我打球的樣子像一隻水裡的鴨子。\nTR+32  64.1s FORREST (V.O.): 我不知道那是什麼意思。\nTR+32  66.0s FORREST (V.O.): 甚至連丹中尉也來看我打球。\nTR+34  69.4s [AD] 躺在擔架上的丹悶悶不樂地看著外面。\nTR+35  71.7s [AD] 阿甘獨自打球。\nTR+36  72.9s [AD] 他一次又一次地擊中豎起木板上的目標方格。\nTR+38  76.3s [AD] 一名軍官走來。\nTR+38  77.3s OFFICER: 甘普二等兵\nTR+40  80.2s FORREST: 是的，長官！\nTR+41  82.0s OFFICER: 稍息！\nTR+41  82.9s [AD] 阿甘再次拿起……\nTR+42  84.2s OFFICER: 我的孩子\nTR+42  84.8s [AD] ……球和球拍。\nTR+43  86.2s OFFICER: 你被授予榮譽勳章。\nTR+43  87.9s [AD] 在宿舍裡\nTR+44  88.5s FORREST: 想像一下，丹中尉！\nTR+45  90.8s FORREST: 他們竟然想把……\nTR+46  92.7s [AD] 他拉開簾子。\nTR+47  94.2s [AD] 丹的床上躺著一個頭部和上半身完全纏著繃帶的男人。\nTR+48  97.8s [AD] 對一名護士\nTR+49  98.7s FORREST: 女士\nTR+50 100.7s FORREST: 他們對丹中尉做了什麼？\nTR+51 102.9s NURSE: 送回祖國\nTR+52 105.0s [AD] 阿甘再次看著那個重傷員。\nTR+55 110.6s FORREST (V.O.): 兩週後……我離開了越南。\nTR+56 113.5s [AD] 在電視上\nTR+57 114.1s ANCHORMAN: 典禮以總統對進一步擴大越南戰爭必要性的明確承諾揭開序幕。\nTR+60 121.3s ANCHORMAN: 強森向四個軍種的官兵頒發了四枚榮譽勳章。\nTR+62 124.8s PRESIDENT JOHNSON: 美國對您感激不盡，我的孩子。\nTR+63 127.5s [AD] 強森將勳章掛在阿甘脖子上。\nTR+64 129.7s PRESIDENT JOHNSON: 我聽說你受傷了。\nTR+65 131.8s PRESIDENT JOHNSON: 你在哪裡中彈的？\nTR+66 133.4s FORREST: 屁股上，長官\nTR+67 135.2s PRESIDENT JOHNSON: 嗯，那一定很壯觀。\nTR+68 137.4s PRESIDENT JOHNSON: 我很想看看。\nTR+69 138.9s [AD] 大廳裡還坐著阿甘的母親。\nTR+70 141.0s [AD] 他直勾勾地看著強森，轉過身去，露出了帶有傷口的屁股。\nTR+73 147.4s [AD] 在理髮店裡，三個男人困惑地看著螢幕。\nTR+75 150.6s [AD] 強森覺得好笑地揮揮手走開了。\nTR+76 152.8s PRESIDENT JOHNSON: 嗯\nTR+76 153.2s PRESIDENT JOHNSON: 天哪\nTR+77 154.5s [AD] 林肯紀念堂前的阿甘\nTR+78 156.3s FORREST (V.O.): 之後，媽媽去飯店躺了一會兒……而我去散步，參觀我們國家的首都。\nTR+82 164.0s ISABEL: 希拉蕊，嘿，我現在有退伍軍人了\nTR+82 165.8s [AD] 他穿著閱兵制服。\nTR+83 167.3s HILLARY: 我們已經等了半個……\nTR+84 168.3s FORREST (V.O.): 幸好媽媽去躺下了。\nTR+85 171.1s FORREST (V.O.): 因為街上擠滿了人，大家都想去看雕像和紀念碑。\nTR+88 176.1s FORREST (V.O.): 有些人的聲音大得可怕，還推了我。\nTR+89 178.8s [AD] 他被推擠進「反戰退伍軍人」的隊伍中。",
+   "text": "【時間】白天\n　標註檔：52:51.2 起：大幅時間跳躍（數小時至數年）\n【場景】越南的醫院交誼廳\n　標註檔：Vietnam｜hospital lounge｜hospital lounge（int，day）\n【人物】阿甘與其他士兵\n　標註檔：MAN\n【前 40 TR 摘要】阿甘躺在病et上吃冰淇淋，並拿到了許多寫給珍妮卻被退回的信件。接著阿甘移動到醫院交誼廳，拿著冰淇淋看電視。此時另一名士兵要求阿甘把電視關掉。\n【後 40 TR 摘要】打乒乓球的男子告訴阿甘，玩這個遊戲最重要的是絕對不能視線離開球。隨後阿甘拿著冰淇淋與一名坐輪椅的人對打。阿甘發現自己很有天分，之後便經常練習打乒乓球。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】53:00.0–53:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s SOLDIER IN LIVING ROOM: dreh das ab!\nTR+0   1.7s [AD] mühsam steht Forrest von mehreren Kissen auf.\nTR+3   7.3s FORREST: aua\nTR+3   7.7s [AD] ein Tischtennisball trifft seinen Kopf.\nTR+4  10.0s PINGPONG GUY: hey, Gump!\nTR+5  10.8s [AD] der Mann bewegt seinen Schläger wie im Spiel.\nTR+6  13.1s PINGPONG GUY: weißt du, wie das hier geht?\nTR+7  14.4s [AD] Forrest schüttelt den Kopf.\nTR+8  16.4s PINGPONG GUY: na, komm, dann zeig ichs dir, okay?\nTR+9  18.3s [AD] er gibt Forrest den Schläger\n════ 本窗結束 ════",
+   "text_en": "【時間】白天\n　標註檔：52:51.2 起：大幅時間跳躍（數小時至數年）\n【場景】越南的醫院交誼廳\n　標註檔：Vietnam｜hospital lounge｜hospital lounge（int，day）\n【人物】阿甘與其他士兵\n　標註檔：MAN\n【前 40 TR 摘要】阿甘躺在病et上吃冰淇淋，並拿到了許多寫給珍妮卻被退回的信件。接著阿甘移動到醫院交誼廳，拿著冰淇淋看電視。此時另一名士兵要求阿甘把電視關掉。\n【後 40 TR 摘要】打乒乓球的男子告訴阿甘，玩這個遊戲最重要的是絕對不能視線離開球。隨後阿甘拿著冰淇淋與一名坐輪椅的人對打。阿甘發現自己很有天分，之後便經常練習打乒乓球。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】53:00.0–53:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s SOLDIER IN LIVING ROOM: turn that off!\nTR+0   1.7s [AD] painfully Forrest gets up from several pillows.\nTR+3   7.3s FORREST: ouch\nTR+3   7.7s [AD] a ping-pong ball hits his head.\nTR+4  10.0s PINGPONG GUY: hey, Gump!\nTR+5  10.8s [AD] the man moves his paddle like in the game.\nTR+6  13.1s PINGPONG GUY: do you know how this works here?\nTR+7  14.4s [AD] Forrest shakes his head.\nTR+8  16.4s PINGPONG GUY: well, come on, then I'll show you, okay?\nTR+9  18.3s [AD] he hands Forrest the paddle\n════ 本窗結束 ════",
+   "text_zh": "【時間】白天\n　標註檔：52:51.2 起：大幅時間跳躍（數小時至數年）\n【場景】越南的醫院交誼廳\n　標註檔：Vietnam｜hospital lounge｜hospital lounge（int，day）\n【人物】阿甘與其他士兵\n　標註檔：MAN\n【前 40 TR 摘要】阿甘躺在病et上吃冰淇淋，並拿到了許多寫給珍妮卻被退回的信件。接著阿甘移動到醫院交誼廳，拿著冰淇淋看電視。此時另一名士兵要求阿甘把電視關掉。\n【後 40 TR 摘要】打乒乓球的男子告訴阿甘，玩這個遊戲最重要的是絕對不能視線離開球。隨後阿甘拿著冰淇淋與一名坐輪椅的人對打。阿甘發現自己很有天分，之後便經常練習打乒乓球。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】53:00.0–53:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s SOLDIER IN LIVING ROOM: 把那個關掉！\nTR+0   1.7s [AD] 阿甘吃力地從好幾個枕頭上站起來。\nTR+3   7.3s FORREST: 哎喲\nTR+3   7.7s [AD] 一顆乒乓球打中他的頭。\nTR+4  10.0s PINGPONG GUY: 嘿，甘！\nTR+5  10.8s [AD] 那個人像在比賽中一樣揮動著球拍。\nTR+6  13.1s PINGPONG GUY: 你知道這個要怎麼玩嗎？\nTR+7  14.4s [AD] 阿甘搖搖頭。\nTR+8  16.4s PINGPONG GUY: 來吧，那我示範給你看，好嗎？\nTR+9  18.3s [AD] 他把球拍交給阿甘\n════ 本窗結束 ════",
    "time": "53:00.0–53:20.0",
    "label": "10TR 05"
   },
@@ -352,9 +352,9 @@
    "dataset": "FG",
    "film": "forrest",
    "media": null,
-   "text": "【時間】夜晚\n　標註檔：59:47.1 起：大幅時間跳躍（數小時至數年）\n【場景】華盛頓特區黑豹黨總部室內\n　標註檔：Washington D.C.｜Black Panther's HQ｜Black Panther's HQ（int，night）\n【人物】阿甘、珍妮、魯本、馬賽、韋斯利與其他黑豹黨成員共處一室\n　標註檔：JENNY、MAN\n【前文】阿甘與珍妮重逢後在市區同行，珍妮將阿甘介紹給她的新朋友。屋內的成員隨後對窗戶與阿甘的到來做出反應並展開對話。\n【後文】馬賽持續發言談論黑豹黨的立場與對越戰的看法。隨後珍妮與韋斯利發生爭執，阿甘在一旁看著他們。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】60:00.0–60:20.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-10 -19.8s FORREST (V.O.): wir waren wieder wie Pech und Schwefel.\nTR-9 -16.2s FORREST (V.O.): sie führte mich in der Stadt herum.\nTR-8 -14.4s FORREST (V.O.): und dann stellte sich mich auch ein paar von ihren neuen Freunden vor.\nTR-6 -11.1s RUBEN: wirst du wohl das Rollo runter machen und beweg deinen weißen Arsch vom Fenster weg.\nTR-4  -7.6s RUBEN: weißt du nicht, dass wir im Krieg sind?\nTR-3  -5.6s JENNY: hör auf!\nTR-3  -5.2s JENNY: er ist in ordnung.\nTR-3  -4.5s JENNY: er ist in ordnung.\nTR-2  -3.6s JENNY: er gehört ...\nTR-2  -3.3s MASAI: ich werd dir jetzt mal was erzählen\nTR-1  -1.7s WESLEY: nochmal, wo warst du?\nTR-1  -0.7s MASAI: ... Vorsatz, unsere schwarzen Führer vor den rassistischen Übergriffen der Bullen zu schützen,\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s MASAI: vor denen, die unsere schwarzen Führer misshandeln und unsere Frauen vergewaltigen und den Zusammenschluss der Schwarzen zerschlagen wollen.\nTR+4   8.2s [AD] bei Jenny steht ein Weißer mit roter Armbinde.\nTR+5  10.5s WESLEY: wer ist der Babykiller?\nTR+6  12.4s JENNY: das ist mein guter alter Freund.\nTR+6  13.6s JENNY: das ist Forrest Gump.\nTR+7  15.1s JENNY: Forrest, das ist Wesley.\nTR+8  16.8s JENNY: wir beide waren zusammen in Berkley.\nTR+9  18.6s JENNY: Wesley ist der Präsident vom sds in Berkley.\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+10  21.0s MASAI: und ich sag dir nochwas anderes.\nTR+11  22.5s MASAI: wir sind dazu da, um Menschen zu schützen und all denen zu helfen, die unsere Hilfe brauchen.\nTR+13  26.5s MASAI: du musst wissen, wir, die Black Panthers, sind gegen den verdammten Krieg in Vietnam.\nTR+14  29.9s MASAI: ja, ja\nTR+15  30.4s MASAI: wir sind gegen jeden Krieg, in dem schwarze Soldaten an die vorderste Front geschickt werden, um für ein Land zu sterben, das sie haßt.\nTR+17  35.8s [AD] Forrest starrt zu Jenny und Wesley, die sich streiten.\nTR+19  38.4s MASAI: ... sollen gleichzeitig aber in ihrer eigenen Heimat misshandelt und umgebracht werden, wenn sie nachts friedlich in ihren Betten schlafen.",
-   "text_en": "【時間】夜晚\n　標註檔：59:47.1 起：大幅時間跳躍（數小時至數年）\n【場景】華盛頓特區黑豹黨總部室內\n　標註檔：Washington D.C.｜Black Panther's HQ｜Black Panther's HQ（int，night）\n【人物】阿甘、珍妮、魯本、馬賽、韋斯利與其他黑豹黨成員共處一室\n　標註檔：JENNY、MAN\n【前文】阿甘與珍妮重逢後在市區同行，珍妮將阿甘介紹給她的新朋友。屋內的成員隨後對窗戶與阿甘的到來做出反應並展開對話。\n【後文】馬賽持續發言談論黑豹黨的立場與對越戰的看法。隨後珍妮與韋斯利發生爭執，阿甘在一旁看著他們。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】60:00.0–60:20.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-10 -19.8s FORREST (V.O.): we were like peas in a pod again.\nTR-9 -16.2s FORREST (V.O.): she showed me around the city.\nTR-8 -14.4s FORREST (V.O.): and then she introduced me to some of her new friends.\nTR-6 -11.1s RUBEN: will you pull down the shade and move your white ass away from the window.\nTR-4  -7.6s RUBEN: don't you know we are at war?\nTR-3  -5.6s JENNY: stop it!\nTR-3  -5.2s JENNY: he's alright.\nTR-3  -4.5s JENNY: he's alright.\nTR-2  -3.6s JENNY: he belongs...\nTR-2  -3.3s MASAI: i'm going to tell you something now\nTR-1  -1.7s WESLEY: again, where were you?\nTR-1  -0.7s MASAI: ...with the intent to protect our black leaders from the racist attacks of the cops,\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s MASAI: from those who mistreat our black leaders and rape our women and want to smash the black coalition.\nTR+4   8.2s [AD] there's a white guy with a red armband standing by Jenny.\nTR+5  10.5s WESLEY: who is the baby killer?\nTR+6  12.4s JENNY: this is my good old friend.\nTR+6  13.6s JENNY: this is Forrest Gump.\nTR+7  15.1s JENNY: Forrest, this is Wesley.\nTR+8  16.8s JENNY: the two of us were together at Berkeley.\nTR+9  18.6s JENNY: Wesley is the president of the SDS at Berkeley.\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+10  21.0s MASAI: and I'll tell you something else.\nTR+11  22.5s MASAI: we are here to protect people and help all those who need our help.\nTR+13  26.5s MASAI: you must know, we, the Black Panthers, are against the damned war in Vietnam.\nTR+14  29.9s MASAI: yeah, yeah\nTR+15  30.4s MASAI: we are against any war where black soldiers are sent to the front lines to die for a country that hates them.\nTR+17  35.8s [AD] Forrest stares at Jenny and Wesley, who are arguing.\nTR+19  38.4s MASAI: ...while at the same time being mistreated and killed in their own homeland when they sleep peacefully in their beds at night.",
-   "text_zh": "【時間】夜晚\n　標註檔：59:47.1 起：大幅時間跳躍（數小時至數年）\n【場景】華盛頓特區黑豹黨總部室內\n　標註檔：Washington D.C.｜Black Panther's HQ｜Black Panther's HQ（int，night）\n【人物】阿甘、珍妮、魯本、馬賽、韋斯利與其他黑豹黨成員共處一室\n　標註檔：JENNY、MAN\n【前文】阿甘與珍妮重逢後在市區同行，珍妮將阿甘介紹給她的新朋友。屋內的成員隨後對窗戶與阿甘的到來做出反應並展開對話。\n【後文】馬賽持續發言談論黑豹黨的立場與對越戰的看法。隨後珍妮與韋斯利發生爭執，阿甘在一旁看著他們。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】60:00.0–60:20.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-10 -19.8s FORREST (V.O.): 我們又像形影不離的好朋友一樣了。\nTR-9 -16.2s FORREST (V.O.): 她帶我在城裡逛了逛。\nTR-8 -14.4s FORREST (V.O.): 然後她把我介紹給了她的一些新朋友。\nTR-6 -11.1s RUBEN: 你能不能把窗簾拉下來，把你那白人屁股從窗戶邊移開。\nTR-4  -7.6s RUBEN: 難道你不知道我們在打仗嗎？\nTR-3  -5.6s JENNY: 住手！\nTR-3  -5.2s JENNY: 他很好。\nTR-3  -4.5s JENNY: 他很好。\nTR-2  -3.6s JENNY: 他是……\nTR-2  -3.3s MASAI: 我現在要告訴你一件事。\nTR-1  -1.7s WESLEY: 再問一次，你在哪裡？\nTR-1  -0.7s MASAI: ……目的是保護我們的黑人領袖免受警察的種族主義攻擊，\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s MASAI: 免受那些虐待我們的黑人領袖、強姦我們的婦女並企圖粉碎黑人聯盟的人的傷害。\nTR+4   8.2s [AD] 珍妮旁邊站著一個戴著紅袖章的白人。\nTR+5  10.5s WESLEY: 誰是殺嬰兇手？\nTR+6  12.4s JENNY: 這是我老朋友。\nTR+6  13.6s JENNY: 這是阿甘。\nTR+7  15.1s JENNY: Forrest，這是韋斯利。\nTR+8  16.8s JENNY: 我們倆曾在柏克萊一起。\nTR+9  18.6s JENNY: 韋斯利是柏克萊學生爭取民主社會組織的主席。\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+10  21.0s MASAI: 我還要告訴你另一件事。\nTR+11  22.5s MASAI: 我們存在的目的，是為了保護人們並幫助所有需要我們幫助的人。\nTR+13  26.5s MASAI: 你要知道，我們「黑豹黨」反對該死的越南戰爭。\nTR+14  29.9s MASAI: 是啊，是啊\nTR+15  30.4s MASAI: 我們反對任何將黑人士兵派往前線，為一個恨他們的國家去死的戰爭。\nTR+17  35.8s [AD] 阿甘凝視著正在爭吵的珍妮和韋斯利。\nTR+19  38.4s MASAI: ……同時他們卻在自己的家園裡遭受虐待和殺害，而他們晚上還在自己的床上安睡。",
+   "text": "【時間】夜晚\n　標註檔：59:47.1 起：大幅時間跳躍（數小時至數年）\n【場景】華盛頓特區黑豹黨總部\n　標註檔：Washington D.C.｜Black Panther's HQ｜Black Panther's HQ（int，night）\n【人物】阿甘、珍妮、馬賽、韋斯利與黑豹黨成員，彼此為朋友與組織成員關係\n　標註檔：JENNY、MAN\n【前 20 TR 摘要】阿甘回憶並敘述他和珍妮重逢後的經歷，提到珍妮帶著他在城市四處走動，並將他介紹給她的新朋友。魯本對著窗邊發出指令與質疑，珍妮隨即出面緩頰並表示阿甘沒有問題。接著，馬賽與韋斯利開口說話，馬賽談及保護黑人領袖免受警方侵害的相關目的。\n【後 20 TR 摘要】馬賽繼續發表談話，說明黑豹黨的宗旨與反對越戰的立場。隨後，珍妮與韋斯利發生爭執，韋斯利出手掌摑珍妮。目睹此景的阿甘隨即走向韋斯利，將其撲倒在桌上並揮拳毆打。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】60:00.0–60:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s MASAI: vor denen, die unsere schwarzen Führer misshandeln und unsere Frauen vergewaltigen und den Zusammenschluss der Schwarzen zerschlagen wollen.\nTR+4   8.2s [AD] bei Jenny steht ein Weißer mit roter Armbinde.\nTR+5  10.5s WESLEY: wer ist der Babykiller?\nTR+6  12.4s JENNY: das ist mein guter alter Freund.\nTR+6  13.6s JENNY: das ist Forrest Gump.\nTR+7  15.1s JENNY: Forrest, das ist Wesley.\nTR+8  16.8s JENNY: wir beide waren zusammen in Berkley.\nTR+9  18.6s JENNY: Wesley ist der Präsident vom sds in Berkley.\n════ 本窗結束 ════",
+   "text_en": "【時間】夜晚\n　標註檔：59:47.1 起：大幅時間跳躍（數小時至數年）\n【場景】華盛頓特區黑豹黨總部\n　標註檔：Washington D.C.｜Black Panther's HQ｜Black Panther's HQ（int，night）\n【人物】阿甘、珍妮、馬賽、韋斯利與黑豹黨成員，彼此為朋友與組織成員關係\n　標註檔：JENNY、MAN\n【前 20 TR 摘要】阿甘回憶並敘述他和珍妮重逢後的經歷，提到珍妮帶著他在城市四處走動，並將他介紹給她的新朋友。魯本對著窗邊發出指令與質疑，珍妮隨即出面緩頰並表示阿甘沒有問題。接著，馬賽與韋斯利開口說話，馬賽談及保護黑人領袖免受警方侵害的相關目的。\n【後 20 TR 摘要】馬賽繼續發表談話，說明黑豹黨的宗旨與反對越戰的立場。隨後，珍妮與韋斯利發生爭執，韋斯利出手掌摑珍妮。目睹此景的阿甘隨即走向韋斯利，將其撲倒在桌上並揮拳毆打。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】60:00.0–60:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s MASAI: against those who mistreat our black leaders and rape our women and want to smash the black unity.\nTR+4   8.2s [AD] there's a white guy with a red armband standing by Jenny.\nTR+5  10.5s WESLEY: who is the baby killer?\nTR+6  12.4s JENNY: this is my good old friend.\nTR+6  13.6s JENNY: this is Forrest Gump.\nTR+7  15.1s JENNY: Forrest, this is Wesley.\nTR+8  16.8s JENNY: the two of us were together at Berkeley.\nTR+9  18.6s JENNY: Wesley is the president of the SDS at Berkeley.\n════ 本窗結束 ════",
+   "text_zh": "【時間】夜晚\n　標註檔：59:47.1 起：大幅時間跳躍（數小時至數年）\n【場景】華盛頓特區黑豹黨總部\n　標註檔：Washington D.C.｜Black Panther's HQ｜Black Panther's HQ（int，night）\n【人物】阿甘、珍妮、馬賽、韋斯利與黑豹黨成員，彼此為朋友與組織成員關係\n　標註檔：JENNY、MAN\n【前 20 TR 摘要】阿甘回憶並敘述他和珍妮重逢後的經歷，提到珍妮帶著他在城市四處走動，並將他介紹給她的新朋友。魯本對著窗邊發出指令與質疑，珍妮隨即出面緩頰並表示阿甘沒有問題。接著，馬賽與韋斯利開口說話，馬賽談及保護黑人領袖免受警方侵害的相關目的。\n【後 20 TR 摘要】馬賽繼續發表談話，說明黑豹黨的宗旨與反對越戰的立場。隨後，珍妮與韋斯利發生爭執，韋斯利出手掌摑珍妮。目睹此景的阿甘隨即走向韋斯利，將其撲倒在桌上並揮拳毆打。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】60:00.0–60:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s MASAI: 對抗那些虐待我們的黑人領袖、強奸我們的婦女並試圖粉碎黑人團結的人。\nTR+4   8.2s [AD] 珍妮旁邊站著一個戴著紅臂章的白人。\nTR+5  10.5s WESLEY: 誰是殺嬰兇手？\nTR+6  12.4s JENNY: 這是我的老好朋友。\nTR+6  13.6s JENNY: 這是阿甘。\nTR+7  15.1s JENNY: 阿甘，這是衛斯理。\nTR+8  16.8s JENNY: 我們倆曾在柏克萊一起。\nTR+9  18.6s JENNY: 衛斯理是柏克萊學生爭取民主社會組織的主席。\n════ 本窗結束 ════",
    "time": "60:00.0–60:20.0",
    "label": "10TR 06"
   },
@@ -363,9 +363,9 @@
    "dataset": "FG",
    "film": "forrest",
    "media": null,
-   "text": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】紐約酒吧及加州公寓\n　標註檔：New York｜bar in New York｜bar in New York（int，night）；California｜apartment with mirrored wall｜apartment with mirrored wall（int，night）\n【人物】阿甘、珍妮、丹中尉、卡拉、萊諾爾與其他女子\n　標註檔：FORREST、JENNY、WOMAN\n【前文】丹中尉與卡拉和萊諾爾在紐約的酒吧裡交談，萊諾爾問他是否也覺得跨年夜很美好。\n【後文】珍妮從一個熟睡半裸的男人腳下抽出一件衣服，並在鏡子前看著自己的黑眼圈，隨後從露台門離開公寓。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】71:40.0–72:00.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-9 -18.0s LT. DAN: eh ha ha\nTR-9 -17.1s CARLA: wo bist du gewesen, Babykeks?\nTR-8 -15.6s CARLA: hab dich ja ewig nicht gesehn.\nTR-7 -13.9s CARLA: schade, dass du Weihnachten nicht da warst.\nTR-7 -12.2s CARLA: Tommy hat ne Hausrunde geschmissen und jedem ein Truthahnsandwich geschenkt.\nTR-5  -8.8s LT. DAN: sagen?\nTR-5  -8.4s LT. DAN: ich hatte ... Besuch.\nTR-4  -6.1s LENORE: hey, hey, wir waren, da sind wir gewesen.\nTR-2  -4.0s LENORE: das ist der Times Square.\nTR-2  -2.7s [AD] sie zeigt zum fernseher.\nTR-1  -1.9s LENORE: findest du Silvester auch so schön?\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.4s LENORE: du fängst wieder von vorn an.\nTR+1   2.8s LENORE: jedem steht eine neue Chance zu.\nTR+2   5.3s FORREST (V.O.): es war komisch, aber mitten in dem ganzen Trubel musste ich plötzlich an Jenny denken.\nTR+4   9.9s [AD] die geht durch ein Apartment.\nTR+5  11.0s FORREST (V.O.): ich dachte, was wird sie wohl machen, am Silvesterabend in Kalifornien?\nTR+7  15.5s [AD] auch dort läuft die Übertragung aus New York.\nTR+8  17.6s [AD] Jenny packt eilig Sachen in ihre Handtasche.\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+10  21.0s [AD] Jenny zieht ein Kleidungsstück unter dem Fuß eines schlafenden, halbnackten Mannes hervor.\nTR+12  25.5s [AD] in einem Spiegel hinter dem Bett betrachtet sie ... ihr blaues Auge.\nTR+14  29.6s [AD] sie verlässt das Apartment durch die Terrassentür.",
-   "text_en": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】紐約酒吧及加州公寓\n　標註檔：New York｜bar in New York｜bar in New York（int，night）；California｜apartment with mirrored wall｜apartment with mirrored wall（int，night）\n【人物】阿甘、珍妮、丹中尉、卡拉、萊諾爾與其他女子\n　標註檔：FORREST、JENNY、WOMAN\n【前文】丹中尉與卡拉和萊諾爾在紐約的酒吧裡交談，萊諾爾問他是否也覺得跨年夜很美好。\n【後文】珍妮從一個熟睡半裸的男人腳下抽出一件衣服，並在鏡子前看著自己的黑眼圈，隨後從露台門離開公寓。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】71:40.0–72:00.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-9 -18.0s LT. DAN: eh ha ha\nTR-9 -17.1s CARLA: where have you been, baby cake?\nTR-8 -15.6s CARLA: haven't seen you in forever.\nTR-7 -13.9s CARLA: too bad you weren't here for Christmas.\nTR-7 -12.2s CARLA: Tommy bought a round for the house and gave everyone a turkey sandwich.\nTR-5  -8.8s LT. DAN: say?\nTR-5  -8.4s LT. DAN: I had... visitors.\nTR-4  -6.1s LENORE: hey, hey, we were, that's where we've been.\nTR-2  -4.0s LENORE: this is Times Square.\nTR-2  -2.7s [AD] she points to the television.\nTR-1  -1.9s LENORE: don't you think New Year's Eve is just as wonderful?\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.4s LENORE: you're starting all over again.\nTR+1   2.8s LENORE: everyone deserves a new chance.\nTR+2   5.3s FORREST (V.O.): it was strange, but in the middle of all the hustle and bustle, I suddenly had to think of Jenny.\nTR+4   9.9s [AD] she walks through an apartment.\nTR+5  11.0s FORREST (V.O.): I thought, what could she be doing on New Year's Eve in California?\nTR+7  15.5s [AD] the broadcast from New York is playing there too.\nTR+8  17.6s [AD] Jenny hurriedly packs things into her handbag.\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+10  21.0s [AD] Jenny pulls a piece of clothing out from under the foot of a sleeping, half-naked man.\nTR+12  25.5s [AD] in a mirror behind the bed she looks at... her black eye.\nTR+14  29.6s [AD] she leaves the apartment through the patio door.",
-   "text_zh": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】紐約酒吧及加州公寓\n　標註檔：New York｜bar in New York｜bar in New York（int，night）；California｜apartment with mirrored wall｜apartment with mirrored wall（int，night）\n【人物】阿甘、珍妮、丹中尉、卡拉、萊諾爾與其他女子\n　標註檔：FORREST、JENNY、WOMAN\n【前文】丹中尉與卡拉和萊諾爾在紐約的酒吧裡交談，萊諾爾問他是否也覺得跨年夜很美好。\n【後文】珍妮從一個熟睡半裸的男人腳下抽出一件衣服，並在鏡子前看著自己的黑眼圈，隨後從露台門離開公寓。\n（摘要由 Gemini 依前後各 10 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】71:40.0–72:00.0，10 TR（電影時間）\n\n──── 前 10 TR ────\nTR-9 -18.0s LT. DAN: 呃哈哈\nTR-9 -17.1s CARLA: 你去了哪裡，小甜餅？\nTR-8 -15.6s CARLA: 好久不見你了。\nTR-7 -13.9s CARLA: 真可惜你聖誕節不在。\nTR-7 -12.2s CARLA: 湯米請了大家喝酒，還送了每人一個火雞三明治。\nTR-5  -8.8s LT. DAN: 說？\nTR-5  -8.4s LT. DAN: 我有……訪客。\nTR-4  -6.1s LENORE: 嘿，嘿，我們去過，我們就在那裡。\nTR-2  -4.0s LENORE: 這裡是時代廣場。\nTR-2  -2.7s [AD] 她指著電視。\nTR-1  -1.9s LENORE: 你不覺得除夕夜也一樣美好嗎？\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.4s LENORE: 你又要重新開始了。\nTR+1   2.8s LENORE: 每個人都應得一次全新的機會。\nTR+2   5.3s FORREST (V.O.): 這很奇怪，但在這紛擾之中，我突然想到了珍妮。\nTR+4   9.9s [AD] 她穿過一間公寓。\nTR+5  11.0s FORREST (V.O.): 我想，她在加州的除夕夜會是在做什麼呢？\nTR+7  15.5s [AD] 那裡也在轉播來自紐約的節目。\nTR+8  17.6s [AD] 珍妮匆忙地把東西塞進手提包裡。\n════ 本窗結束 ════\n\n──── 後 10 TR ────\nTR+10  21.0s [AD] 珍妮從一個正在睡覺、半裸的男人的腳下抽出一件衣服。\nTR+12  25.5s [AD] 在床後面的鏡子裡，她看著……她被打傷的黑眼圈。\nTR+14  29.6s [AD] 她從露台的門離開了公寓。",
+   "text": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】紐約的酒吧\n　標註檔：New York｜bar in New York｜bar in New York（int，night）；California｜apartment with mirrored wall｜apartment with mirrored wall（int，night）\n【人物】阿甘、丹中尉、卡拉、萊諾，彼此為酒吧裡的相識關係\n　標註檔：FORREST、JENNY、WOMAN\n【前 20 TR 摘要】丹中尉嘲笑阿甘成為捕蝦船長的事，接著兩名女子卡拉與萊諾加入對話。卡拉詢問阿甘的近況並提及聖誕節的事，丹中尉則回應自己有訪客。最後萊諾指向電視機，問阿甘是否也覺得跨年夜很美好。\n【後 20 TR 摘要】珍妮從一個半裸睡著的男人腳下抽出一件衣服，並在床後的鏡子里看著自己臉上的黑眼圈，隨後透過露台門離開了公寓。之後鏡頭回到紐約酒吧，眾人倒數迎接新年，電視上顯示1972年。阿甘戴著派對帽，周圍的人撒著紙屑，卡拉和萊諾親吻阿甘的臉頰，丹中尉則神情沮喪地看著前方。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】71:40.0–72:00.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.4s LENORE: du fängst wieder von vorn an.\nTR+1   2.8s LENORE: jedem steht eine neue Chance zu.\nTR+2   5.3s FORREST (V.O.): es war komisch, aber mitten in dem ganzen Trubel musste ich plötzlich an Jenny denken.\nTR+4   9.9s [AD] die geht durch ein Apartment.\nTR+5  11.0s FORREST (V.O.): ich dachte, was wird sie wohl machen, am Silvesterabend in Kalifornien?\nTR+7  15.5s [AD] auch dort läuft die Übertragung aus New York.\nTR+8  17.6s [AD] Jenny packt eilig Sachen in ihre Handtasche.\n════ 本窗結束 ════",
+   "text_en": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】紐約的酒吧\n　標註檔：New York｜bar in New York｜bar in New York（int，night）；California｜apartment with mirrored wall｜apartment with mirrored wall（int，night）\n【人物】阿甘、丹中尉、卡拉、萊諾，彼此為酒吧裡的相識關係\n　標註檔：FORREST、JENNY、WOMAN\n【前 20 TR 摘要】丹中尉嘲笑阿甘成為捕蝦船長的事，接著兩名女子卡拉與萊諾加入對話。卡拉詢問阿甘的近況並提及聖誕節的事，丹中尉則回應自己有訪客。最後萊諾指向電視機，問阿甘是否也覺得跨年夜很美好。\n【後 20 TR 摘要】珍妮從一個半裸睡著的男人腳下抽出一件衣服，並在床後的鏡子里看著自己臉上的黑眼圈，隨後透過露台門離開了公寓。之後鏡頭回到紐約酒吧，眾人倒數迎接新年，電視上顯示1972年。阿甘戴著派對帽，周圍的人撒著紙屑，卡拉和萊諾親吻阿甘的臉頰，丹中尉則神情沮喪地看著前方。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】71:40.0–72:00.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.4s LENORE: you are starting all over again.\nTR+1   2.8s LENORE: everyone deserves a new chance.\nTR+2   5.3s FORREST (V.O.): it was funny, but in the middle of all that commotion, I suddenly had to think of Jenny.\nTR+4   9.9s [AD] she is walking through an apartment.\nTR+5  11.0s FORREST (V.O.): I wondered what she might be doing on New Year's Eve in California?\nTR+7  15.5s [AD] the broadcast from New York is playing there too.\nTR+8  17.6s [AD] Jenny hurriedly packs things into her handbag.\n════ 本窗結束 ════",
+   "text_zh": "【時間】夜晚\n　標註檔：前後 10 TR 內無跳躍\n【場景】紐約的酒吧\n　標註檔：New York｜bar in New York｜bar in New York（int，night）；California｜apartment with mirrored wall｜apartment with mirrored wall（int，night）\n【人物】阿甘、丹中尉、卡拉、萊諾，彼此為酒吧裡的相識關係\n　標註檔：FORREST、JENNY、WOMAN\n【前 20 TR 摘要】丹中尉嘲笑阿甘成為捕蝦船長的事，接著兩名女子卡拉與萊諾加入對話。卡拉詢問阿甘的近況並提及聖誕節的事，丹中尉則回應自己有訪客。最後萊諾指向電視機，問阿甘是否也覺得跨年夜很美好。\n【後 20 TR 摘要】珍妮從一個半裸睡著的男人腳下抽出一件衣服，並在床後的鏡子里看著自己臉上的黑眼圈，隨後透過露台門離開了公寓。之後鏡頭回到紐約酒吧，眾人倒數迎接新年，電視上顯示1972年。阿甘戴著派對帽，周圍的人撒著紙屑，卡拉和萊諾親吻阿甘的臉頰，丹中尉則神情沮喪地看著前方。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】71:40.0–72:00.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.4s LENORE: 你又要重新開始了。\nTR+1   2.8s LENORE: 每個人都值得擁有一個新機會。\nTR+2   5.3s FORREST (V.O.): 這很奇怪，但在那一團混亂之中，我突然想起了珍妮。\nTR+4   9.9s [AD] 她正走過一間公寓。\nTR+5  11.0s FORREST (V.O.): 我想知道她在加州的跨年夜會是在做什麼？\nTR+7  15.5s [AD] 那裡也在轉播來自紐約的節目。\nTR+8  17.6s [AD] 珍妮匆忙地把東西塞進她的手提包裡。\n════ 本窗結束 ════",
    "time": "71:40.0–72:00.0",
    "label": "10TR 07"
   },
@@ -374,9 +374,9 @@
    "dataset": "FG",
    "film": "forrest",
    "media": null,
-   "text": "【時間】白天，與前一場景為同一天\n　標註檔：90:29.9 起：大幅時間跳躍（數小時至數年）\n【場景】阿甘宅邸花園\n　標註檔：Gump property｜Gump House｜garden（ext，day）\n【人物】阿甘與珍妮在花園相遇\n　標註檔：FORREST、JENNY\n【前文】珍妮走上草坪接近阿甘，阿甘從割草機上下來，走向珍妮並停下腳步。\n【後文】珍妮抱住阿甘的脖子，隨後兩人擁抱並一起待在家中。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】90:00.0–90:20.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-38 -74.9s [AD] sie wird durchsichtig ... und verschwindet.\nTR-36 -70.2s [AD] bedrückt dreht sich Forrest weg.\nTR-33 -65.2s [AD] er schlurft zur Tür, ...\nTR-31 -60.1s [AD] ... und geht zögernd zurück ins Haus.\nTR-26 -50.8s [AD] es ist Tag.\nTR-25 -49.7s [AD] neben seinem Haus sitzt Forrest auf dem kleinen Mäher und mäht die große Wiese.\nTR-21 -40.8s [AD] er zieht eine schnurgerade Bahn.\nTR-19 -36.2s [AD] die Wiese grenzt an den Fluss, der von Bäumen gesäumt ist.\nTR-16 -30.1s [AD] von der Zufahrt kommt ... Jenny auf den Rasen.\nTR-13 -24.8s [AD] sie geht am Baum mit der Schaukel vorbei auf Forrest zu.\nTR-11 -21.7s FORREST (V.O.): und dann ... war sie da.\nTR-7 -12.5s [AD] langsam nähert sich Jenny.\nTR-5  -8.2s [AD] Forrest steigt ab.\nTR-4  -6.8s [AD] ungläubig geht er ihr ein paar Schritte entgegen und hält an.\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.2s [AD] er eilt auf Jenny zu.\nTR+4   9.8s [AD] mit etwas Abstand bleiben die beiden voreinander stehen.\nTR+6  13.0s JENNY: hallo, Forrest!\nTR+7  15.1s FORREST: hallo, Jenny!\nTR+8  16.9s [AD] sie fällt ihm um den Hals.\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+11  23.8s [AD] zögernd legt auch er seine Arme um sie.\nTR+13  27.1s FORREST (V.O.): Jenny war wieder da.\nTR+14  28.6s FORREST (V.O.): und sie blieb bei mir.\nTR+14  29.6s [AD] es ist Tag.\nTR+15  30.0s [AD] sie schläft.\nTR+15  30.7s FORREST (V.O.): vielleicht kam das daher, weil sie nicht wusste, wo sie sonst hingehen sollte.\nTR+17  34.6s FORREST (V.O.): oder auch deshalb, weil sie so müde war.\nTR+18  37.5s FORREST (V.O.): denn sie ging ins Bett und schlief und schlief.\nTR+20  40.8s FORREST (V.O.): so, als ob sie seit Jahren nicht geschlafen hätte.\nTR+21  43.5s FORREST (V.O.): es war wunderbar, sie zu Hause zu haben.\nTR+22  45.7s [AD] sie schlendern über eine Wiese.\nTR+23  47.2s FORREST (V.O.): wir machten jeden Tag einen Spaziergang und ich habe geplappert wie ein Äffchen.\nTR+25  51.9s FORREST (V.O.): sie hat sich alles angehört vom Pingpong spielen vom Shrimpfischen und von Mamas Reise in den Himmel.\nTR+28  57.2s FORREST (V.O.): die meiste Zeit hab ich allein geredet.\nTR+29  59.6s FORREST (V.O.): Jenny war eigentlich richtig still.\nTR+30  61.9s FORREST: dann Regen\nTR+32  64.9s FORREST (V.O.): eigentlich habe ich nie erfahren, warum sie zurückgekommen war.\nTR+34  68.5s FORREST (V.O.): aber es war mir auch egal, es war wie früher.\nTR+35  71.2s FORREST (V.O.): wir waren wieder wie Pech und Schwefel.\nTR+36  73.8s [AD] sie sitzen nebeneinander auf der Eiche.\nTR+37  75.7s FORREST (V.O.): jeden Tag hab ich schöne Blumen gepflückt und sie in ihr Zimmer gestellt.\nTR+39  79.0s [AD] melancholisch betrachtet Jenny die Rosen.\nTR+40  81.5s FORREST (V.O.): und sie machte mir das schönste Geschenk, das man sich vorstellen kann.\nTR+42  85.3s JENNY: das sind Spezialschuhe für Läufer.\nTR+43  86.9s [AD] die Nike-Schuhe, die er auf der Wartebank trägt.\nTR+44  89.4s [AD] durch strömenden Regen fällt der Blick auf die beiden hinter einem Fenster.\nTR+46  92.3s FORREST (V.O.): sie hat mir sogar das Tanzen beigebracht.\nTR+47  95.0s [AD] Jenny dreht sich unter seinem Arm durch.\nTR+48  97.1s [AD] Forrest wippt auf der Stelle und schwingt ausgelassen die Arme.",
-   "text_en": "【時間】白天，與前一場景為同一天\n　標註檔：90:29.9 起：大幅時間跳躍（數小時至數年）\n【場景】阿甘宅邸花園\n　標註檔：Gump property｜Gump House｜garden（ext，day）\n【人物】阿甘與珍妮在花園相遇\n　標註檔：FORREST、JENNY\n【前文】珍妮走上草坪接近阿甘，阿甘從割草機上下來，走向珍妮並停下腳步。\n【後文】珍妮抱住阿甘的脖子，隨後兩人擁抱並一起待在家中。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】90:00.0–90:20.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-38 -74.9s [AD] she becomes transparent ... and disappears.\nTR-36 -70.2s [AD] looking dejected, Forrest turns away.\nTR-33 -65.2s [AD] he shuffles toward the door, ...\nTR-31 -60.1s [AD] ... and hesitatingly goes back into the house.\nTR-26 -50.8s [AD] it is daytime.\nTR-25 -49.7s [AD] next to his house, Forrest sits on the small mower and mows the large meadow.\nTR-21 -40.8s [AD] he mows a perfectly straight path.\nTR-19 -36.2s [AD] the meadow borders the river, which is lined with trees.\nTR-16 -30.1s [AD] from the driveway ... Jenny comes onto the lawn.\nTR-13 -24.8s [AD] she walks past the tree with the swing toward Forrest.\nTR-11 -21.7s FORREST (V.O.): and then ... she was there.\nTR-7 -12.5s [AD] slowly, Jenny approaches.\nTR-5  -8.2s [AD] Forrest gets off.\nTR-4  -6.8s [AD] in disbelief, he takes a few steps toward her and stops.\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.2s [AD] he hurries toward Jenny.\nTR+4   9.8s [AD] stopping a short distance apart, the two stand facing each other.\nTR+6  13.0s JENNY: hello, Forrest!\nTR+7  15.1s FORREST: hello, Jenny!\nTR+8  16.9s [AD] she throws her arms around his neck.\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+11  23.8s [AD] hesitatingly, he also puts his arms around her.\nTR+13  27.1s FORREST (V.O.): Jenny was back again.\nTR+14  28.6s FORREST (V.O.): and she stayed with me.\nTR+14  29.6s [AD] it is daytime.\nTR+15  30.0s [AD] she is sleeping.\nTR+15  30.7s FORREST (V.O.): maybe that was because she didn't know where else to go.\nTR+17  34.6s FORREST (V.O.): or also because she was so tired.\nTR+18  37.5s FORREST (V.O.): because she went to bed and slept and slept.\nTR+20  40.8s FORREST (V.O.): just as if she hadn't slept for years.\nTR+21  43.5s FORREST (V.O.): it was wonderful to have her at home.\nTR+22  45.7s [AD] they stroll across a meadow.\nTR+23  47.2s FORREST (V.O.): we took a walk every day and I chattered away like a little monkey.\nTR+25  51.9s FORREST (V.O.): she listened to everything about playing ping-pong, shrimp fishing, and Mama's journey to heaven.\nTR+28  57.2s FORREST (V.O.): most of the time I talked alone.\nTR+29  59.6s FORREST (V.O.): Jenny was actually really quiet.\nTR+30  61.9s FORREST: then rain.\nTR+32  64.9s FORREST (V.O.): actually, I never found out why she had come back.\nTR+34  68.5s FORREST (V.O.): but I didn't care either, it was just like old times.\nTR+35  71.2s FORREST (V.O.): we were thick as thieves again.\nTR+36  73.8s [AD] they sit next to each other on the oak tree.\nTR+37  75.7s FORREST (V.O.): every day I picked pretty flowers and put them in her room.\nTR+39  79.0s [AD] melancholically, Jenny looks at the roses.\nTR+40  81.5s FORREST (V.O.): and she gave me the most wonderful gift one can imagine.\nTR+42  85.3s JENNY: these are special shoes for runners.\nTR+43  86.9s [AD] the Nike shoes he wears on the bench.\nTR+44  89.4s [AD] through pouring rain, the gaze falls on the two behind a window.\nTR+46  92.3s FORREST (V.O.): she even taught me how to dance.\nTR+47  95.0s [AD] Jenny twirls under his arm.\nTR+48  97.1s [AD] Forrest bobs on the spot and exuberantly swings his arms.",
-   "text_zh": "【時間】白天，與前一場景為同一天\n　標註檔：90:29.9 起：大幅時間跳躍（數小時至數年）\n【場景】阿甘宅邸花園\n　標註檔：Gump property｜Gump House｜garden（ext，day）\n【人物】阿甘與珍妮在花園相遇\n　標註檔：FORREST、JENNY\n【前文】珍妮走上草坪接近阿甘，阿甘從割草機上下來，走向珍妮並停下腳步。\n【後文】珍妮抱住阿甘的脖子，隨後兩人擁抱並一起待在家中。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】90:00.0–90:20.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-38 -74.9s [AD] 她變透明了……然後消失了。\nTR-36 -70.2s [AD] 阿甘神情沮喪地轉過身去。\nTR-33 -65.2s [AD] 他拖著腳步走向門口，……\nTR-31 -60.1s [AD] ……然後猶豫著走回屋子裡。\nTR-26 -50.8s [AD] 那是白天。\nTR-25 -49.7s [AD] 在房子旁邊，阿甘坐在小型除草機上修剪大片草地。\nTR-21 -40.8s [AD] 他開出一條筆直的草道。\nTR-19 -36.2s [AD] 草地緊鄰著河邊，河畔長滿了樹木。\nTR-16 -30.1s [AD] 從車道那邊……珍妮走到了草坪上。\nTR-13 -24.8s [AD] 她走過有鞦韆的樹，朝阿甘走去。\nTR-11 -21.7s FORREST (V.O.): 然後……她就在那裡了。\nTR-7 -12.5s [AD] 珍妮緩緩走近。\nTR-5  -8.2s [AD] 阿甘從車上下來。\nTR-4  -6.8s [AD] 他難以置信地朝她走了幾步，然後停下。\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.2s [AD] 他快步走向珍妮。\nTR+4   9.8s [AD] 兩人保持著一些距離，面對面站著。\nTR+6  13.0s JENNY: 哈囉，阿甘！\nTR+7  15.1s FORREST: 哈囉，珍妮！\nTR+8  16.9s [AD] 她撲進他懷裡勾住他的脖子。\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+11  23.8s [AD] 他猶豫了一下，也伸出雙臂抱住她。\nTR+13  27.1s FORREST (V.O.): 珍妮又回來了。\nTR+14  28.6s FORREST (V.O.): 而且她留在我身邊。\nTR+14  29.6s [AD] 那是白天。\nTR+15  30.0s [AD] 她在睡覺。\nTR+15  30.7s FORREST (V.O.): 也許是因為她不知道自己還能去哪裡。\nTR+17  34.6s FORREST (V.O.): 或者也是因為她實在太累了。\nTR+18  37.5s FORREST (V.O.): 因為她上床一直睡覺、一直睡覺。\nTR+20  40.8s FORREST (V.O.): 就像她已經好幾年沒睡過覺一樣。\nTR+21  43.5s FORREST (V.O.): 家裡有她在，真是太棒了。\nTR+22  45.7s [AD] 他們漫步走過草地。\nTR+23  47.2s FORREST (V.O.): 我們每天都去散步，我像個小猴子一樣喋喋不休。\nTR+25  51.9s FORREST (V.O.): 她聽我講了所有關於打乒乓球、捕蝦以及媽媽去天堂的事。\nTR+28  57.2s FORREST (V.O.): 大多數時候都是我自己一個人說話。\nTR+29  59.6s FORREST (V.O.): 珍妮其實非常安靜。\nTR+30  61.9s FORREST: 接著下雨了。\nTR+32  64.9s FORREST (V.O.): 其實我從來沒問過她為什麼回來。\nTR+34  68.5s FORREST (V.O.): 但我也不在乎，一切就像以前一樣。\nTR+35  71.2s FORREST (V.O.): 我們又像過去一樣形影不離。\nTR+36  73.8s [AD] 他們並肩坐在橡樹上。\nTR+37  75.7s FORREST (V.O.): 我每天都摘漂亮的鮮花放到她的房間裡。\nTR+39  79.0s [AD] 珍妮神情落寞地看著玫瑰花。\nTR+40  81.5s FORREST (V.O.): 而她給了我所能想像到的最美妙的禮物。\nTR+42  85.3s JENNY: 這是為跑步者設計的特製鞋。\nTR+43  86.9s [AD] 他在長椅上穿的那雙耐克鞋。\nTR+44  89.4s [AD] 透過傾盆大雨，視線落在窗戶後面的兩個人身上。\nTR+46  92.3s FORREST (V.O.): 她甚至教我跳舞。\nTR+47  95.0s [AD] 珍妮從他的手臂下方轉身穿過。\nTR+48  97.1s [AD] 阿甘在原地上下晃動著身體，興高采烈地揮舞著手臂。",
+   "text": "【時間】白天\n　標註檔：90:29.9 起：大幅時間跳躍（數小時至數年）\n【場景】甘 宅的花園\n　標註檔：Gump property｜Gump House｜garden（ext，day）\n【人物】阿甘與珍妮，兩人是故 舊關係\n　標註檔：FORREST、JENNY\n【前 40 TR 摘要】珍妮的幻影消失後，阿甘神情低落走回屋內。隨後時間來到白天，阿甘正在屋外駕駛小型除草機修剪草 坪。不久，珍妮從車道走向草地，並朝阿甘的方向走去。阿甘見狀便從除草機上下來，難以置信地向前走了幾步後停下。\n【後 40 TR 摘要】阿甘猶豫地將雙臂環抱住珍ini，並在旁白中表示珍妮回來了且留在他身邊。隨後珍妮在屋內睡覺，醒來後兩人每天在草地上散步，阿甘滔滔不絕地向她訴說各種經歷。之後兩人坐在橡樹旁，阿甘每天採花放在珍妮房內，珍妮則送他一雙跑鞋。最後阿甘提到珍妮教他跳舞，兩人開心地互動。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】90:00.0–90:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.2s [AD] er eilt auf Jenny zu.\nTR+4   9.8s [AD] mit etwas Abstand bleiben die beiden voreinander stehen.\nTR+6  13.0s JENNY: hallo, Forrest!\nTR+7  15.1s FORREST: hallo, Jenny!\nTR+8  16.9s [AD] sie fällt ihm um den Hals.\n════ 本窗結束 ════",
+   "text_en": "【時間】白天\n　標註檔：90:29.9 起：大幅時間跳躍（數小時至數年）\n【場景】甘 宅的花園\n　標註檔：Gump property｜Gump House｜garden（ext，day）\n【人物】阿甘與珍妮，兩人是故 舊關係\n　標註檔：FORREST、JENNY\n【前 40 TR 摘要】珍妮的幻影消失後，阿甘神情低落走回屋內。隨後時間來到白天，阿甘正在屋外駕駛小型除草機修剪草 坪。不久，珍妮從車道走向草地，並朝阿甘的方向走去。阿甘見狀便從除草機上下來，難以置信地向前走了幾步後停下。\n【後 40 TR 摘要】阿甘猶豫地將雙臂環抱住珍ini，並在旁白中表示珍妮回來了且留在他身邊。隨後珍妮在屋內睡覺，醒來後兩人每天在草地上散步，阿甘滔滔不絕地向她訴說各種經歷。之後兩人坐在橡樹旁，阿甘每天採花放在珍妮房內，珍妮則送他一雙跑鞋。最後阿甘提到珍妮教他跳舞，兩人開心地互動。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】90:00.0–90:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.2s [AD] he hurries toward Jenny.\nTR+4   9.8s [AD] keeping some distance, the two stand facing each other.\nTR+6  13.0s JENNY: hello, Forrest!\nTR+7  15.1s FORREST: hello, Jenny!\nTR+8  16.9s [AD] she throws her arms around his neck.\n════ 本窗結束 ════",
+   "text_zh": "【時間】白天\n　標註檔：90:29.9 起：大幅時間跳躍（數小時至數年）\n【場景】甘 宅的花園\n　標註檔：Gump property｜Gump House｜garden（ext，day）\n【人物】阿甘與珍妮，兩人是故 舊關係\n　標註檔：FORREST、JENNY\n【前 40 TR 摘要】珍妮的幻影消失後，阿甘神情低落走回屋內。隨後時間來到白天，阿甘正在屋外駕駛小型除草機修剪草 坪。不久，珍妮從車道走向草地，並朝阿甘的方向走去。阿甘見狀便從除草機上下來，難以置信地向前走了幾步後停下。\n【後 40 TR 摘要】阿甘猶豫地將雙臂環抱住珍ini，並在旁白中表示珍妮回來了且留在他身邊。隨後珍妮在屋內睡覺，醒來後兩人每天在草地上散步，阿甘滔滔不絕地向她訴說各種經歷。之後兩人坐在橡樹旁，阿甘每天採花放在珍妮房內，珍妮則送他一雙跑鞋。最後阿甘提到珍妮教他跳舞，兩人開心地互動。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】90:00.0–90:20.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.2s [AD] 他急忙朝珍妮跑去。\nTR+4   9.8s [AD] 兩人保持著一些距離相對而立。\nTR+6  13.0s JENNY: 哈囉，阿甘！\nTR+7  15.1s FORREST: 哈囉，珍妮！\nTR+8  16.9s [AD] 她緊緊抱住他的脖子。\n════ 本窗結束 ════",
    "time": "90:00.0–90:20.0",
    "label": "10TR 08"
   },
@@ -385,9 +385,9 @@
    "dataset": "FG",
    "film": "forrest",
    "media": null,
-   "text": "【時間】白天\n　標註檔：103:20.1 起：時間跳躍（數秒至約兩小時）\n【場景】薩凡納，珍妮的公寓內\n　標註檔：Savannah｜Jenny's apartment｜Jenny's apartment（int，day）\n【人物】阿甘與珍妮兩人共處在珍妮的公寓中，彼此為舊識關係。\n　標註檔：FORREST、JENNY\n【前文】珍妮開門迎接抵達的阿甘，兩人擁抱並互相問候，隨後阿甘進入屋內並參觀環境。\n【後文】珍妮展示一本收集了他跑步新聞剪報的相簿，阿甘則提到自己跑了很遠的距離。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】103:40.0–104:00.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-38 -75.9s NEWSCASTER: der Präsident wurde in die Brust getroffen.\nTR-37 -73.8s [AD] bei Forrest\nTR-37 -73.1s [AD] Louise\nTR-37 -72.6s LOUISE: ich hab die Post geholt.\nTR-36 -70.9s FORREST (V.O.): und dann eines Tages, aus heiterem Himmel, bekam ich von Jenny einen Brief.\nTR-34 -66.2s FORREST: sie fragte mich, ob ich vielleicht nach, äh, Savannah fahren könnte, zu ihr.\nTR-32 -62.1s FORREST: deswegen bin ich jetzt hier.\nTR-30 -59.4s FORREST: sie hat mich im Fernsehen gesehen, laufen.\nTR-29 -56.8s FORREST: sie meint, ich, ... ich soll den neuner Bus nehmen zur Richmond Street, aussteigen und einen Block weitergehen nach links zur Henry Street eins, neun, vier, sieben, Apartment vier.\nTR-23 -46.0s ELDERLY WOMAN: naja, da brauchen Sie doch nicht in den Bus zu steigen.\nTR-22 -42.4s ELDERLY WOMAN: die Henry Street ist nur fünf oder sechs Blocks weiter.\nTR-20 -38.8s ELDERLY WOMAN: einfach da runter\nTR-19 -37.6s [AD] sie zeigt über die Straße.\nTR-19 -36.3s FORREST: einfach da runter?\nTR-18 -35.6s ELDERLY WOMAN: einfach da runter\nTR-18 -34.5s [AD] er nimmt ihr den Brief ab und rennt mit Pralinenschachtel und Koffer ...\nTR-16 -31.6s FORREST: vielen Dank für die unterhaltung\nTR-15 -30.0s [AD] ... auf die Straße.\nTR-13 -25.8s [AD] Forrest hetzt weiter.\nTR-11 -21.5s [AD] Jenny öffnet ihre Wohnungstür.\nTR-10 -18.3s JENNY: hech\nTR-9 -17.9s JENNY: hey!\nTR-9 -16.6s JENNY: Forrest\nTR-8 -15.6s [AD] sie umarmt ihn.\nTR-8 -14.4s JENNY: na, wie gehts dir?\nTR-7 -12.7s JENNY: komm rein! komm rein!\nTR-6 -11.3s FORREST: ich hab deinen Brief gekriegt.\nTR-6 -10.1s JENNY: ah, ich hatte mich schon gewundert.\nTR-5  -8.4s [AD] Jenny hat eine nackenlange Föhnfrisur.\nTR-4  -6.0s FORREST: hier wohnst du also.\nTR-3  -4.3s JENNY: ja, es ist nicht besonders ordentlich.\nTR-2  -2.6s JENNY: ich war arbeiten.\nTR-1  -1.3s FORREST: es ist sehr nett.\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s FORREST: und eine Klimaanlage hast du ja auch.\nTR+1   2.8s [AD] sie trägt noch ihr türkisfarbenes Kellnerinnenkleid.\nTR+2   5.7s FORREST: och\nTR+3   6.8s [AD] Forrest gibt ihr die Schachtel.\nTR+4   9.0s JENNY: vielen Dank!\nTR+4   9.9s FORREST: ich ... hab welche gegessen.\nTR+6  13.6s JENNY: ach, ich hab ein, ...ich hab ein Album gemacht mit Zeitungsausschnitten von dir.\nTR+9  18.1s JENNY: von allem möglichen\nTR+9  19.5s JENNY: da bist du\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+10  20.1s FORREST: ah\nTR+10  20.6s JENNY: ja, das bist du.\nTR+10  21.6s [AD] auf den Covern\nTR+11  22.3s JENNY: wie du läufst\nTR+11  23.3s [AD] ... von Runners World und vom National Enquirer\nTR+12  25.3s FORREST: ich, äch, ich bin sehr weit gelaufen.\nTR+14  28.7s FORREST: hab mir viel zeit genommen.\nTR+15  30.1s [AD] Jenny schaut ins Album.\nTR+15  31.3s [AD] Forrest betrachtet sie.\nTR+16  32.7s JENNY: hier\nTR+17  35.2s [AD] sie klappt das Album zu.\nTR+19  38.1s JENNY: huch\nTR+20  40.2s JENNY: uaech\nTR+20  40.6s JENNY: Forrest ich weiß nicht, wie ich das ausdrücken soll.\nTR+23  46.3s JENNY: ich, äh, ... ich wollte mich für alles entschuldigen, was ich dir angetan habe.\nTR+25  50.2s JENNY: ... weil, äh, ...\nTR+26  52.4s JENNY: ich meine, ich war, ... ich war ziemlich kaputt und ...\nTR+28  56.4s [AD] eine Frau bringt einen Jungen.\nTR+28  57.8s JENNY: hey\nTR+29  58.6s JENNY: hallo!\nTR+30  60.0s JENNY: na, du?\nTR+30  60.8s [AD] sie hebt ihn hoch.\nTR+30  61.5s JENNY: das ist mein alter Freund aus Alabama\nTR+31  63.3s LYNN MARIE: ah\nTR+31  63.7s LYNN MARIE: hallo!\nTR+32  64.1s LYNN MARIE: guten Tag!\nTR+32  64.6s JENNY: ach, äh, nächste Woche hab ich einen anderen Dienstplan.\nTR+33  66.5s JENNY: da kann ich ihn selbst ab ...\nTR+33  67.7s LYNN MARIE: aber hab ich doch gern gemacht.\nTR+34  68.9s LYNN MARIE: ich muss los.\nTR+34  69.4s JENNY: ich steh in der zweiten Reihe.\nTR+35  70.6s JENNY: danke\nTR+35  71.9s [AD] sie geht mit dem blonden Jungen auf dem Arm zu Forrest.\nTR+37  74.8s JENNY: das ist mein sehr guter Freund, Mister Gump.\nTR+38  76.5s JENNY: sagst du guten Tag zu ihm?\nTR+38  77.7s FORREST JR.: hallo, Mister Gump!\nTR+39  79.3s FORREST: hallo\nTR+40  80.5s FORREST JR.: kann ich jetzt Fernsehen gehen?\nTR+41  82.1s JENNY: ja, kannst du.\nTR+41  82.6s JENNY: aber nicht so laut, ja?\nTR+41  83.8s [AD] er läuft ins Kinderzimmer.\nTR+43  86.1s FORREST: du bist eine Mama, Jenny.\nTR+44  88.1s JENNY: ich bin eine Mama.\nTR+46  92.2s JENNY: sein Name ist Forrest.\nTR+47  95.0s FORREST: er heißt wie ich.\nTR+48  97.9s JENNY: es ist der Name seines Daddys.",
-   "text_en": "【時間】白天\n　標註檔：103:20.1 起：時間跳躍（數秒至約兩小時）\n【場景】薩凡納，珍妮的公寓內\n　標註檔：Savannah｜Jenny's apartment｜Jenny's apartment（int，day）\n【人物】阿甘與珍妮兩人共處在珍妮的公寓中，彼此為舊識關係。\n　標註檔：FORREST、JENNY\n【前文】珍妮開門迎接抵達的阿甘，兩人擁抱並互相問候，隨後阿甘進入屋內並參觀環境。\n【後文】珍妮展示一本收集了他跑步新聞剪報的相簿，阿甘則提到自己跑了很遠的距離。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】103:40.0–104:00.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-38 -75.9s NEWSCASTER: the President was hit in the chest.\nTR-37 -73.8s [AD] for Forrest\nTR-37 -73.1s [AD] Louise\nTR-37 -72.6s LOUISE: I got the mail.\nTR-36 -70.9s FORREST (V.O.): and then one day, out of the blue, I got a letter from Jenny.\nTR-34 -66.2s FORREST: she asked me if I could maybe go to, uh, Savannah, to her.\nTR-32 -62.1s FORREST: that's why I'm here now.\nTR-30 -59.4s FORREST: she saw me on TV, running.\nTR-29 -56.8s FORREST: she says I, ... I should take the number 9 bus to Richmond Street, get off and walk one block left to Henry Street 1947, apartment 4.\nTR-23 -46.0s ELDERLY WOMAN: well, you don't need to take the bus for that.\nTR-22 -42.4s ELDERLY WOMAN: Henry Street is only five or six blocks further.\nTR-20 -38.8s ELDERLY WOMAN: just down there\nTR-19 -37.6s [AD] she points across the street.\nTR-19 -36.3s FORREST: just down there?\nTR-18 -35.6s ELDERLY WOMAN: just down there\nTR-18 -34.5s [AD] he takes the letter from her and runs with the box of chocolates and suitcase ...\nTR-16 -31.6s FORREST: thank you very much for the entertainment\nTR-15 -30.0s [AD] ... into the street.\nTR-13 -25.8s [AD] Forrest hurries on.\nTR-11 -21.5s [AD] Jenny opens her apartment door.\nTR-10 -18.3s JENNY: pant\nTR-9 -17.9s JENNY: hey!\nTR-9 -16.6s JENNY: Forrest\nTR-8 -15.6s [AD] she hugs him.\nTR-8 -14.4s JENNY: well, how are you?\nTR-7 -12.7s JENNY: come in! come in!\nTR-6 -11.3s FORREST: I got your letter.\nTR-6 -10.1s JENNY: ah, I was already wondering.\nTR-5  -8.4s [AD] Jenny has a neck-length blow-dried hairstyle.\nTR-4  -6.0s FORREST: so this is where you live.\nTR-3  -4.3s JENNY: yeah, it's not particularly tidy.\nTR-2  -2.6s JENNY: I was working.\nTR-1  -1.3s FORREST: it's very nice.\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s FORREST: and you even have air conditioning.\nTR+1   2.8s [AD] she is still wearing her turquoise waitress dress.\nTR+2   5.7s FORREST: oh\nTR+3   6.8s [AD] Forrest gives her the box.\nTR+4   9.0s JENNY: thank you very much!\nTR+4   9.9s FORREST: I ... ate some.\nTR+6  13.6s JENNY: oh, I made a, ... I made an album with newspaper clippings of you.\nTR+9  18.1s JENNY: of all sorts of things\nTR+9  19.5s JENNY: there you are\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+10  20.1s FORREST: ah\nTR+10  20.6s JENNY: yes, that's you.\nTR+10  21.6s [AD] on the covers\nTR+11  22.3s JENNY: how you run\nTR+11  23.3s [AD] ... from Runner's World and the National Enquirer\nTR+12  25.3s FORREST: I, uh, I ran very far.\nTR+14  28.7s FORREST: took my time.\nTR+15  30.1s [AD] Jenny looks into the album.\nTR+15  31.3s [AD] Forrest looks at her.\nTR+16  32.7s JENNY: here\nTR+17  35.2s [AD] she closes the album.\nTR+19  38.1s JENNY: whoops\nTR+20  40.2s JENNY: ugh\nTR+20  40.6s JENNY: Forrest I don't know how to put this.\nTR+23  46.3s JENNY: I, uh, ... I wanted to apologize for everything I did to you.\nTR+25  50.2s JENNY: ... because, uh, ...\nTR+26  52.4s JENNY: I mean, I was, ... I was pretty messed up and ...\nTR+28  56.4s [AD] a woman brings a boy.\nTR+28  57.8s JENNY: hey\nTR+29  58.6s JENNY: hello!\nTR+30  60.0s JENNY: well, you?\nTR+30  60.8s [AD] she lifts him up.\nTR+30  61.5s JENNY: this is my old friend from Alabama\nTR+31  63.3s LYNN MARIE: ah\nTR+31  63.7s LYNN MARIE: hello!\nTR+32  64.1s LYNN MARIE: good day!\nTR+32  64.6s JENNY: oh, uh, next week I have a different shift schedule.\nTR+33  66.5s JENNY: then I can pick him up myself ...\nTR+33  67.7s LYNN MARIE: but I was happy to do it.\nTR+34  68.9s LYNN MARIE: I have to go.\nTR+34  69.4s JENNY: I'm parked in the second row.\nTR+35  70.6s JENNY: thanks\nTR+35  71.9s [AD] she walks with the blond boy in her arms to Forrest.\nTR+37  74.8s JENNY: this is my very good friend, Mister Gump.\nTR+38  76.5s JENNY: will you say hello to him?\nTR+38  77.7s FORREST JR.: hello, Mister Gump!\nTR+39  79.3s FORREST: hello\nTR+40  80.5s FORREST JR.: can I go watch TV now?\nTR+41  82.1s JENNY: yes, you can.\nTR+41  82.6s JENNY: but not so loud, okay?\nTR+41  83.8s [AD] he runs into the children's room.\nTR+43  86.1s FORREST: you're a mama, Jenny.\nTR+44  88.1s JENNY: I am a mama.\nTR+46  92.2s JENNY: his name is Forrest.\nTR+47  95.0s FORREST: he is named like me.\nTR+48  97.9s JENNY: it is his daddy's name.",
-   "text_zh": "【時間】白天\n　標註檔：103:20.1 起：時間跳躍（數秒至約兩小時）\n【場景】薩凡納，珍妮的公寓內\n　標註檔：Savannah｜Jenny's apartment｜Jenny's apartment（int，day）\n【人物】阿甘與珍妮兩人共處在珍妮的公寓中，彼此為舊識關係。\n　標註檔：FORREST、JENNY\n【前文】珍妮開門迎接抵達的阿甘，兩人擁抱並互相問候，隨後阿甘進入屋內並參觀環境。\n【後文】珍妮展示一本收集了他跑步新聞剪報的相簿，阿甘則提到自己跑了很遠的距離。\n（摘要由 Gemini 依前後各 40 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】103:40.0–104:00.0，10 TR（電影時間）\n\n──── 前 40 TR ────\nTR-38 -75.9s NEWSCASTER: 總統胸部中彈了。\nTR-37 -73.8s [AD] 給阿甘的\nTR-37 -73.1s [AD] 路易絲\nTR-37 -72.6s LOUISE: 我去拿了信。\nTR-36 -70.9s FORREST (V.O.): 然後有一天，毫無預兆地，我收到了珍妮的一封信。\nTR-34 -66.2s FORREST: 她問我能不能去薩凡納找她。\nTR-32 -62.1s FORREST: 所以我現在才在這裡。\nTR-30 -59.4s FORREST: 她在電視上看到我，在跑步。\nTR-29 -56.8s FORREST: 她說我，……我應該坐9路公車到里士滿街，下車往左走一個街區到亨利街1947號，4號公寓。\nTR-23 -46.0s ELDERLY WOMAN: 好吧，你根本不需要坐公車。\nTR-22 -42.4s ELDERLY WOMAN: 亨利街只有五六個街區遠。\nTR-20 -38.8s ELDERLY WOMAN: 就在那邊\nTR-19 -37.6s [AD] 她指著街對面。\nTR-19 -36.3s FORREST: 就在那邊？\nTR-18 -35.6s ELDERLY WOMAN: 就在那邊\nTR-18 -34.5s [AD] 他從她手中接過信，拿著一盒巧克力和行李箱跑了……\nTR-16 -31.6s FORREST: 非常感謝您的娛樂\nTR-15 -30.0s [AD] ……衝到街上。\nTR-13 -25.8s [AD] 阿甘繼續急奔。\nTR-11 -21.5s [AD] 珍妮打開她公寓的門。\nTR-10 -18.3s JENNY: 喘氣\nTR-9 -17.9s JENNY: 嘿！\nTR-9 -16.6s JENNY: 阿甘\nTR-8 -15.6s [AD] 她擁抱了他。\nTR-8 -14.4s JENNY: 嗯，你好嗎？\nTR-7 -12.7s JENNY: 進來吧！進來吧！\nTR-6 -11.3s FORREST: 我收到你的信了。\nTR-6 -10.1s JENNY: 啊，我本來還在納悶呢。\nTR-5  -8.4s [AD] 珍妮留著及頸的吹風髮型。\nTR-4  -6.0s FORREST: 所以這就是你住的地方。\nTR-3  -4.3s JENNY: 是啊，不是很整潔。\nTR-2  -2.6s JENNY: 我剛去工作了。\nTR-1  -1.3s FORREST: 這裡非常好。\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s FORREST: 而且你還有空調。\nTR+1   2.8s [AD] 她還穿著她那件土耳其藍的女服務生制服。\nTR+2   5.7s FORREST: 噢\nTR+3   6.8s [AD] 阿甘把盒子遞給她。\nTR+4   9.0s JENNY: 非常感謝！\nTR+4   9.9s FORREST: 我……吃了一些。\nTR+6  13.6s JENNY: 噢，我做了一個，……我做了一本剪貼簿，裡面有關於你的剪報。\nTR+9  18.1s JENNY: 各種各樣的\nTR+9  19.5s JENNY: 你在那裡\n════ 本窗結束 ════\n\n──── 後 40 TR ────\nTR+10  20.1s FORREST: 啊\nTR+10  20.6s JENNY: 對，那就是你。\nTR+10  21.6s [AD] 在封面上有\nTR+11  22.3s JENNY: 你跑步的樣子\nTR+11  23.3s [AD] ……來自《跑者世界》和《國民詢問報》\nTR+12  25.3s FORREST: 我，呃，我跑了很遠。\nTR+14  28.7s FORREST: 花了很多時間。\nTR+15  30.1s [AD] 珍妮看著剪貼簿。\nTR+15  31.3s [AD] 阿甘看著她。\nTR+16  32.7s JENNY: 這裡\nTR+17  35.2s [AD] 她合上了剪貼簿。\nTR+19  38.1s JENNY: 哎喲\nTR+20  40.2s JENNY: 呃\nTR+20  40.6s JENNY: 阿甘，我不知道該怎麼表達。當初\nTR+23  46.3s JENNY: 我，呃，……我想為我對你做過的一切道歉。\nTR+25  50.2s JENNY: ……因為，呃，……\nTR+26  52.4s JENNY: 我的意思是，我當時，……我狀況很糟，而且……\nTR+28  56.4s [AD] 一個女人帶了一個男孩過來。\nTR+28  57.8s JENNY: 嘿\nTR+29  58.6s JENNY: 哈囉！\nTR+30  60.0s JENNY: 噢，是你嗎？\nTR+30  60.8s [AD] 她把他抱起來。\nTR+30  61.5s JENNY: 這是我的老朋友，來自阿拉巴馬州\nTR+31  63.3s LYNN MARIE: 啊\nTR+31  63.7s LYNN MARIE: 哈囉！\nTR+32  64.1s LYNN MARIE: 您好！\nTR+32  64.6s JENNY: 哦，呃，下週我換了班表。\nTR+33  66.5s JENNY: 到時候我自己去接他……\nTR+33  67.7s LYNN MARIE: 不過我很高興能幫忙。\nTR+34  68.9s LYNN MARIE: 我得走了。\nTR+34  69.4s JENNY: 我雙排停車。\nTR+35  70.6s JENNY: 謝謝\nTR+35  71.9s [AD] 她抱著金髮男孩走向阿甘。\nTR+37  74.8s JENNY: 這是我的好朋友，甘先生。\nTR+38  76.5s JENNY: 你跟他說你好嗎？\nTR+38  77.7s FORREST JR.: 哈囉，甘先生！\nTR+39  79.3s FORREST: 哈囉\nTR+40  80.5s FORREST JR.: 我現在可以去 看電視嗎？\nTR+41  82.1s JENNY: 可以，你去吧。\nTR+41  82.6s JENNY: 但是聲音不要太大，好嗎？\nTR+41  83.8s [AD] 他跑進了兒童房。\nTR+43  86.1s FORREST: 你是一位媽媽了，珍妮。\nTR+44  88.1s JENNY: 我是一位媽媽。\nTR+46  92.2s JENNY: 他的名字叫阿甘。\nTR+47  95.0s FORREST: 他和我同名。\nTR+48  97.9s JENNY: 這是他爸爸的名字。",
+   "text": "【時間】白天\n　標註檔：103:20.1 起：時間跳躍（數秒至約兩小時）\n【場景】薩凡納｜珍妮的公寓｜珍妮的公寓\n　標註檔：Savannah｜Jenny's apartment｜Jenny's apartment（int，day）\n【人物】阿甘與珍妮兩人身處珍妮的公寓中。\n　標註檔：FORREST、JENNY\n【前 20 TR 摘要】老婦人指引方向並請阿甘下車，阿甘接過信件後拿著巧克力盒與行李箱跑向街道。阿甘繼續奔跑，接著珍妮打開了公寓大門，驚喜地喊著阿甘的名字並擁抱了他。珍妮招呼阿甘進屋，阿甘提到他收到了珍妮的信，珍妮對此感到意外。隨後阿甘打量著屋子並稱讚這裡很不錯，珍妮則回應屋子不太整潔且自己剛才去工作了。\n【後 20 TR 摘要】珍妮確認照片上的跑步者就是阿甘，阿甘則回應自己跑了很遠且花了很多時間。珍妮翻看著剪報相簿，阿甘在一旁看著她，不久後珍妮將相簿合上。珍妮向阿甘表達不知該如何開口，並為過去對阿甘做過的一切以及自己當時的狀況向他道歉。此時一名女子帶著一個小男孩來到現場，珍妮向他們打招呼。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】103:40.0–104:00.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s FORREST: und eine Klimaanlage hast du ja auch.\nTR+1   2.8s [AD] sie trägt noch ihr türkisfarbenes Kellnerinnenkleid.\nTR+2   5.7s FORREST: och\nTR+3   6.8s [AD] Forrest gibt ihr die Schachtel.\nTR+4   9.0s JENNY: vielen Dank!\nTR+4   9.9s FORREST: ich ... hab welche gegessen.\nTR+6  13.6s JENNY: ach, ich hab ein, ...ich hab ein Album gemacht mit Zeitungsausschnitten von dir.\nTR+9  18.1s JENNY: von allem möglichen\nTR+9  19.5s JENNY: da bist du\n════ 本窗結束 ════",
+   "text_en": "【時間】白天\n　標註檔：103:20.1 起：時間跳躍（數秒至約兩小時）\n【場景】薩凡納｜珍妮的公寓｜珍妮的公寓\n　標註檔：Savannah｜Jenny's apartment｜Jenny's apartment（int，day）\n【人物】阿甘與珍妮兩人身處珍妮的公寓中。\n　標註檔：FORREST、JENNY\n【前 20 TR 摘要】老婦人指引方向並請阿甘下車，阿甘接過信件後拿著巧克力盒與行李箱跑向街道。阿甘繼續奔跑，接著珍妮打開了公寓大門，驚喜地喊著阿甘的名字並擁抱了他。珍妮招呼阿甘進屋，阿甘提到他收到了珍妮的信，珍妮對此感到意外。隨後阿甘打量著屋子並稱讚這裡很不錯，珍妮則回應屋子不太整潔且自己剛才去工作了。\n【後 20 TR 摘要】珍妮確認照片上的跑步者就是阿甘，阿甘則回應自己跑了很遠且花了很多時間。珍妮翻看著剪報相簿，阿甘在一旁看著她，不久後珍妮將相簿合上。珍妮向阿甘表達不知該如何開口，並為過去對阿甘做過的一切以及自己當時的狀況向他道歉。此時一名女子帶著一個小男孩來到現場，珍妮向他們打招呼。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】103:40.0–104:00.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s FORREST: and you even have air conditioning.\nTR+1   2.8s [AD] she is still wearing her turquoise waitress dress.\nTR+2   5.7s FORREST: oh\nTR+3   6.8s [AD] Forrest gives her the box.\nTR+4   9.0s JENNY: thank you very much!\nTR+4   9.9s FORREST: I... have eaten some.\nTR+6  13.6s JENNY: oh, I made a... I made an album with newspaper clippings of you.\nTR+9  18.1s JENNY: about all kinds of things\nTR+9  19.5s JENNY: there you are\n════ 本窗結束 ════",
+   "text_zh": "【時間】白天\n　標註檔：103:20.1 起：時間跳躍（數秒至約兩小時）\n【場景】薩凡納｜珍妮的公寓｜珍妮的公寓\n　標註檔：Savannah｜Jenny's apartment｜Jenny's apartment（int，day）\n【人物】阿甘與珍妮兩人身處珍妮的公寓中。\n　標註檔：FORREST、JENNY\n【前 20 TR 摘要】老婦人指引方向並請阿甘下車，阿甘接過信件後拿著巧克力盒與行李箱跑向街道。阿甘繼續奔跑，接著珍妮打開了公寓大門，驚喜地喊著阿甘的名字並擁抱了他。珍妮招呼阿甘進屋，阿甘提到他收到了珍妮的信，珍妮對此感到意外。隨後阿甘打量著屋子並稱讚這裡很不錯，珍妮則回應屋子不太整潔且自己剛才去工作了。\n【後 20 TR 摘要】珍妮確認照片上的跑步者就是阿甘，阿甘則回應自己跑了很遠且花了很多時間。珍妮翻看著剪報相簿，阿甘在一旁看著她，不久後珍妮將相簿合上。珍妮向阿甘表達不知該如何開口，並為過去對阿甘做過的一切以及自己當時的狀況向他道歉。此時一名女子帶著一個小男孩來到現場，珍妮向他們打招呼。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】103:40.0–104:00.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+0   0.7s FORREST: 而且你還有空調。\nTR+1   2.8s [AD] 她還穿著那件綠松石色的女服務生制服。\nTR+2   5.7s FORREST: 喔\nTR+3   6.8s [AD] 阿甘把盒子遞給她。\nTR+4   9.0s JENNY: 非常謝謝！\nTR+4   9.9s FORREST: 我……吃了一些。\nTR+6  13.6s JENNY: 噢，我做了一個……我做了一本剪貼簿，裡面都是關於你的剪報。\nTR+9  18.1s JENNY: 關於各式各樣的事情\nTR+9  19.5s JENNY: 你在這裡\n════ 本窗結束 ════",
    "time": "103:40.0–104:00.0",
    "label": "10TR 09"
   },
@@ -396,9 +396,9 @@
    "dataset": "FG",
    "film": "forrest",
    "media": null,
-   "text": "【時間】day\n　標註檔：109:44.4 起：時間跳躍（數秒至約兩小時）；109:59.4 起：大幅時間跳躍（數小時至數年）\n【場景】阿甘家房 宅前方（室外）\n　標註檔：Gump property｜Gump House｜front of Gump House（ext，day）\n【人物】阿甘、珍妮、丹中尉與蘇珊。丹中尉與蘇珊為 彼此的i未婚夫妻關係，阿甘與珍妮為同行者。\n　標註檔：DAN、FORREST、JENNY、WOMAN\n【前文】丹中尉向阿甘走近，並向阿甘介紹他的.未婚妻蘇珊。\n【後文】隨後鏡頭轉至花園，珍妮與阿甘牽手散步走向房屋，其後阿甘與兒子互動並進入屋內。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】109:20.0–109:40.0，10 TR（電影時間）\n\n──── 前 20 TR ────\nTR-20 -39.5s [AD] Dan nähert sich langsam mit steifen Schritten.\nTR-19 -36.8s [AD] er hat kurzgeschnittenes Haar, ist glatt rasiert und trägt einen hellen Anzug.\nTR-17 -32.6s [AD] seine Begleiterin ist fast einen Kopf kleiner als er.\nTR-15 -29.9s [AD] sie trägt ein lilafarbenes, geblümtes Kleid.\nTR-14 -27.7s FORREST: Lieutenant Dan\nTR-13 -24.9s LT. DAN: hallo, Forrest\nTR-12 -23.1s FORREST: sie haben neue Beine.\nTR-11 -20.8s FORREST: neue Beine\nTR-10 -19.0s LT. DAN: ja, ich hab neue Beine.\nTR-9 -17.1s [AD] er zeigt seine Prothese.\nTR-8 -15.8s LT. DAN: Maßarbeit\nTR-8 -15.2s LT. DAN: Titaniumlegierung\nTR-7 -13.9s [AD] sie steckt in Schuh und Socke.\nTR-7 -12.7s LT. DAN: sowas benutzen sie in der Raumfahrt.\nTR-4  -7.0s FORREST: Zauberbeine\nTR-2  -3.8s LT. DAN: das ... ist meine Verlobte.\nTR-1  -0.2s LT. DAN: Susan\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s FORREST: Lieutenant Dan\nTR+2   5.6s SUSAN: hallo, Forrest!\nTR+3   6.7s [AD] sie gibt ihm die Hand.\nTR+4   8.2s FORREST: Lieutenant Dan\nTR+5  10.2s FORREST: das ist meine Jenny.\nTR+5  11.8s JENNY: hallo\nTR+6  13.1s JENNY: es freut mich, Sie endlich kennen zu lernen.\nTR+7  15.6s [AD] sie reicht Dan die Hand und küsst ihn auf die Wange.\nTR+9  18.1s [AD] Dan sieht Forrest an.\nTR+9  19.4s [AD] der schmunzelt stolz.\n════ 本窗結束 ════\n\n──── 後 20 TR ────\nTR+11  22.3s LT. DAN: hach\nTR+11  23.5s [AD] im Garten\nTR+20  40.3s [AD] trockenes Laub weht über die von mächtigen Bäumen gesäumte Zufahrt.\nTR+22  44.9s [AD] zwischen den Bäumen spazieren Jenny und Forrest Händchen haltend auf das Haus zu.\nTR+24  49.2s [AD] ihr Sohn hebt etwas auf und gibt es seinem Vater.\nTR+25  51.8s [AD] der nimmt ihn an die Hand.\nTR+27  54.5s [AD] im Haus kommt Forrest mit einem Frühstückstablett ins ehemalige Schlafzimmer seiner Mutter.\nTR+29  59.6s [AD] abrupt bleibt er stehen und starrt auf Jenny, die reglos im Bett liegt.",
-   "text_en": "【時間】day\n　標註檔：109:44.4 起：時間跳躍（數秒至約兩小時）；109:59.4 起：大幅時間跳躍（數小時至數年）\n【場景】阿甘家房 宅前方（室外）\n　標註檔：Gump property｜Gump House｜front of Gump House（ext，day）\n【人物】阿甘、珍妮、丹中尉與蘇珊。丹中尉與蘇珊為 彼此的i未婚夫妻關係，阿甘與珍妮為同行者。\n　標註檔：DAN、FORREST、JENNY、WOMAN\n【前文】丹中尉向阿甘走近，並向阿甘介紹他的.未婚妻蘇珊。\n【後文】隨後鏡頭轉至花園，珍妮與阿甘牽手散步走向房屋，其後阿甘與兒子互動並進入屋內。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】109:20.0–109:40.0，10 TR（電影時間）\n\n──── 前 20 TR ────\nTR-20 -39.5s [AD] Dan approaches slowly with stiff steps.\nTR-19 -36.8s [AD] he has short-cropped hair, is clean-shaven and wears a light-colored suit.\nTR-17 -32.6s [AD] his companion is almost a head shorter than him.\nTR-15 -29.9s [AD] she wears a purple, flowered dress.\nTR-14 -27.7s FORREST: Lieutenant Dan\nTR-13 -24.9s LT. DAN: hello, Forrest\nTR-12 -23.1s FORREST: you got new legs.\nTR-11 -20.8s FORREST: new legs\nTR-10 -19.0s LT. DAN: yes, I got new legs.\nTR-9 -17.1s [AD] he shows his prosthesis.\nTR-8 -15.8s LT. DAN: custom-made\nTR-8 -15.2s LT. DAN: titanium alloy\nTR-7 -13.9s [AD] it is in a shoe and sock.\nTR-7 -12.7s LT. DAN: they use stuff like that in space travel.\nTR-4  -7.0s FORREST: magic legs\nTR-2  -3.8s LT. DAN: this ... is my fiancée.\nTR-1  -0.2s LT. DAN: Susan\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s FORREST: Lieutenant Dan\nTR+2   5.6s SUSAN: hello, Forrest!\nTR+3   6.7s [AD] she shakes his hand.\nTR+4   8.2s FORREST: Lieutenant Dan\nTR+5  10.2s FORREST: this is my Jenny.\nTR+5  11.8s JENNY: hello\nTR+6  13.1s JENNY: it's nice to finally meet you.\nTR+7  15.6s [AD] she offers Dan her hand and kisses him on the cheek.\nTR+9  18.1s [AD] Dan looks at Forrest.\nTR+9  19.4s [AD] who smiles proudly.\n════ 本窗結束 ════\n\n──── 後 20 TR ────\nTR+11  22.3s LT. DAN: ah\nTR+11  23.5s [AD] in the garden\nTR+20  40.3s [AD] dry leaves blow across the driveway lined by mighty trees.\nTR+22  44.9s [AD] between the trees, Jenny and Forrest walk hand in hand toward the house.\nTR+24  49.2s [AD] their son picks up something and gives it to his father.\nTR+25  51.8s [AD] who takes him by the hand.\nTR+27  54.5s [AD] in the house, Forrest comes into his mother's former bedroom with a breakfast tray.\nTR+29  59.6s [AD] abruptly he stops and stares at Jenny, who lies motionless in bed.",
-   "text_zh": "【時間】day\n　標註檔：109:44.4 起：時間跳躍（數秒至約兩小時）；109:59.4 起：大幅時間跳躍（數小時至數年）\n【場景】阿甘家房 宅前方（室外）\n　標註檔：Gump property｜Gump House｜front of Gump House（ext，day）\n【人物】阿甘、珍妮、丹中尉與蘇珊。丹中尉與蘇珊為 彼此的i未婚夫妻關係，阿甘與珍妮為同行者。\n　標註檔：DAN、FORREST、JENNY、WOMAN\n【前文】丹中尉向阿甘走近，並向阿甘介紹他的.未婚妻蘇珊。\n【後文】隨後鏡頭轉至花園，珍妮與阿甘牽手散步走向房屋，其後阿甘與兒子互動並進入屋內。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】109:20.0–109:40.0，10 TR（電影時間）\n\n──── 前 20 TR ────\nTR-20 -39.5s [AD] 丹迈着僵硬的步伐缓缓走近。\nTR-19 -36.8s [AD] 他留着短发，刮得干净，穿着浅色西装。\nTR-17 -32.6s [AD] 他的女伴比他矮了几乎一个头。\nTR-15 -29.9s [AD] 她穿着一件紫色的碎花连衣裙。\nTR-14 -27.7s FORREST: 丹中尉\nTR-13 -24.9s LT. DAN: 哈啰，阿甘\nTR-12 -23.1s FORREST: 你有新腿了。\nTR-11 -20.8s FORREST: 新腿\nTR-10 -19.0s LT. DAN: 对，我有新腿了。\nTR-9 -17.1s [AD] 他展示他的义肢。\nTR-8 -15.8s LT. DAN: 量身定制\nTR-8 -15.2s LT. DAN: 钛合金\nTR-7 -13.9s [AD] 它穿着鞋子和袜子。\nTR-7 -12.7s LT. DAN: 他们在太空旅行中就用这种东西。\nTR-4  -7.0s FORREST: 神奇的腿\nTR-2  -3.8s LT. DAN: 这位……是我的未婚妻。\nTR-1  -0.2s LT. DAN: 苏珊\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s FORREST: 丹中尉\nTR+2   5.6s SUSAN: 哈啰，阿甘！\nTR+3   6.7s [AD] 她和他握手。\nTR+4   8.2s FORREST: 丹中尉\nTR+5  10.2s FORREST: 这是我的珍妮。\nTR+5  11.8s JENNY: 你好\nTR+6  13.1s JENNY: 很高兴终于见到你。\nTR+7  15.6s [AD] 她向丹伸出手，并在他脸颊上亲了一下。\nTR+9  18.1s [AD] 丹看着阿甘。\nTR+9  19.4s [AD] 阿甘骄傲地微笑着。\n════ 本窗結束 ════\n\n──── 後 20 TR ────\nTR+11  22.3s LT. DAN: 啊\nTR+11  23.5s [AD] 在花园里\nTR+20  40.3s [AD] 枯叶吹过两旁长满高大树木的车道。\nTR+22  44.9s [AD] 在树木之间，珍妮和阿甘手牵着手朝房子走去。\nTR+24  49.2s [AD] 他们的儿子捡起一样东西并交给他的父亲。\nTR+25  51.8s [AD] 父亲牵起他的手。\nTR+27  54.5s [AD] 在屋里，阿甘端着早餐盘走进他母亲以前的卧室。\nTR+29  59.6s [AD] 他突然停下脚步，盯着躺在床上动也不动的珍妮。",
+   "text": "【時間】白天\n　標註檔：109:44.4 起：時間跳躍（數秒至約兩小時）；109:59.4 起：大幅時間跳躍（數小時至數年）\n【場景】甘普家宅前\n　標註檔：Gump property｜Gump House｜front of Gump House（ext，day）\n【人物】阿甘、丹中尉、珍妮、蘇珊\n　標註檔：DAN、FORREST、JENNY、WOMAN\n【前 20 TR 摘要】丹中尉邁著僵硬的步伐緩慢走近，他理了短髮、刮了鬍子並穿著淺色西裝。他的女伴比他矮將近一個頭，身穿紫色碎花洋裝。阿甘稱呼了丹中尉，丹中尉向阿甘打招呼。阿甘提及對方有新腿，丹中尉證實並展示了由鈦合金製成的訂製義肢。阿甘稱之為魔術腿，接著丹中尉介紹身旁的未婚妻名叫蘇珊。\n【後 20 TR 摘要】丹中尉發出聲音，隨後場景轉換至花園。枯葉吹過林蔭大道，珍妮與阿甘牽著手漫步走向房屋。他們的兒子撿起東西交給父親，阿甘牽起兒子的小手。接著阿甘端著早餐托盤進入前母親的臥室，他突然停下腳步，凝視著躺在床上靜止不動的珍妮。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】109:20.0–109:40.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s FORREST: Lieutenant Dan\nTR+2   5.6s SUSAN: hallo, Forrest!\nTR+3   6.7s [AD] sie gibt ihm die Hand.\nTR+4   8.2s FORREST: Lieutenant Dan\nTR+5  10.2s FORREST: das ist meine Jenny.\nTR+5  11.8s JENNY: hallo\nTR+6  13.1s JENNY: es freut mich, Sie endlich kennen zu lernen.\nTR+7  15.6s [AD] sie reicht Dan die Hand und küsst ihn auf die Wange.\nTR+9  18.1s [AD] Dan sieht Forrest an.\nTR+9  19.4s [AD] der schmunzelt stolz.\n════ 本窗結束 ════",
+   "text_en": "【時間】白天\n　標註檔：109:44.4 起：時間跳躍（數秒至約兩小時）；109:59.4 起：大幅時間跳躍（數小時至數年）\n【場景】甘普家宅前\n　標註檔：Gump property｜Gump House｜front of Gump House（ext，day）\n【人物】阿甘、丹中尉、珍妮、蘇珊\n　標註檔：DAN、FORREST、JENNY、WOMAN\n【前 20 TR 摘要】丹中尉邁著僵硬的步伐緩慢走近，他理了短髮、刮了鬍子並穿著淺色西裝。他的女伴比他矮將近一個頭，身穿紫色碎花洋裝。阿甘稱呼了丹中尉，丹中尉向阿甘打招呼。阿甘提及對方有新腿，丹中尉證實並展示了由鈦合金製成的訂製義肢。阿甘稱之為魔術腿，接著丹中尉介紹身旁的未婚妻名叫蘇珊。\n【後 20 TR 摘要】丹中尉發出聲音，隨後場景轉換至花園。枯葉吹過林蔭大道，珍妮與阿甘牽著手漫步走向房屋。他們的兒子撿起東西交給父親，阿甘牽起兒子的小手。接著阿甘端著早餐托盤進入前母親的臥室，他突然停下腳步，凝視著躺在床上靜止不動的珍妮。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】109:20.0–109:40.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s FORREST: Lieutenant Dan\nTR+2   5.6s SUSAN: Hello, Forrest!\nTR+3   6.7s [AD] She shakes his hand.\nTR+4   8.2s FORREST: Lieutenant Dan\nTR+5  10.2s FORREST: This is my Jenny.\nTR+5  11.8s JENNY: Hello\nTR+6  13.1s JENNY: It's a pleasure to finally meet you.\nTR+7  15.6s [AD] She reaches out to shake Dan's hand and kisses him on the cheek.\nTR+9  18.1s [AD] Dan looks at Forrest.\nTR+9  19.4s [AD] He smiles proudly.\n════ 本窗結束 ════",
+   "text_zh": "【時間】白天\n　標註檔：109:44.4 起：時間跳躍（數秒至約兩小時）；109:59.4 起：大幅時間跳躍（數小時至數年）\n【場景】甘普家宅前\n　標註檔：Gump property｜Gump House｜front of Gump House（ext，day）\n【人物】阿甘、丹中尉、珍妮、蘇珊\n　標註檔：DAN、FORREST、JENNY、WOMAN\n【前 20 TR 摘要】丹中尉邁著僵硬的步伐緩慢走近，他理了短髮、刮了鬍子並穿著淺色西裝。他的女伴比他矮將近一個頭，身穿紫色碎花洋裝。阿甘稱呼了丹中尉，丹中尉向阿甘打招呼。阿甘提及對方有新腿，丹中尉證實並展示了由鈦合金製成的訂製義肢。阿甘稱之為魔術腿，接著丹中尉介紹身旁的未婚妻名叫蘇珊。\n【後 20 TR 摘要】丹中尉發出聲音，隨後場景轉換至花園。枯葉吹過林蔭大道，珍妮與阿甘牽著手漫步走向房屋。他們的兒子撿起東西交給父親，阿甘牽起兒子的小手。接著阿甘端著早餐托盤進入前母親的臥室，他突然停下腳步，凝視著躺在床上靜止不動的珍妮。\n（摘要由 Gemini 依前後各 20 TR 文字產生，未描述本窗；請只評「本窗」20 秒。）\n【本窗】109:20.0–109:40.0，10 TR（電影時間）\n\n════ 本窗（評這裡，TR+0～TR+9）════\nTR+1   2.8s FORREST: 丹中尉\nTR+2   5.6s SUSAN: 哈囉，阿甘！\nTR+3   6.7s [AD] 她和他握手。\nTR+4   8.2s FORREST: 丹中尉\nTR+5  10.2s FORREST: 這是我的珍妮。\nTR+5  11.8s JENNY: 哈囉\nTR+6  13.1s JENNY: 很高興終於認識您。\nTR+7  15.6s [AD] 她伸手和丹握手，並親吻他的臉頰。\nTR+9  18.1s [AD] 丹看著阿甘。\nTR+9  19.4s [AD] 他驕傲地微笑著。\n════ 本窗結束 ════",
    "time": "109:20.0–109:40.0",
    "label": "10TR 10"
   }
@@ -2157,7 +2157,8 @@
     "foreground_source": "speech",
     "music_role": "score",
     "music_function": [
-     "emotional_support"
+     "emotional_support",
+     "ducks_under_speech"
     ],
     "social_interaction": [
      "dialogue"
@@ -2173,20 +2174,17 @@
       "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": [
-       "平靜",
-       "放鬆"
+       "中性"
       ],
       "visual": [
-       "平靜",
-       "放鬆"
+       "中性"
       ],
       "language": [
-       "平靜",
-       "放鬆"
+       "中性"
       ]
      },
      {
-      "name": "Schwarze Frau in Schwesterntracht",
+      "name": "NURSE",
       "role": "supporting",
       "fraction_of_window": 0.9,
       "speaking": "no",
@@ -2194,8 +2192,7 @@
        "U"
       ],
       "visual": [
-       "平靜",
-       "放鬆"
+       "中性"
       ],
       "language": [
        "U"
@@ -2225,6 +2222,7 @@
     "on_screen_text": "none",
     "audio_present": [
      "dialogue",
+     "narration",
      "music",
      "ambient_sfx"
     ],
@@ -2234,17 +2232,16 @@
     "foreground_source": "speech",
     "music_role": "score",
     "music_function": [
-     "soothing",
-     "emotional_support"
+     "emotional_support",
+     "ducks_under_speech"
     ],
     "social_interaction": [
-     "dialogue",
-     "limb_contact"
+     "dialogue"
     ],
     "nonverbal_emotion_sounds": [
      "none"
     ],
-    "social_level_0_10": 4,
+    "social_level_0_10": 3,
     "characters": [
      {
       "name": "FORREST",
@@ -2252,16 +2249,13 @@
       "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": [
-       "開心",
-       "幸福"
+       "中性"
       ],
       "visual": [
-       "平靜",
-       "放鬆"
+       "平靜"
       ],
       "language": [
-       "開心",
-       "滿足"
+       "中性"
       ]
      },
      {
@@ -2270,13 +2264,13 @@
       "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": [
-       "開心"
+       "中性"
       ],
       "visual": [
        "平靜"
       ],
       "language": [
-       "開心"
+       "中性"
       ]
      }
     ],
@@ -2286,6 +2280,151 @@
   {
    "id": "R2_fg10_074",
    "wid": "fg10_074",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "indoor",
+    "location_change": "no",
+    "location_change_type": "none",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "music",
+     "ambient_sfx",
+     "sigh"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "score",
+    "music_function": [
+     "emotional_support",
+     "ducks_under_speech"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "limb_contact",
+     "torso_contact"
+    ],
+    "nonverbal_emotion_sounds": [
+     "sigh"
+    ],
+    "social_level_0_10": 8,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": [
+       "緊張",
+       "焦慮"
+      ],
+      "visual": [
+       "緊張",
+       "緊繃"
+      ],
+      "language": [
+       "緊張",
+       "焦慮"
+      ]
+     },
+     {
+      "name": "JENNY",
+      "role": "lead",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": [
+       "平靜",
+       "放鬆"
+      ],
+      "visual": [
+       "平靜",
+       "放鬆"
+      ],
+      "language": [
+       "平靜",
+       "放鬆"
+      ]
+     }
+    ],
+    "emo_scale": "grid"
+   }
+  },
+  {
+   "id": "R2_fg10_138",
+   "wid": "fg10_138",
+   "arm": "AD+D",
+   "gemini": {
+    "screen_content": [
+     "story"
+    ],
+    "visual_style": "live_color",
+    "agents_present": [
+     "human"
+    ],
+    "max_humans_simultaneous": 2,
+    "max_humanoid_nonhuman": 0,
+    "setting": "outdoor",
+    "location_change": "yes",
+    "location_change_type": "same_scene_movement",
+    "on_screen_text": "none",
+    "audio_present": [
+     "dialogue",
+     "narration",
+     "ambient_sfx"
+    ],
+    "audio_primary": "dialogue",
+    "speech_language": "de",
+    "speaker_visibility": "on_screen",
+    "foreground_source": "speech",
+    "music_role": "none",
+    "music_function": [
+     "none"
+    ],
+    "social_interaction": [
+     "dialogue",
+     "walk_together"
+    ],
+    "nonverbal_emotion_sounds": [
+     "none"
+    ],
+    "social_level_0_10": 2,
+    "characters": [
+     {
+      "name": "FORREST",
+      "role": "lead",
+      "fraction_of_window": 1.0,
+      "speaking": "yes",
+      "audio": [
+       "焦慮",
+       "緊張"
+      ],
+      "visual": [
+       "緊張",
+       "焦慮"
+      ],
+      "language": [
+       "焦慮",
+       "緊繃"
+      ]
+     }
+    ],
+    "emo_scale": "grid"
+   }
+  },
+  {
+   "id": "R2_fg10_159",
+   "wid": "fg10_159",
    "arm": "AD+D",
    "gemini": {
     "screen_content": [
@@ -2314,149 +2453,6 @@
      "none"
     ],
     "social_interaction": [
-     "dialogue",
-     "limb_contact"
-    ],
-    "nonverbal_emotion_sounds": [
-     "sigh"
-    ],
-    "social_level_0_10": 4,
-    "characters": [
-     {
-      "name": "FORREST",
-      "role": "lead",
-      "fraction_of_window": 1.0,
-      "speaking": "yes",
-      "audio": [
-       "緊張",
-       "挫折"
-      ],
-      "visual": [
-       "緊張",
-       "困擾"
-      ],
-      "language": [
-       "緊張"
-      ]
-     },
-     {
-      "name": "JENNY",
-      "role": "lead",
-      "fraction_of_window": 1.0,
-      "speaking": "yes",
-      "audio": [
-       "平靜",
-       "放鬆"
-      ],
-      "visual": [
-       "平靜",
-       "舒適"
-      ],
-      "language": [
-       "平靜"
-      ]
-     }
-    ],
-    "emo_scale": "grid"
-   }
-  },
-  {
-   "id": "R2_fg10_138",
-   "wid": "fg10_138",
-   "arm": "AD+D",
-   "gemini": {
-    "screen_content": [
-     "story"
-    ],
-    "visual_style": "live_color",
-    "agents_present": [
-     "human"
-    ],
-    "max_humans_simultaneous": 2,
-    "max_humanoid_nonhuman": 0,
-    "setting": "outdoor",
-    "location_change": "no",
-    "location_change_type": "none",
-    "on_screen_text": "none",
-    "audio_present": [
-     "dialogue",
-     "narration",
-     "music",
-     "ambient_sfx"
-    ],
-    "audio_primary": "dialogue",
-    "speech_language": "de",
-    "speaker_visibility": "on_screen",
-    "foreground_source": "speech",
-    "music_role": "score",
-    "music_function": [
-     "tension",
-     "transition"
-    ],
-    "social_interaction": [
-     "dialogue",
-     "walk_together"
-    ],
-    "nonverbal_emotion_sounds": [
-     "none"
-    ],
-    "social_level_0_10": 3,
-    "characters": [
-     {
-      "name": "FORREST",
-      "role": "lead",
-      "fraction_of_window": 1.0,
-      "speaking": "yes",
-      "audio": [
-       "緊張",
-       "焦慮"
-      ],
-      "visual": [
-       "緊張",
-       "焦慮"
-      ],
-      "language": [
-       "緊張",
-       "焦慮"
-      ]
-     }
-    ],
-    "emo_scale": "grid"
-   }
-  },
-  {
-   "id": "R2_fg10_159",
-   "wid": "fg10_159",
-   "arm": "AD+D",
-   "gemini": {
-    "screen_content": [
-     "story"
-    ],
-    "visual_style": "live_color",
-    "agents_present": [
-     "human"
-    ],
-    "max_humans_simultaneous": 3,
-    "max_humanoid_nonhuman": 0,
-    "setting": "indoor",
-    "location_change": "no",
-    "location_change_type": "none",
-    "on_screen_text": "none",
-    "audio_present": [
-     "dialogue",
-     "ambient_sfx",
-     "music"
-    ],
-    "audio_primary": "dialogue",
-    "speech_language": "de",
-    "speaker_visibility": "on_screen",
-    "foreground_source": "speech",
-    "music_role": "score",
-    "music_function": [
-     "emotional_support",
-     "ducks_under_speech"
-    ],
-    "social_interaction": [
      "dialogue"
     ],
     "nonverbal_emotion_sounds": [
@@ -2470,33 +2466,13 @@
       "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": [
-       "困擾",
-       "無助"
+       "困擾"
       ],
       "visual": [
-       "困擾",
-       "疲累"
+       "困擾"
       ],
       "language": [
-       "困擾",
-       "平靜"
-      ]
-     },
-     {
-      "name": "SOLDIER IN LIVING ROOM",
-      "role": "supporting",
-      "fraction_of_window": 0.1,
-      "speaking": "yes",
-      "audio": [
-       "生氣",
-       "煩躁"
-      ],
-      "visual": [
-       "生氣"
-      ],
-      "language": [
-       "生氣",
-       "煩躁"
+       "困擾"
       ]
      },
      {
@@ -2505,16 +2481,28 @@
       "fraction_of_window": 0.5,
       "speaking": "yes",
       "audio": [
-       "開心",
-       "愉悅"
+       "平靜"
       ],
       "visual": [
-       "開心",
-       "有動力"
+       "平靜"
       ],
       "language": [
-       "開心",
-       "有動力"
+       "平靜"
+      ]
+     },
+     {
+      "name": "SOLDIER IN LIVING ROOM",
+      "role": "extra",
+      "fraction_of_window": 0.1,
+      "speaking": "yes",
+      "audio": [
+       "煩躁"
+      ],
+      "visual": [
+       "煩躁"
+      ],
+      "language": [
+       "煩躁"
       ]
      }
     ],
@@ -2562,38 +2550,7 @@
      {
       "name": "MASAI",
       "role": "supporting",
-      "fraction_of_window": 0.5,
-      "speaking": "yes",
-      "audio": [
-       "生氣",
-       "緊張"
-      ],
-      "visual": [
-       "緊繃"
-      ],
-      "language": [
-       "生氣"
-      ]
-     },
-     {
-      "name": "JENNY",
-      "role": "lead",
-      "fraction_of_window": 1.0,
-      "speaking": "yes",
-      "audio": [
-       "平靜"
-      ],
-      "visual": [
-       "平靜"
-      ],
-      "language": [
-       "平靜"
-      ]
-     },
-     {
-      "name": "WESLEY",
-      "role": "supporting",
-      "fraction_of_window": 0.5,
+      "fraction_of_window": 0.3,
       "speaking": "yes",
       "audio": [
        "生氣",
@@ -2607,18 +2564,33 @@
       ]
      },
      {
-      "name": "FORREST",
-      "role": "lead",
-      "fraction_of_window": 1.0,
-      "speaking": "no",
+      "name": "WESLEY",
+      "role": "supporting",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
       "audio": [
-       "U"
+       "生氣"
       ],
       "visual": [
-       "平靜"
+       "緊繃"
       ],
       "language": [
-       "U"
+       "生氣"
+      ]
+     },
+     {
+      "name": "JENNY",
+      "role": "lead",
+      "fraction_of_window": 0.8,
+      "speaking": "yes",
+      "audio": [
+       "中性"
+      ],
+      "visual": [
+       "中性"
+      ],
+      "language": [
+       "中性"
       ]
      }
     ],
@@ -2682,6 +2654,21 @@
       ]
      },
      {
+      "name": "FORREST",
+      "role": "lead",
+      "fraction_of_window": 0.5,
+      "speaking": "yes",
+      "audio": [
+       "平靜"
+      ],
+      "visual": [
+       "平靜"
+      ],
+      "language": [
+       "平靜"
+      ]
+     },
+     {
       "name": "JENNY",
       "role": "lead",
       "fraction_of_window": 0.5,
@@ -2690,8 +2677,7 @@
        "U"
       ],
       "visual": [
-       "焦慮",
-       "緊繃"
+       "焦慮"
       ],
       "language": [
        "U"
@@ -2721,8 +2707,8 @@
     "on_screen_text": "none",
     "audio_present": [
      "dialogue",
-     "music",
-     "ambient_sfx"
+     "ambient_sfx",
+     "music"
     ],
     "audio_primary": "dialogue",
     "speech_language": "de",
@@ -2731,16 +2717,16 @@
     "music_role": "score",
     "music_function": [
      "emotional_support",
-     "transition"
+     "ducks_under_speech"
     ],
     "social_interaction": [
      "dialogue",
-     "walk_together"
+     "limb_contact"
     ],
     "nonverbal_emotion_sounds": [
      "none"
     ],
-    "social_level_0_10": 3,
+    "social_level_0_10": 7,
     "characters": [
      {
       "name": "FORREST",
@@ -2748,16 +2734,16 @@
       "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": [
-       "開心",
-       "愉悅"
+       "興奮",
+       "快樂"
       ],
       "visual": [
-       "開心",
-       "有動力"
+       "興奮",
+       "快樂"
       ],
       "language": [
-       "開心",
-       "愉悅"
+       "興奮",
+       "快樂"
       ]
      },
      {
@@ -2766,16 +2752,16 @@
       "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": [
-       "開心",
-       "愉悅"
+       "興奮",
+       "快樂"
       ],
       "visual": [
-       "平靜",
-       "放鬆"
+       "興奮",
+       "快樂"
       ],
       "language": [
-       "開心",
-       "愉悅"
+       "興奮",
+       "快樂"
       ]
      }
     ],
@@ -2815,12 +2801,12 @@
     ],
     "social_interaction": [
      "dialogue",
-     "walk_together"
+     "limb_contact"
     ],
     "nonverbal_emotion_sounds": [
      "none"
     ],
-    "social_level_0_10": 3,
+    "social_level_0_10": 4,
     "characters": [
      {
       "name": "FORREST",
@@ -2843,13 +2829,13 @@
       "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": [
-       "愉悅"
+       "開心"
       ],
       "visual": [
-       "愉悅"
+       "開心"
       ],
       "language": [
-       "愉悅"
+       "開心"
       ]
      }
     ],
@@ -2885,7 +2871,8 @@
     "foreground_source": "speech",
     "music_role": "score",
     "music_function": [
-     "emotional_support"
+     "emotional_support",
+     "ducks_under_speech"
     ],
     "social_interaction": [
      "dialogue",
@@ -2902,10 +2889,10 @@
       "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": [
-       "開心"
+       "平靜"
       ],
       "visual": [
-       "平靜"
+       "快樂"
       ],
       "language": [
        "開心"
@@ -2927,33 +2914,33 @@
       ]
      },
      {
-      "name": "SUSAN",
+      "name": "JENNY",
       "role": "supporting",
-      "fraction_of_window": 0.8,
+      "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": [
-       "開心"
+       "平靜"
       ],
       "visual": [
-       "開心"
+       "快樂"
       ],
       "language": [
        "開心"
       ]
      },
      {
-      "name": "JENNY",
+      "name": "WOMAN",
       "role": "supporting",
-      "fraction_of_window": 0.6,
+      "fraction_of_window": 1.0,
       "speaking": "yes",
       "audio": [
-       "開心"
+       "興奮"
       ],
       "visual": [
        "開心"
       ],
       "language": [
-       "開心"
+       "愉悅"
       ]
      }
     ],
