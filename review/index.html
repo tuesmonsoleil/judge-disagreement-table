@@ -104,6 +104,7 @@ const F=[
  ['music_function','音樂作用','multi','無音樂請選「無」',[['none','無'],['tension','製造緊張'],['soothing','舒緩'],['transition','轉場'],['emotional_support','烘托情緒'],['ducks_under_speech','壓低讓位給說話'],U]],
  ['nonverbal_emotion_sounds','非語言情緒聲音','multi','',[['none','無'],['laughter','笑'],['sigh','嘆氣'],['yawn','打哈欠'],['cry','哭'],['scream','尖叫'],['cheer','歡呼'],['other','其他'],U]],
 ];
+const FGA=['audio_present','audio_primary','foreground_source','music_role','music_function','nonverbal_emotion_sounds'],isFG=k=>/(^|_)fg/i.test(k||''),okF=(k,f)=>!(isFG(k)&&FGA.includes(f)); // FG 只有文字輸入，聲音欄不評
 const FM=Object.fromEntries(F.map(x=>[x[0],x]));
 const SOC=[['self_talk','自言自語'],['dialogue','對話'],['phone_talk','講電話'],['limb_contact','手腳接觸'],['torso_contact','身體接觸（擁抱等）'],['frequent_contact','頻繁接觸'],['quarrel','爭吵'],['walk_together','一起走'],['other','其他']];
 const REL=[['family','家人'],['caregiver_child','照顧者與孩子'],['adversary','敵對'],['boss_subordinate','上司與下屬'],['friends','朋友'],['strangers','陌生人'],['U','無法判斷']];
@@ -246,9 +247,9 @@ function fieldOk(k,fd){if(!fd)return false;if(mode==='blind'){if(k==='characters
   const f=FM[k];return f[2]==='multi'?!!(fd.value&&fd.value.length):fd.value!==undefined&&fd.value!==null}
  if(k==='characters'){const g=(itemOf(cur).gemini||{}).characters||[];const sc=fd.scores||[];const ok=g.length?g.every((_,i)=>sc[i]!=null):fd.score!=null;return ok&&(fd.added||[]).every(r=>rowOk('added',r))}
  return fd.score!=null}
-function blindKeys(){return [...F.map(f=>f[0]),'social','characters']}
+function blindKeys(k=cur){return [...F.map(f=>f[0]),'social','characters'].filter(f=>okF(k,f))}
 // ---------------- review
-const RFof=k=>{const it=k&&itemOf(k);return [...F.map(f=>f[0]).slice(0,15),'music_function','social_interaction',...(it&&it.gemini&&'social_level_0_10' in it.gemini?['social_level_0_10']:[]),'nonverbal_emotion_sounds','characters']};
+const RFof=k=>{const it=k&&itemOf(k);return [...F.map(f=>f[0]).slice(0,15),'music_function','social_interaction',...(it&&it.gemini&&'social_level_0_10' in it.gemini?['social_level_0_10']:[]),'nonverbal_emotion_sounds','characters'].filter(f=>okF(k,f))};
 function zhVal(k,v){if(v==null)return'（無）';if(Array.isArray(v))return v.map(x=>zhVal(k,x)).join('、')||'（空）';
  if(k==='social_interaction')return SOCZH[v]||v;if(k==='social_level_0_10'){const m=LV.find(o=>o[0]===+v);return m?m[1]:String(v)}const f=FM[k];if(f){const m=f[4].find(o=>String(o[0])===String(v));if(m)return m[1]}return String(v)}
 function scoreRow(fd,onSet){return optBtns([[0,'0 完全錯'],[1,'1 大致錯'],[2,'2 大致對'],[3,'3 完全對']],v=>fd.score===v,onSet)}
@@ -272,14 +273,14 @@ function reviewChars(R){const it=itemOf(cur),g=((it.gemini||{}).characters)||[];
  const a=el('button','btn add','＋ 新增 Gemini 遺漏的角色');a.onclick=()=>{fd.added=fd.added||[];fd.added.push({});save();renderForm()};c.append(a);c.append(freeBox(fd));return c}
 // ---------------- form/nav
 function renderForm(){const R=rec(cur),F0=$('#form');const y=window.scrollY;F0.innerHTML='';
- if(mode==='blind'){F.forEach(f=>F0.append(blindField(f,R)));
+ if(mode==='blind'){F.filter(f=>okF(cur,f[0])).forEach(f=>F0.append(blindField(f,R)));
   F0.append(rowsCard(R,'social','社交互動（每組互動一列）','每一組角色之間的互動填一列，其他按「＋」新增。',newSoc,drawSoc,'本片段沒有社交互動'));
   if(['dme','dmh'].includes(film))F0.append(lightCard(R));
   F0.append(rowsCard(R,'characters','角色與情緒（每個角色一列）','依情緒儀表板點選形容詞，愉悅度／活力度由後端依詞在圖上的位置換算；其他角色按「＋」新增。',newChar,drawChar,'本片段沒有角色'))}
  else RFof(cur).forEach(k=>F0.append(k==='characters'?reviewChars(R):reviewField(k,R)));
  pager();window.scrollTo(0,y);updateFoot();
  document.querySelectorAll('#chips .chip').forEach((c,i)=>{const k=keysOf(film)[i];c.classList.toggle('done',isDone(mode,k)||(k===cur&&complete(k)))})}
-function missing(k){const R=store()[k]||{fields:{}};const keys=mode==='blind'?blindKeys():RFof(k);return keys.filter(x=>!fieldOk(x,R.fields[x]))}
+function missing(k){const R=store()[k]||{fields:{}};const keys=mode==='blind'?blindKeys(k):RFof(k);return keys.filter(x=>!fieldOk(x,R.fields[x]))}
 function complete(k){return missing(k).length===0}
 function showMissing(){const m=missing(cur);document.querySelectorAll('.card').forEach(c=>c.classList.toggle('miss',m.includes(c.dataset.k)));
  if(m.length){$('#msg').textContent=`還有 ${m.length} 項沒填完（紅框）`;const f=document.querySelector('.card.miss');if(f)f.scrollIntoView({behavior:'smooth',block:'center'})}}
