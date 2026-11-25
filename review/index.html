@@ -117,10 +117,10 @@ async function load(){S=await (await fetch('/api/state')).json();film=S.items.fi
 async function poll(){const s=await (await fetch('/api/state')).json();S.status=s.status;S.rr=s.rr;renderRR()}
 const winsOf=f=>S.items.films.find(x=>x.film===f).wids;
 const reported=w=>{const x=S.items.windows.find(y=>y.wid===w);return x&&x.dataset!=='FG'};
-const keysOf=f=>mode==='blind'?winsOf(f).filter(w=>!reported(w)):S.items.review.filter(r=>winsOf(f).includes(r.wid)).map(r=>r.id);
+const keysOf=f=>mode==='blind'?(f==='forrest'?[]:winsOf(f)).filter(w=>!reported(w)):S.items.review.filter(r=>winsOf(f).includes(r.wid)).map(r=>r.id);
 const store=()=>mode==='blind'?S.blind:S.review;
 function rec(k){const d=store();if(!d[k])d[k]={fields:{}};return d[k]}
-function blindDone(f){return winsOf(f).every(w=>reported(w)||isDone('blind',w))}
+function blindDone(f){return f==='forrest'||winsOf(f).every(w=>reported(w)||isDone('blind',w))}
 function isDone(m,k){const d=(m==='blind'?S.blind:S.review)[k];return !!(d&&d.done)}
 function render(){
  $('#modeTabs').innerHTML='';[['blind','① 盲標（先做）'],['review','② 審查 Gemini']].forEach(([m,t])=>{const b=el('button','tab'+(m===mode?' on':''),t);b.onclick=()=>{mode=m;cur=null;render()};$('#modeTabs').append(b)});
